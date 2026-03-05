@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Exploration/probe scripts
+probe_*.py
+parse_dfw*.py
+identify_tournaments.py
+search_tournaments.py
+
+# Intermediate data files
+data/dfw_*.csv
+data/dfw_*.txt
+data/jr-ranking-mar-2026.xlsx

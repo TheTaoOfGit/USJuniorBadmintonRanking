@@ -1,0 +1,178 @@
+[
+  {
+    "name": "2025 YONEX Bellevue Northwest ORC",
+    "id": "D96AD8D0-A9D8-4679-939E-82E9963A49A7",
+    "date_start": "2025-08-30",
+    "date_end": "2025-09-01",
+    "region": "NW",
+    "type": "ORC",
+    "status": "ok",
+    "rankings_count": 100,
+    "matches_count": 652
+  },
+  {
+    "name": "2025 Austin Leander South OLC",
+    "id": "376A120B-F979-495B-9799-ED548D9A1E7E",
+    "date_start": "2025-09-20",
+    "date_end": "2025-09-21",
+    "region": "South",
+    "type": "OLC",
+    "status": "ok",
+    "rankings_count": 88,
+    "matches_count": 302
+  },
+  {
+    "name": "2025 YONEX LIBC Northeast ORC",
+    "id": "40CE63A2-430A-4C56-80C7-2DBD701A9019",
+    "date_start": "2025-10-11",
+    "date_end": "2025-10-13",
+    "region": "NE",
+    "type": "ORC",
+    "status": "ok",
+    "rankings_count": 100,
+    "matches_count": 709
+  },
+  {
+    "name": "2025 YONEX Synergy NorCal ORC",
+    "id": "A3D197AE-C74C-41BF-9C66-F91B7576B77A",
+    "date_start": "2025-11-08",
+    "date_end": "2025-11-10",
+    "region": "NorCal",
+    "type": "ORC",
+    "status": "ok",
+    "rankings_count": 99,
+    "matches_count": 1036
+  },
+  {
+    "name": "2025 Egret Midwest OLC",
+    "id": "F1D5FE50-3A8A-4C5A-8A55-71BE130B6EC3",
+    "date_start": "2025-11-22",
+    "date_end": "2025-11-23",
+    "region": "MW",
+    "type": "OLC",
+    "status": "ok",
+    "rankings_count": 100,
+    "matches_count": 201
+  },
+  {
+    "name": "2025 Schafer SLG South OLC",
+    "id": "75548892-B29A-420B-9951-973C8C9F2D68",
+    "date_start": "2025-11-29",
+    "date_end": "2025-11-30",
+    "region": "South",
+    "type": "OLC",
+    "status": "ok",
+    "rankings_count": 88,
+    "matches_count": 263
+  },
+  {
+    "name": "2025 Fortius South CRC",
+    "id": "22C92233-478E-4239-BCF3-A3A9A054BA2C",
+    "date_start": "2025-12-05",
+    "date_end": "2025-12-07",
+    "region": "South",
+    "type": "CRC",
+    "status": "ok",
+    "rankings_count": 84,
+    "matches_count": 221
+  },
+  {
+    "name": "2025 SGVBC SoCal CRC",
+    "id": "FEAC4C02-C295-4225-AA82-CFCBA83B2834",
+    "date_start": "2025-12-06",
+    "date_end": "2025-12-07",
+    "region": "SoCal",
+    "type": "CRC",
+    "status": "ok",
+    "rankings_count": 90,
+    "matches_count": 205
+  },
+  {
+    "name": "2025 Capital NE OLC",
+    "id": "86C3EAAF-BA94-42DB-9110-7CD31A5810FD",
+    "date_start": "2025-12-12",
+    "date_end": "2025-12-14",
+    "region": "NE",
+    "type": "OLC",
+    "status": "ok",
+    "rankings_count": 84,
+    "matches_count": 260
+  },
+  {
+    "name": "2025 Peak Sports South OLC",
+    "id": "66D14DB5-408F-4C65-8400-9E916F6FA5DD",
+    "date_start": "2025-12-20",
+    "date_end": "2025-12-21",
+    "region": "South",
+    "type": "OLC",
+    "status": "ok",
+    "rankings_count": 93,
+    "matches_count": 203
+  },
+  {
+    "name": "2026 Wayside NE CRC",
+    "id": "937ACE29-5F1C-4E39-B3FC-DE5DC9F67A6E",
+    "date_start": "2026-01-03",
+    "date_end": "2026-01-04",
+    "region": "NE",
+    "type": "CRC",
+    "status": "ok",
+    "rankings_count": 94,
+    "matches_count": 200
+  },
+  {
+    "name": "2026 CBA Midwest OLC",
+    "id": "58FD9D91-2FE9-4613-9E59-6D56ADE8BF5B",
+    "date_start": "2026-01-10",
+    "date_end": "2026-01-11",
+    "region": "MW",
+    "type": "OLC",
+    "status": "ok",
+    "rankings_count": 94,
+    "matches_count": 142
+  },
+  {
+    "name": "2026 YONEX Arena SoCal ORC",
+    "id": "239635E4-C300-4F6A-A364-7062F0430F30",
+    "date_start": "2026-01-17",
+    "date_end": "2026-01-19",
+    "region": "SoCal",
+    "type": "ORC",
+    "status": "ok",
+    "rankings_count": 100,
+    "matches_count": 974
+  },
+  {
+    "name": "2026 YONEX DFW Badminton South ORC",
+    "id": "4C4A21C2-E62B-4448-8B0D-12AEE6263B99",
+    "date_start": "2026-02-14",
+    "date_end": "2026-02-16",
+    "region": "South",
+    "type": "ORC",
+    "status": "ok",
+    "rankings_count": 100,
+    "matches_count": 1048
+  },
+  {
+    "name": "2026 Dave Freeman Jr. SoCal OLC",
+    "id": "45D5792F-78E5-43B1-8D72-898357052913",
+    "date_start": "2026-02-20",
+    "date_end": "2026-02-22",
+    "region": "SoCal",
+    "type": "OLC",
+    "status": "ok",
+    "rankings_count": 85,
+    "matches_count": 154
+  },
+  {
+    "name": "2026 Seattle NW CRC",
+    "id": "EF556B64-3B34-438D-853D-8812143EC357",
+    "date_start": "2026-02-21",
+    "date_end": "2026-02-22",
+    "region": "NW",
+    "type": "CRC",
+    "status": "ok",
+    "rankings_count": 91,
+    "matches_count": 146
+  }
+]
