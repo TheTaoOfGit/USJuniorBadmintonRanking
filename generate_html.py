@@ -154,7 +154,7 @@ for age in AGE_ORDER:
             player_name = r["player"]
             slug = player_slugs.get(player_name)
             if slug:
-                player_html = f'<a href="players/{slug}.html" style="color:inherit;text-decoration:none;border-bottom:1px dashed #ccc">{escape(player_name)}</a>'
+                player_html = f'<a href="player.html?id={slug}" style="color:inherit;text-decoration:none;border-bottom:1px dashed #ccc">{escape(player_name)}</a>'
             else:
                 player_html = escape(player_name)
             html_parts.append(

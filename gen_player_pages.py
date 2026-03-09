@@ -1,14 +1,19 @@
-"""Generate individual HTML player pages with AI-style summaries and full results."""
+"""Generate player data JSON files + a single player.html template.
+
+Instead of 3,833 individual HTML files, we output:
+  - data/players/players_a.json .. players_z.json (+ players_other.json)
+  - player.html (single template that loads JSON client-side via ?id=slug)
+"""
 import sys, io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
-import csv, os, re
+import csv, os, re, json
 from collections import defaultdict
 from html import escape
 
 DRAWS_DIR = "data/draws"
-OUT_DIR = "players"
-os.makedirs(OUT_DIR, exist_ok=True)
+JSON_DIR = "data/players"
+os.makedirs(JSON_DIR, exist_ok=True)
 
 # ── Load all results ─────────────────────────────────────────────────────────
 def load_all_results():
@@ -494,154 +499,94 @@ def generate_summary(name, results):
     return "\n".join(f"<p>{p}</p>" for p in paras)
 
 
-# ── HTML Template ────────────────────────────────────────────────────────────
-def generate_player_html(name, results):
+# ── Build player data for JSON ────────────────────────────────────────────────
+def build_player_data(name, results):
+    """Build a JSON-serializable dict for a player."""
     results_sorted = sorted(results, key=lambda r: r['dates'].split('/')[0])
     seasons = defaultdict(list)
     for r in results_sorted:
         seasons[get_season(r['dates'].split('/')[0])].append(r)
 
     summary = generate_summary(name, results)
-    slug = slugify(name)
 
     month_names = ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
                    'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 
-    # Count stats for header
     wins = sum(1 for r in results if int(r['rank_lo']) == 1)
     finals_count = sum(1 for r in results if int(r['rank_lo']) == 2)
     semis_count = sum(1 for r in results if int(r['rank_lo']) in [3, 4])
     tournaments = len(set(r['tournament'] for r in results))
 
-    html = f'''<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{escape(name)} — USA Badminton Junior Results</title>
-<style>
-* {{ box-sizing: border-box; margin: 0; padding: 0; }}
-body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; color: #333; }}
-.header {{ background: linear-gradient(135deg, #1a3a5c, #2d6aa0); color: white; padding: 24px 20px; }}
-.header h1 {{ font-size: 26px; margin-bottom: 4px; }}
-.header p {{ opacity: 0.8; font-size: 14px; }}
-.back-link {{ color: rgba(255,255,255,0.8); text-decoration: none; font-size: 14px; display: inline-block; margin-bottom: 8px; }}
-.back-link:hover {{ color: white; }}
-.container {{ max-width: 1000px; margin: 0 auto; padding: 20px; }}
-.stats-bar {{ display: flex; gap: 16px; margin: 16px 0; flex-wrap: wrap; }}
-.stat-box {{ background: white; border-radius: 8px; padding: 16px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; flex: 1; min-width: 100px; }}
-.stat-box .num {{ font-size: 28px; font-weight: 700; color: #2d6aa0; }}
-.stat-box .label {{ font-size: 12px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }}
-.stat-box.gold .num {{ color: #d4a017; }}
-.summary {{ background: white; border-radius: 8px; padding: 24px; margin: 16px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); line-height: 1.7; }}
-.summary p {{ margin-bottom: 12px; }}
-.summary p:last-child {{ margin-bottom: 0; }}
-.disclaimer {{ background: #fef9e7; border: 1px solid #f0e0a0; border-radius: 6px; padding: 10px 16px; margin: 12px 0; font-size: 12px; color: #856404; }}
-.season-header {{ font-size: 18px; font-weight: 700; color: #1a3a5c; margin: 24px 0 8px; padding-bottom: 4px; border-bottom: 2px solid #2d6aa0; }}
-table {{ width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 16px; }}
-th {{ background: #1a3a5c; color: white; padding: 10px 12px; text-align: left; font-size: 13px; font-weight: 600; }}
-td {{ padding: 8px 12px; border-bottom: 1px solid #f0f0f0; font-size: 14px; }}
-tr:hover {{ background: #f8fbff; }}
-tr.winner {{ background: #fef9e7; }}
-tr.winner:hover {{ background: #fdf0c8; }}
-.rank-1 {{ color: #d4a017; font-weight: 700; }}
-.rank-top {{ color: #1a3a5c; font-weight: 700; }}
-.rank-mid {{ color: #555; }}
-@media (max-width: 768px) {{
-  .stats-bar {{ gap: 8px; }}
-  .stat-box {{ padding: 12px; }}
-  .stat-box .num {{ font-size: 22px; }}
-  td, th {{ padding: 6px 8px; font-size: 13px; }}
-}}
-</style>
-</head>
-<body>
-<div class="header">
-  <a href="index.html" class="back-link">&larr; Back to Rankings</a>
-  <h1>{escape(name)}</h1>
-  <p>{len(results)} results across {tournaments} tournaments</p>
-</div>
-<div class="container">
-  <div class="stats-bar">
-    <div class="stat-box gold"><div class="num">{wins}</div><div class="label">Titles</div></div>
-    <div class="stat-box"><div class="num">{finals_count}</div><div class="label">Finals</div></div>
-    <div class="stat-box"><div class="num">{semis_count}</div><div class="label">Semifinals</div></div>
-    <div class="stat-box"><div class="num">{tournaments}</div><div class="label">Tournaments</div></div>
-    <div class="stat-box"><div class="num">{len(seasons)}</div><div class="label">Seasons</div></div>
-  </div>
-
-  <div class="summary">
-    {summary}
-  </div>
-  <div class="disclaimer">
-    &#9888; This summary is AI-generated based on tournament draw data. Results may contain errors due to name parsing in doubles events, age group splits across venues, or data entry variations. Always verify with official USA Badminton records.
-  </div>
-'''
-
+    # Build season rows
+    season_data = {}
     for season in sorted(seasons.keys()):
-        rows = seasons[season]
-        html += f'  <div class="season-header">Season {season}</div>\n'
-        html += '  <table>\n'
-        html += '    <tr><th>Tournament</th><th>Date</th><th>Event</th><th>Partner</th><th>Seed</th><th>Rank</th><th>Round</th></tr>\n'
-
-        for r in rows:
+        rows = []
+        for r in seasons[season]:
             start = r['dates'].split('/')[0]
             y, m, d = start.split('-')
             date_str = f"{month_names[int(m)]} {y}"
-            partner = parse_partner(r['player'], name) or '&mdash;'
+            partner = parse_partner(r['player'], name) or None
             rank_str = format_rank(r['rank_lo'], r['rank_hi'])
             seed = r['seed'] if r['seed'] else ''
-            elim = r['elim_round']
             rank_lo = int(r['rank_lo'])
 
-            row_class = ' class="winner"' if rank_lo == 1 else ''
-            if rank_lo == 1:
-                rank_cell = f'<span class="rank-1">&#127942; {rank_str}</span>'
-            elif rank_lo <= 4:
-                rank_cell = f'<span class="rank-top">{rank_str}</span>'
-            else:
-                rank_cell = f'<span class="rank-mid">{rank_str}</span>'
+            # Check if partner has a page
+            partner_clean = clean_name(partner) if partner else None
+            partner_slug = slugify(partner_clean) if partner_clean and partner_clean in unique_players else None
 
-            # Link partner to their page if they exist
-            partner_clean = clean_name(partner) if partner != '&mdash;' else None
-            if partner_clean and partner_clean in unique_players:
-                partner_display = f'<a href="{slugify(partner_clean)}.html" style="color:#2d6aa0;text-decoration:none">{escape(partner_clean)}</a>'
-            else:
-                partner_display = escape(partner) if partner != '&mdash;' else '&mdash;'
+            rows.append({
+                't': r['tournament'],
+                'd': date_str,
+                'e': r['event'],
+                'p': partner_clean or partner,
+                'ps': partner_slug,
+                's': seed,
+                'r': rank_str,
+                'rl': rank_lo,
+                'el': r['elim_round'],
+            })
+        season_data[season] = rows
 
-            html += f'    <tr{row_class}><td>{escape(r["tournament"])}</td><td>{date_str}</td><td>{r["event"]}</td>'
-            html += f'<td>{partner_display}</td><td>{seed}</td><td>{rank_cell}</td><td>{elim}</td></tr>\n'
+    return {
+        'name': name,
+        'slug': slugify(name),
+        'summary': summary,
+        'stats': {
+            'wins': wins,
+            'finals': finals_count,
+            'semis': semis_count,
+            'tournaments': tournaments,
+            'seasons': len(seasons),
+            'entries': len(results),
+        },
+        'seasons': season_data,
+    }
 
-        html += '  </table>\n'
 
-    html += '''
-  <div class="disclaimer" style="margin-top: 24px;">
-    Data sourced from <a href="https://www.tournamentsoftware.com" style="color:#856404">tournamentsoftware.com</a> via USA Badminton tournament draws.
-    Player pages generated automatically &mdash; report issues at the source.
-  </div>
-</div>
-</body>
-</html>'''
-
-    return html
-
-
-# ── Generate all pages ───────────────────────────────────────────────────────
-print(f"Generating {len(unique_players)} player pages...")
+# ── Generate JSON files by first letter ──────────────────────────────────────
+print(f"Building data for {len(unique_players)} players...")
+# Group players by first letter of slug
+letter_groups = defaultdict(dict)
 count = 0
 for name in sorted(unique_players):
     results = player_results.get(name, [])
     if not results:
         continue
     slug = slugify(name)
-    html = generate_player_html(name, results)
-    with open(os.path.join(OUT_DIR, f"{slug}.html"), 'w', encoding='utf-8') as f:
-        f.write(html)
+    letter = slug[0] if slug and slug[0].isalpha() else '_'
+    data = build_player_data(name, results)
+    letter_groups[letter][slug] = data
     count += 1
     if count % 500 == 0:
-        print(f"  {count} pages generated...")
+        print(f"  {count} players processed...")
 
-print(f"Done! {count} player pages saved to {OUT_DIR}/")
+# Write JSON files
+for letter, players in sorted(letter_groups.items()):
+    out_path = os.path.join(JSON_DIR, f"players_{letter}.json")
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(players, f, ensure_ascii=False)
+
+print(f"Done! {count} players saved to {len(letter_groups)} JSON files in {JSON_DIR}/")
 
 # ── Save player slug mapping for generate_html.py ───────────────────────────
 with open('data/player_slugs.csv', 'w', newline='', encoding='utf-8') as f:
@@ -651,3 +596,129 @@ with open('data/player_slugs.csv', 'w', newline='', encoding='utf-8') as f:
         if player_results.get(name):
             w.writerow([name, slugify(name)])
 print(f"Slug mapping saved to data/player_slugs.csv")
+
+# ── Generate single player.html template ─────────────────────────────────────
+PLAYER_HTML = r'''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Player — USA Badminton Junior Results</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; color: #333; }
+.header { background: linear-gradient(135deg, #1a3a5c, #2d6aa0); color: white; padding: 24px 20px; }
+.header h1 { font-size: 26px; margin-bottom: 4px; }
+.header p { opacity: 0.8; font-size: 14px; }
+.back-link { color: rgba(255,255,255,0.8); text-decoration: none; font-size: 14px; display: inline-block; margin-bottom: 8px; }
+.back-link:hover { color: white; }
+.container { max-width: 1000px; margin: 0 auto; padding: 20px; }
+.stats-bar { display: flex; gap: 16px; margin: 16px 0; flex-wrap: wrap; }
+.stat-box { background: white; border-radius: 8px; padding: 16px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; flex: 1; min-width: 100px; }
+.stat-box .num { font-size: 28px; font-weight: 700; color: #2d6aa0; }
+.stat-box .label { font-size: 12px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }
+.stat-box.gold .num { color: #d4a017; }
+.summary { background: white; border-radius: 8px; padding: 24px; margin: 16px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); line-height: 1.7; }
+.summary p { margin-bottom: 12px; }
+.summary p:last-child { margin-bottom: 0; }
+.disclaimer { background: #fef9e7; border: 1px solid #f0e0a0; border-radius: 6px; padding: 10px 16px; margin: 12px 0; font-size: 12px; color: #856404; }
+.season-header { font-size: 18px; font-weight: 700; color: #1a3a5c; margin: 24px 0 8px; padding-bottom: 4px; border-bottom: 2px solid #2d6aa0; }
+table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 16px; }
+th { background: #1a3a5c; color: white; padding: 10px 12px; text-align: left; font-size: 13px; font-weight: 600; }
+td { padding: 8px 12px; border-bottom: 1px solid #f0f0f0; font-size: 14px; }
+tr:hover { background: #f8fbff; }
+tr.winner { background: #fef9e7; }
+tr.winner:hover { background: #fdf0c8; }
+.rank-1 { color: #d4a017; font-weight: 700; }
+.rank-top { color: #1a3a5c; font-weight: 700; }
+.rank-mid { color: #555; }
+.loading { text-align: center; padding: 60px 20px; color: #888; font-size: 18px; }
+@media (max-width: 768px) {
+  .stats-bar { gap: 8px; }
+  .stat-box { padding: 12px; }
+  .stat-box .num { font-size: 22px; }
+  td, th { padding: 6px 8px; font-size: 13px; }
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <a href="index.html" class="back-link">&larr; Back to Rankings</a>
+  <h1 id="playerName">Loading...</h1>
+  <p id="playerSubtitle"></p>
+</div>
+<div class="container" id="content">
+  <div class="loading" id="loading">Loading player data...</div>
+</div>
+<script>
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const slug = params.get('id');
+  if (!slug) { document.getElementById('loading').textContent = 'No player specified.'; return; }
+
+  const letter = slug[0].match(/[a-z]/) ? slug[0] : '_';
+  const jsonUrl = 'data/players/players_' + letter + '.json';
+
+  fetch(jsonUrl).then(r => { if (!r.ok) throw new Error('Not found'); return r.json(); }).then(data => {
+    const p = data[slug];
+    if (!p) { document.getElementById('loading').textContent = 'Player not found.'; return; }
+    render(p);
+  }).catch(err => {
+    document.getElementById('loading').textContent = 'Could not load player data.';
+  });
+
+  function esc(s) {
+    const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML;
+  }
+
+  function render(p) {
+    document.title = p.name + ' \u2014 USA Badminton Junior Results';
+    document.getElementById('playerName').textContent = p.name;
+    document.getElementById('playerSubtitle').textContent = p.stats.entries + ' results across ' + p.stats.tournaments + ' tournaments';
+
+    const s = p.stats;
+    let html = '<div class="stats-bar">' +
+      '<div class="stat-box gold"><div class="num">' + s.wins + '</div><div class="label">Titles</div></div>' +
+      '<div class="stat-box"><div class="num">' + s.finals + '</div><div class="label">Finals</div></div>' +
+      '<div class="stat-box"><div class="num">' + s.semis + '</div><div class="label">Semifinals</div></div>' +
+      '<div class="stat-box"><div class="num">' + s.tournaments + '</div><div class="label">Tournaments</div></div>' +
+      '<div class="stat-box"><div class="num">' + s.seasons + '</div><div class="label">Seasons</div></div>' +
+      '</div>';
+
+    html += '<div class="summary">' + p.summary + '</div>';
+    html += '<div class="disclaimer">\u26a0 This summary is AI-generated based on tournament draw data. Results may contain errors due to name parsing in doubles events, age group splits across venues, or data entry variations. Always verify with official USA Badminton records.</div>';
+
+    const seasonKeys = Object.keys(p.seasons).sort();
+    for (const season of seasonKeys) {
+      html += '<div class="season-header">Season ' + esc(season) + '</div>';
+      html += '<table><tr><th>Tournament</th><th>Date</th><th>Event</th><th>Partner</th><th>Seed</th><th>Rank</th><th>Round</th></tr>';
+      for (const r of p.seasons[season]) {
+        const rc = r.rl === 1 ? ' class="winner"' : '';
+        let rankCell;
+        if (r.rl === 1) rankCell = '<span class="rank-1">\ud83c\udfc6 ' + esc(r.r) + '</span>';
+        else if (r.rl <= 4) rankCell = '<span class="rank-top">' + esc(r.r) + '</span>';
+        else rankCell = '<span class="rank-mid">' + esc(r.r) + '</span>';
+
+        let partnerCell;
+        if (r.ps) partnerCell = '<a href="player.html?id=' + r.ps + '" style="color:#2d6aa0;text-decoration:none">' + esc(r.p) + '</a>';
+        else if (r.p) partnerCell = esc(r.p);
+        else partnerCell = '\u2014';
+
+        html += '<tr' + rc + '><td>' + esc(r.t) + '</td><td>' + esc(r.d) + '</td><td>' + esc(r.e) + '</td>' +
+          '<td>' + partnerCell + '</td><td>' + esc(r.s) + '</td><td>' + rankCell + '</td><td>' + esc(r.el) + '</td></tr>';
+      }
+      html += '</table>';
+    }
+
+    html += '<div class="disclaimer" style="margin-top:24px;">Data sourced from <a href="https://www.tournamentsoftware.com" style="color:#856404">tournamentsoftware.com</a> via USA Badminton tournament draws. Player pages generated automatically \u2014 report issues at the source.</div>';
+
+    document.getElementById('content').innerHTML = html;
+  }
+})();
+</script>
+</body>
+</html>'''
+
+with open('player.html', 'w', encoding='utf-8') as f:
+    f.write(PLAYER_HTML)
+print("Generated player.html template")

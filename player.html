@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Player — USA Badminton Junior Results</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; color: #333; }
+.header { background: linear-gradient(135deg, #1a3a5c, #2d6aa0); color: white; padding: 24px 20px; }
+.header h1 { font-size: 26px; margin-bottom: 4px; }
+.header p { opacity: 0.8; font-size: 14px; }
+.back-link { color: rgba(255,255,255,0.8); text-decoration: none; font-size: 14px; display: inline-block; margin-bottom: 8px; }
+.back-link:hover { color: white; }
+.container { max-width: 1000px; margin: 0 auto; padding: 20px; }
+.stats-bar { display: flex; gap: 16px; margin: 16px 0; flex-wrap: wrap; }
+.stat-box { background: white; border-radius: 8px; padding: 16px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; flex: 1; min-width: 100px; }
+.stat-box .num { font-size: 28px; font-weight: 700; color: #2d6aa0; }
+.stat-box .label { font-size: 12px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }
+.stat-box.gold .num { color: #d4a017; }
+.summary { background: white; border-radius: 8px; padding: 24px; margin: 16px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); line-height: 1.7; }
+.summary p { margin-bottom: 12px; }
+.summary p:last-child { margin-bottom: 0; }
+.disclaimer { background: #fef9e7; border: 1px solid #f0e0a0; border-radius: 6px; padding: 10px 16px; margin: 12px 0; font-size: 12px; color: #856404; }
+.season-header { font-size: 18px; font-weight: 700; color: #1a3a5c; margin: 24px 0 8px; padding-bottom: 4px; border-bottom: 2px solid #2d6aa0; }
+table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 16px; }
+th { background: #1a3a5c; color: white; padding: 10px 12px; text-align: left; font-size: 13px; font-weight: 600; }
+td { padding: 8px 12px; border-bottom: 1px solid #f0f0f0; font-size: 14px; }
+tr:hover { background: #f8fbff; }
+tr.winner { background: #fef9e7; }
+tr.winner:hover { background: #fdf0c8; }
+.rank-1 { color: #d4a017; font-weight: 700; }
+.rank-top { color: #1a3a5c; font-weight: 700; }
+.rank-mid { color: #555; }
+.loading { text-align: center; padding: 60px 20px; color: #888; font-size: 18px; }
+@media (max-width: 768px) {
+  .stats-bar { gap: 8px; }
+  .stat-box { padding: 12px; }
+  .stat-box .num { font-size: 22px; }
+  td, th { padding: 6px 8px; font-size: 13px; }
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <a href="index.html" class="back-link">&larr; Back to Rankings</a>
+  <h1 id="playerName">Loading...</h1>
+  <p id="playerSubtitle"></p>
+</div>
+<div class="container" id="content">
+  <div class="loading" id="loading">Loading player data...</div>
+</div>
+<script>
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const slug = params.get('id');
+  if (!slug) { document.getElementById('loading').textContent = 'No player specified.'; return; }
+
+  const letter = slug[0].match(/[a-z]/) ? slug[0] : '_';
+  const jsonUrl = 'data/players/players_' + letter + '.json';
+
+  fetch(jsonUrl).then(r => { if (!r.ok) throw new Error('Not found'); return r.json(); }).then(data => {
+    const p = data[slug];
+    if (!p) { document.getElementById('loading').textContent = 'Player not found.'; return; }
+    render(p);
+  }).catch(err => {
+    document.getElementById('loading').textContent = 'Could not load player data.';
+  });
+
+  function esc(s) {
+    const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML;
+  }
+
+  function render(p) {
+    document.title = p.name + ' \u2014 USA Badminton Junior Results';
+    document.getElementById('playerName').textContent = p.name;
+    document.getElementById('playerSubtitle').textContent = p.stats.entries + ' results across ' + p.stats.tournaments + ' tournaments';
+
+    const s = p.stats;
+    let html = '<div class="stats-bar">' +
+      '<div class="stat-box gold"><div class="num">' + s.wins + '</div><div class="label">Titles</div></div>' +
+      '<div class="stat-box"><div class="num">' + s.finals + '</div><div class="label">Finals</div></div>' +
+      '<div class="stat-box"><div class="num">' + s.semis + '</div><div class="label">Semifinals</div></div>' +
+      '<div class="stat-box"><div class="num">' + s.tournaments + '</div><div class="label">Tournaments</div></div>' +
+      '<div class="stat-box"><div class="num">' + s.seasons + '</div><div class="label">Seasons</div></div>' +
+      '</div>';
+
+    html += '<div class="summary">' + p.summary + '</div>';
+    html += '<div class="disclaimer">\u26a0 This summary is AI-generated based on tournament draw data. Results may contain errors due to name parsing in doubles events, age group splits across venues, or data entry variations. Always verify with official USA Badminton records.</div>';
+
+    const seasonKeys = Object.keys(p.seasons).sort();
+    for (const season of seasonKeys) {
+      html += '<div class="season-header">Season ' + esc(season) + '</div>';
+      html += '<table><tr><th>Tournament</th><th>Date</th><th>Event</th><th>Partner</th><th>Seed</th><th>Rank</th><th>Round</th></tr>';
+      for (const r of p.seasons[season]) {
+        const rc = r.rl === 1 ? ' class="winner"' : '';
+        let rankCell;
+        if (r.rl === 1) rankCell = '<span class="rank-1">\ud83c\udfc6 ' + esc(r.r) + '</span>';
+        else if (r.rl <= 4) rankCell = '<span class="rank-top">' + esc(r.r) + '</span>';
+        else rankCell = '<span class="rank-mid">' + esc(r.r) + '</span>';
+
+        let partnerCell;
+        if (r.ps) partnerCell = '<a href="player.html?id=' + r.ps + '" style="color:#2d6aa0;text-decoration:none">' + esc(r.p) + '</a>';
+        else if (r.p) partnerCell = esc(r.p);
+        else partnerCell = '\u2014';
+
+        html += '<tr' + rc + '><td>' + esc(r.t) + '</td><td>' + esc(r.d) + '</td><td>' + esc(r.e) + '</td>' +
+          '<td>' + partnerCell + '</td><td>' + esc(r.s) + '</td><td>' + rankCell + '</td><td>' + esc(r.el) + '</td></tr>';
+      }
+      html += '</table>';
+    }
+
+    html += '<div class="disclaimer" style="margin-top:24px;">Data sourced from <a href="https://www.tournamentsoftware.com" style="color:#856404">tournamentsoftware.com</a> via USA Badminton tournament draws. Player pages generated automatically \u2014 report issues at the source.</div>';
+
+    document.getElementById('content').innerHTML = html;
+  }
+})();
+</script>
+</body>
+</html>
