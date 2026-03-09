@@ -249,20 +249,6 @@ def generate_summary(name, results):
     home_region = STATE_REGIONS.get(home_state) if home_state else None
     home_state_name = STATE_NAMES.get(home_state) if home_state else None
 
-    # Partners
-    partners = defaultdict(lambda: {'count': 0, 'wins': 0, 'events': set(), 'best': 999})
-    for r in results:
-        if is_singles(r['event']): continue
-        p = parse_partner(r['player'], name)
-        if p:
-            partners[p]['count'] += 1
-            partners[p]['events'].add(r['event'].split()[0] if ' ' in r['event'] else r['event'][:2])
-            rank_lo = int(r['rank_lo'])
-            if rank_lo == 1: partners[p]['wins'] += 1
-            if rank_lo < partners[p]['best']: partners[p]['best'] = rank_lo
-    top_partners = sorted(partners.items(), key=lambda x: -x[1]['count'])
-    num_partners = len(partners)
-
     # Seeding
     seeded_entries = [r for r in results if r['seed'] and r['seed'] not in ['', 'WC']]
     top_seeds = [r for r in seeded_entries if r['seed'] in ['1', '2']]
@@ -275,6 +261,35 @@ def generate_summary(name, results):
     earlier_season = season_keys[-2] if len(season_keys) >= 2 else None
     earlier_results = seasons.get(earlier_season, []) if earlier_season else []
     earlier_wins = [r for r in earlier_results if int(r['rank_lo']) == 1]
+
+    # Partners — track recency and seasons
+    partners = defaultdict(lambda: {'count': 0, 'wins': 0, 'events': set(), 'best': 999,
+                                     'seasons': set(), 'last_date': '', 'recent_count': 0, 'recent_wins': 0})
+    recent_two = set(season_keys[-2:]) if len(season_keys) >= 2 else set(season_keys[-1:]) if season_keys else set()
+    for r in results_sorted:
+        if is_singles(r['event']): continue
+        p = parse_partner(r['player'], name)
+        if p:
+            partners[p]['count'] += 1
+            partners[p]['events'].add(r['event'].split()[0] if ' ' in r['event'] else r['event'][:2])
+            rank_lo = int(r['rank_lo'])
+            if rank_lo == 1: partners[p]['wins'] += 1
+            if rank_lo < partners[p]['best']: partners[p]['best'] = rank_lo
+            start_date = r['dates'].split('/')[0]
+            s = get_season(start_date)
+            partners[p]['seasons'].add(s)
+            if start_date > partners[p]['last_date']:
+                partners[p]['last_date'] = start_date
+            if s in recent_two:
+                partners[p]['recent_count'] += 1
+                if rank_lo == 1: partners[p]['recent_wins'] += 1
+    # Sort by: current partner first, then by recency-weighted count
+    def partner_sort_key(item):
+        p, info = item
+        is_current = 1 if (recent_season and recent_season in info['seasons']) else 0
+        return (-is_current, -info['recent_count'], -info['count'])
+    top_partners = sorted(partners.items(), key=partner_sort_key)
+    num_partners = len(partners)
 
     # Regional diversity
     regions = set()
@@ -618,27 +633,58 @@ def generate_summary(name, results):
     # === PARTNERSHIPS ===
     if top_partners:
         partner_paras = []
-        for p, info in top_partners[:3]:
+        for p, info in top_partners[:4]:
             count = info['count']
             p_wins = info['wins']
             p_best = info['best']
+            p_seasons = len(info['seasons'])
+            is_current = recent_season and recent_season in info['seasons']
+            rc = info['recent_count']
+            rw = info['recent_wins']
             event_types = "/".join(sorted(info['events']))
-            if p_wins >= 2:
-                partner_paras.append(f"<strong>{p}</strong> — {count} events in {event_types}, "
-                                    f"producing {p_wins} titles together")
+
+            # Build a description emphasizing recency
+            tag = ""
+            if is_current and rc >= 3:
+                tag = " <em>(current primary partner)</em>"
+            elif is_current:
+                tag = " <em>(current partner)</em>"
+
+            longevity = ""
+            if p_seasons >= 3:
+                longevity = f", spanning {p_seasons} seasons"
+            elif p_seasons == 2:
+                longevity = f", across 2 seasons"
+
+            if is_current and rc >= 3 and rw >= 1:
+                partner_paras.append(f"<strong>{p}</strong>{tag} — {rc} events together this season alone "
+                                    f"with {rw} title{'s' if rw > 1 else ''}, building serious momentum "
+                                    f"({count} total events in {event_types}{longevity})")
+            elif is_current and count >= 3 and p_wins >= 2:
+                partner_paras.append(f"<strong>{p}</strong>{tag} — an ongoing partnership that keeps producing results: "
+                                    f"{p_wins} titles across {count} events in {event_types}{longevity}")
+            elif p_wins >= 2:
+                partner_paras.append(f"<strong>{p}</strong>{tag} — {count} events in {event_types}, "
+                                    f"producing {p_wins} titles together{longevity}")
             elif p_wins == 1:
-                partner_paras.append(f"<strong>{p}</strong> — {count} events, 1 title together in {event_types}")
+                partner_paras.append(f"<strong>{p}</strong>{tag} — {count} events, 1 title together in {event_types}{longevity}")
+            elif is_current and count >= 2:
+                best_str = f", best: #{p_best}" if p_best <= 8 else ""
+                partner_paras.append(f"<strong>{p}</strong>{tag} — currently teaming up in {event_types} "
+                                    f"({count} events{best_str}{longevity})")
             elif count >= 4:
                 best_str = f", best: #{p_best}" if p_best <= 8 else ""
-                partner_paras.append(f"<strong>{p}</strong> — a trusted {event_types} partner ({count} events{best_str})")
+                partner_paras.append(f"<strong>{p}</strong>{tag} — a trusted {event_types} partner ({count} events{best_str}{longevity})")
             elif count >= 2 and p_best <= 4:
-                partner_paras.append(f"<strong>{p}</strong> — {count} events in {event_types}, best: #{p_best}")
+                partner_paras.append(f"<strong>{p}</strong>{tag} — {count} events in {event_types}, best: #{p_best}{longevity}")
 
         if partner_paras:
+            # Count current partners
+            current_partners = [p for p, info in top_partners if recent_season and recent_season in info['seasons']]
             if num_partners >= 5:
                 intro = rng.choice([
-                    f"{first} has shown remarkable <strong>doubles adaptability</strong>, partnering with {num_partners} different players:",
-                    f"With {num_partners} different doubles partners across the career, {first} adapts to anyone:",
+                    f"{first} has shown remarkable <strong>doubles adaptability</strong>, partnering with {num_partners} different players across the career:",
+                    f"With {num_partners} different doubles partners over the years, {first} adapts to anyone:",
                 ])
             elif num_partners >= 3:
                 intro = f"{first} has built chemistry with several doubles partners:"
