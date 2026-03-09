@@ -1,0 +1,662 @@
+tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Rithik Rasamsetti,,NC,13,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Terence Cai,1,CA,1,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Luke Han,WC,IL,10,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Anthony Cheng Xu,,TX,5,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Seth Li,2,NJ,16,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Srineet Atluri,,NC,4,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Jonathan Wu,WC,NJ,6,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Kayden Hossain,,CA,8,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Cayden Wang,,CA,3,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Jonathan Yu,,TX,11,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Neel J Reddy,,TX,12,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Anish Sai Gunupudi,,NC,14,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Tanay Kankanala,,NC,7,13,16,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U11,Dhiraj Praveen,,NC,9,13,16,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Joanne Li,,NC,13,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Kimaya Krishna,1,VA,1,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Vivian Feng,,NJ,5,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Cindy Zhou,WC,WA,9,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Tvisha Modi,2,TX,16,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Lexuan (Sophia) Wen,,CA,3,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Mihika Jaiswal,,CA,6,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Renee R.Y. Leung,WC,CA,8,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Ivey X. Bao,,TX,4,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Alice Meng,,CA,10,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Celine Ao,,WA,12,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Mithra Sellammal Raja,,TX,14,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Dhvani Shankar,,GA,7,13,16,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Norah George,,IL,11,13,16,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U11,Shrivaishnavi Jami,,CA,15,13,16,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U11,Rithik RasamsettiJoanne Li,,NCNC,12,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U11,Seth Li [1]Kimaya Krishna,,NJVA,1,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U11,Terence Cai [2]Mihika Jaiswal,,CACA,16,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U11,Jonathan Yu [WC]Ivey X. Bao,,TXTX,7,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U11,Neel J Reddy [WC]Tvisha Modi,,TXTX,10,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U11,Jonathan WuVivian Feng,,NJNJ,3,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U11,Cayden WangMithra Sellammal Raja,,CATX,9,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U11,Kayden HossainLexuan (Sophia) Wen,,CACA,14,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U11,Luke HanAlice Meng,,ILCA,5,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U11 - Position 1-4,Kimaya KrishnaTvisha Modi,,VATX,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U11 - Position 1-4,Mihika JaiswalLexuan (Sophia) Wen,,CACA,3,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U11 - Position 1-4,Celine AoCindy Zhou,,WAWA,4,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U11 - Position 1-4,Vivian FengJosephine Yao,,NJNJ,2,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U11 - Position 5-8,Ivey X. BaoDhvani Shankar,,TXGA,4,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U11 - Position 5-8,Shrivaishnavi JamiMithra Sellammal Raja,,CATX,1,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U11 - Position 5-8,Norah GeorgeAlice Meng,,ILCA,2,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Shriyans Bhagavatula,1,CA,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Rylan Tan,3/4,CA,48,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Abhi Mandanapu,WC,CA,57,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Max Zhang,3/4,CA,17,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Justin Xia,5/8,IL,9,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Vivek Rai,5/8,CA,40,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Ish Modi,,TX,3,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Adhyaan Balaji,,TX,37,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Akshay Jalwadi,5/8,TX,25,9,12,C:Quarter Finals (W/O)
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Mihir Thaha,WC,CA,52,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Aarya Vijay,,TX,61,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Akshaj Donthi,2,VA,64,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Aagnaey Gulla Pulijal,WC,CA,23,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Prabhat Mandava,,IL,41,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Arush Shyam Chitgopkar,WC,CA,42,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Prajwal Avadhani,,CA,44,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Krish Raja,WC,CA,8,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Kelvin Zhang,,WA,13,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Benson Liang,,MI,15,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Vincent Chen,WC,IL,16,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Andy Xu Zhang,WC,CA,31,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Uddhav Kasarabada,WC,CA,33,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Nithesh Haribabu,,NC,34,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Eshan Neog,,NC,54,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Aryan Mohan,,CA,5,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Anson Chen,,CA,20,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Allen Wu,,NJ,27,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Rithik Rasamsetti,,NC,36,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Allen w Yang,,CA,46,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Manas Chintala,,CA,53,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Hao Lin,5/8,CA,56,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Eli Cui,,IL,60,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Anish Sai Gunupudi,,NC,4,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Vedanth Gundarapu,,NC,7,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Alex Wen,,CA,11,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Alexander Gu,,NJ,12,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Aarav Bhandary,,TX,19,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Noah Chien,,MD,21,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Clay Yang,,CA,24,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Eshwar Pasupathy,,NC,28,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Varin Karri,,TX,29,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Anthony Cheng Xu,,TX,32,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Anirud Veldanda,,TX,38,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Jason Yang,,CA,45,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Brendan E Chen,,IL,49,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Justin Liaw,,CA,50,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Anish Bhandary,,TX,58,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Tejo Ram Mukkamala,,NC,62,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U13,Pradyun Gowda,,CA,35,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Micah Cruz,1,NY,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Brianna Lee,3/4,CA,24,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Cassidy Yeh,WC,CA,26,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Sophia Jia,,CA,13,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Sydney Li,WC,NJ,17,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Annie Meng,,CA,8,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Angelina Chun,3/4,CA,9,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Xinyan Zeng,2,CA,32,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Chloe A Kai,WC,CA,5,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Sasha Suman,,VA,6,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Kriti Vasireddy,,CA,10,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Yalan Zhu,,CA,12,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Sai Sahasra Gajula,,CA,4,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Lydia Chao,,MD,15,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Luna Han,,IL,19,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Diyaa Sarath,,GA,29,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Vivian Jiayue Song,,WA,3,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Meghana Nishant,,CA,16,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Radhika Birur,,TX,18,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Nishitha Reddy,,IL,21,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Hasini Gajjala,,TX,23,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Jennifer Bangcaya,,CA,27,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Savannah H Kam,,TX,28,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Aadya Pitani,,VA,30,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Joanne Li,,NC,7,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Camellia Wang,,CA,11,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Sophia Lin,WC,IL,14,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Nidhi Sujin,,CA,20,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Ritika Balwalli,,FL,22,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Renee R.Y. Leung,,CA,25,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U13,Aditi Gummadi,,IL,31,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Rylan Tan [1]Micah Cruz,,CANY,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Shriyans Bhagavatula [2]Xinyan Zeng,,CACA,32,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Akshaj Donthi [3/4]Sydney Li,,VANJ,24,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Max Zhang [3/4]Brianna Lee,,CACA,9,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Arush Shyam ChitgopkarSai Sahasra Gajula,,CACA,12,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Mihir Thaha [WC]Meghana Nishant,,CACA,16,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Prabhat MandavaAditi Gummadi,,ILIL,11,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Uddhav KasarabadaSasha Suman,,CAVA,30,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Hao Lin [WC]Chloe A Kai,,CACA,7,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Adhyaan BalajiRadhika Birur,,TXTX,8,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Kelvin Zhang [WC]Annie Meng,,WACA,17,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Justin Xia [WC]Luna Han,,ILIL,28,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Andy Xu ZhangSophia Jia,,CACA,18,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Manas ChintalaAngelina Chun,,CACA,19,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Anson ChenYalan Zhu,,CACA,26,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Aagnaey Gulla PulijalKriti Vasireddy,,CACA,29,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Allen WuNidhi Sujin,,NJCA,3,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Anirud VeldandaSavannah H Kam,,TXTX,4,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Jason YangVivian Jiayue Song,,CAWA,5,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Eli CuiNishitha Reddy,,ILIL,13,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Brendan E ChenSophia Lin,,ILIL,15,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Akshay JalwadiHasini Gajjala,,TXTX,21,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Justin LiawLydia Chao,,CAMD,22,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Krish RajaJennifer Bangcaya,,CACA,25,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U13,Alex WenCamellia Wang,,CACA,20,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Akshaj Donthi [2]Rylan Tan,,VACA,32,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Shriyans Bhagavatula [1]Max Zhang,,CACA,1,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Adhyaan Balaji [WC]Akshay Jalwadi,,TXTX,15,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Abhi Mandanapu [WC]Vivek Rai,,CACA,18,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Arush Shyam Chitgopkar [WC]Uddhav Kasarabada,,CACA,7,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Pradyun Gowda [3/4]Mihir Thaha,,CACA,24,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Prabhat Mandava [WC]Justin Xia,,ILIL,26,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Ish ModiAagnaey Gulla Pulijal,,TXCA,30,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Tejo Ram MukkamalaEshan Neog,,NCNC,5,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Andy Xu Zhang [3/4]Kelvin Zhang,,CAWA,9,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Vincent ChenEli Cui,,ILIL,17,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Prajwal AvadhaniManas Chintala,,CACA,20,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Noah ChienAlexander Gu,,MDNJ,3,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Varin KarriAarya Vijay,,TXTX,8,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Vedanth GundarapuBenson Liang,,NCMI,11,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Krish RajaAllen w Yang,,CACA,22,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Anirud VeldandaJason Yang,,TXCA,13,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Justin LiawClay Yang,,CACA,16,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Aarav BhandaryAnish Bhandary,,TXTX,21,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Anson ChenAllen Wu,,CANJ,25,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U13,Brendan E ChenAlex Wen,,ILCA,28,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Sydney Li [1]Xinyan Zeng,,NJCA,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Micah Cruz [2]Cassidy Yeh,,NYCA,16,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Lydia ChaoSasha Suman,,MDVA,12,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Angelina ChunSophia Jia,,CACA,7,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Chloe A KaiMeghana Nishant,,CACA,3,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Radhika BirurHasini Gajjala,,TXTX,4,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Sai Sahasra Gajula [WC]Kriti Vasireddy,,CACA,5,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Luna HanAnnie Meng,,ILCA,8,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Aditi Gummadi [WC]Diyaa Sarath,,ILGA,9,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Savannah H KamNidhi Sujin,,TXCA,11,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Jennifer BangcayaYalan Zhu,,CACA,13,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Celine AoCindy Zhou,,WAWA,14,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U13,Vivian Jiayue SongCamellia Wang,,WACA,10,13,16,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Linden Wang,1,CA,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Garret Tan,5/8,CA,56,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Calvin Zhou,WC,CA,36,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Arav Siddharth Mestry,,CA,20,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,William Kaiming Ye,2,CA,64,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Kevin Zhou,3/4,CA,17,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Wufan Zhang,,TX,14,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Kameran Hossain,,CA,45,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,David Zuo,WC,WA,16,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Alex He,WC,TX,24,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Ben Tirtohadi,5/8,CA,25,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Srijan Challapalli,3/4,VA,48,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Layton Wen,,CA,27,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Atharva Gulla Pulijal,WC,CA,30,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Tian Qi Alan Zhang,,CA,32,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Ronith A Manikonda,5/8,IL,40,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Matthew Lei,WC,NJ,5,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Nihal Kadamba,5/8,CA,9,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Shloak Eshan Kulkarni,WC,WA,44,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Shaunak Misra,,TX,49,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Vyom Mehrotra,,NJ,54,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Ansen Liu,WC,TX,57,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Rocky Yang,,CA,58,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Cory Fan,,CA,60,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Youshi Chen,,CA,4,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Alex Anlai Song,,WA,11,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Darren Teu,,TX,15,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Justin Han,,CA,21,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Suraj Rajesh Kumar,,CA,22,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Vivek Rai,,CA,28,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Raghu Paladugu,,NY,34,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Caden Wang,,CA,62,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Vishwa Rajan,,GA,3,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Tirth Brahmbhatt,,IL,7,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Nathan Chien,,MD,8,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Siddharth Chowdary Gundarapu,,NC,12,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Stanley Yucheng Xing,,CA,19,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Aditya Kotaru,,TX,31,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Arnav Tiwari,,TX,35,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Rajat Rawat,,CA,37,33,48,C:Round 2 (W/O)
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Aryan Mohan,,CA,38,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Saatvik B. Sunilraj,,VA,41,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Zeyue Du,,VA,42,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Ian Yip,WC,NJ,50,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Lee Xianhao Song,,WA,51,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Nithesh Haribabu,,NC,53,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,William Zeng,,NJ,61,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Pradyun Rasamsetti,,NC,13,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Ethan YS Ao,,WA,23,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Tejo Ram Mukkamala,,NC,29,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Pradyun Gowda,,CA,33,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Prateek Hanumappanahalli,,GA,43,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Joseph Joshy,,WA,46,49,64,C:Round 1 (W/O)
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,James Xu,,NC,52,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U15,Eshan Neog,,NC,59,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Alice Y Wang,1,CA,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Emma Wei,3/4,CA,48,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Angela Ye,WC,CA,30,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Mia K Hundley,2,CA,64,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Audrey Chang,WC,CA,35,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Nicole Krawczyk,WC,CA,44,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Hebe Wang,WC,CA,21,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Ardra Mohan,,CA,45,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Emily Liu,5/8,CA,9,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Bettie Huang,3/4,CA,17,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Ella Mak,,CA,23,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Suneri Krishna Chinthalapati,5/8,CA,56,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Katheen Li,,CA,36,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Scarlett Yu,,TX,37,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Vera Lin,5/8,CA,40,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Yaorui Shan,,CA,58,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Vivian Shi,,CA,4,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Kelly Vance,,CT,5,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Sophia Wu,,NJ,11,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Carissa M Chen,WC,IL,16,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Hannah George,5/8,IL,25,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Jessica Wu,,CA,49,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Chang He,WC,CA,52,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Cassidy Yeh,WC,CA,60,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Rubie Liu,,CA,3,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Serena Yang,,TX,13,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Prutha Ramaprakas Bharadwaj,,CA,20,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Jennifer Xu,,MA,24,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Eva Wang,,CA,28,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Anvitha B Ranganna,,NC,29,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Arushi Raghavendra,,VA,54,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Elizabeth Chen,,NJ,57,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Meggie Chang,WC,MD,7,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Ritusha Bhargava,,NC,8,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Riya Suresh,,TX,12,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Virthiha Selvamuthukumaran,,GA,15,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Anusri Poreddy,,NC,19,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Tiffany C Sun,,IL,27,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Grace Hu,,TX,31,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Sahasra Kommineni,,MA,34,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Aadya Pitani,,VA,38,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Apurva Nekkalapudi,,NC,41,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Diya Suresh,,TX,42,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Yelang Lee,,IL,46,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Veronica Carol Ornatsky,,IL,50,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Anjali Abhilash,,CA,53,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Anvita Jamsandekar,,CA,61,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Diyaa Sarath,,GA,62,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Ritika Balwalli,,FL,32,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U15,Reina Subramanian,,CA,33,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Linden Wang [3/4]Mia K Hundley,,CACA,17,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Arden Q LeeVivian Shi,,CACA,46,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Garret Tan [1]Emma Wei,,CACA,1,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Kevin Zhou [2]Vera Lin,,CACA,64,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Ben Tirtohadi [WC]Ella Mak,,CACA,44,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Tian Qi Alan ZhangAudrey Chang,,CACA,42,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,William Kaiming Ye [5/8]Hebe Wang,,CACA,9,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Cory Fan [5/8]Angela Ye,,CACA,40,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Layton WenChang He,,CACA,23,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Srijan Challapalli [5/8]Bettie Huang,,VACA,25,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Calvin ZhouEmily Liu,,CACA,49,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Rocky Yang [WC]Nicole Krawczyk,,CACA,60,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Ethan YS AoRubie Liu,,WACA,3,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Darren TeuYelang Lee,,TXIL,36,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Nihal Kadamba [5/8]Suneri Krishna Chinthalapati,,CACA,56,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Justin HanArida Narayan,,CACA,58,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,William ZengElizabeth Chen,,NJNJ,7,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Zeyue DuMeggie Chang,,VAMD,11,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Vyom MehrotraSophia Wu,,NJNJ,13,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Matthew LeiJennifer Xu,,NJMA,19,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Alex He [WC]Scarlett Yu,,TXTX,29,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Wufan ZhangSerena Yang,,TXTX,31,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Caden Wang [WC]Yaorui Shan,,CACA,34,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Atharva Gulla Pulijal [WC]Carissa M Chen,,CAIL,52,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Ian Yip [WC]Jessica Wu,,NJCA,15,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Ansen Liu [WC]Eva Wang,,TXCA,21,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Alex Anlai SongSahasra Kommineni,,WAMA,27,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Suraj Rajesh KumarAnjali Abhilash,,CACA,38,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Ronith A Manikonda [3/4]Hannah George,,ILIL,48,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Saatvik B. SunilrajArushi Raghavendra,,VAVA,54,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Tirth BrahmbhattTiffany C Sun,,ILIL,62,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,James XuGrace Hu,,NCTX,16,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Kameran HossainReina Subramanian,,CACA,32,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Stanley Yucheng XingPrutha Ramaprakas Bharadwaj,,CACA,33,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Nathan ChienKelly Vance,,MDCT,50,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U15,Rajat Rawat [WC]Anvita Jamsandekar,,CACA,5,49,64,C:Round 1 (W/O)
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Garret Tan [WC]Tian Qi Alan Zhang,,CACA,17,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Arden Q Lee [WC]Calvin Zhou,,CACA,5,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Linden Wang [2]Kevin Zhou,,CACA,32,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Ben Tirtohadi [WC]Caden Wang,,CACA,16,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Arav Siddharth MestryRajat Rawat,,CACA,22,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Youshi Chen [3/4]David Zuo,,CAWA,24,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Cory Fan [3/4]Matthew Lei,,CANJ,9,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Atharva Gulla PulijalStanley Yucheng Xing,,CACA,25,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Srijan Challapalli [1]Ronith A Manikonda,,VAIL,1,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Layton WenRocky Yang,,CACA,7,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Ethan YS AoAlex Anlai Song,,WAWA,11,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Aditya KotaruShaunak Misra,,TXTX,29,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Kameran HossainSuraj Rajesh Kumar,,CACA,3,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Alex HeAnsen Liu,,TXTX,20,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Shloak Eshan Kulkarni [WC]Vyom Mehrotra,,WANJ,28,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Pradyun RasamsettiArnav Tiwari,,NCTX,8,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Nathan ChienZeyue Du,,MDVA,12,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Prateek HanumappanahalliVishwa Rajan,,GAGA,13,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Darren TeuIan Yip,,TXNJ,15,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Saatvik B. SunilrajJames Xu,,VANC,18,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Tirth BrahmbhattLee Xianhao Song,,ILWA,21,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Siddharth Chowdary GundarapuWufan Zhang,,NCTX,26,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U15,Hao LinWilliam Zeng,,CANJ,30,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Mia K Hundley [1]Emma Wei,,CACA,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Bettie Huang [2]Emily Liu,,CACA,32,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Vera Lin [3/4]Hebe Wang,,CACA,24,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Suneri Krishna Chinthalapati [3/4]Hannah George,,CAIL,9,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Katheen Li [WC]Vivian Shi,,CACA,15,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Yaorui Shan [WC]Angela Ye,,CACA,26,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Meggie Chang [WC]Carissa M Chen,,MDIL,5,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Chang He [WC]Jessica Wu,,CACA,17,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Elizabeth ChenSahasra Kommineni,,NJMA,7,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Sophia WuJennifer Xu,,NJMA,18,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Rubie LiuEva Wang,,CACA,20,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Ardra MohanArida Narayan,,CACA,28,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Grace HuSerena Yang,,TXTX,3,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Diya SureshRiya Suresh,,TXTX,11,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Anjali AbhilashKelly Vance,,CACT,22,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Ritusha BhargavaAnvitha B Ranganna,,NCNC,30,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Prutha Ramaprakas BharadwajReina Subramanian,,CACA,8,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Anusri PoreddyArushi Raghavendra,,NCVA,13,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Sophia LinTiffany C Sun,,ILIL,16,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U15,Yelang LeeVeronica Carol Ornatsky,,ILIL,25,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Robert Shekhtman,3/4,MA,48,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Kyle Wang,WC,CA,31,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Isaac Yang,WC,CA,5,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Arthur Heng Lee,2,CA,64,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Lance Fuchia,,CA,27,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Jeffrey Chang,3/4,CA,17,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Lukas Rujia Chang,5/8,NJ,9,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Samuel Jiaoyang Li,5/8,NJ,56,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Adam Tay,WC,CA,13,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Benjamin Dictado,,CA,34,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Matthew Li,5/8,CA,40,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Samuel Wales Li,WC,CA,52,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Neil Ganguly,1,IL,1,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Ved Vedere,,CA,21,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Weslie Chen,,CA,42,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Daniel Wu,,CA,59,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Dhruva Singh,,CA,11,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Chris Wu,,NJ,24,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Jerry Yuan,5/8,CA,25,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Thanik Bharani,,CA,35,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Michael Xu,WC,MA,43,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Jaden Seangmany,,CA,49,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Eric Cheng,,MA,58,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Alvin Ng,,IL,61,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Huaiyuan Ni,,IL,4,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Anish Bansal,,CA,20,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Jack Yin,,CA,26,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Jaden Jin,WC,CA,36,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Kenny Yaowen Luu,,CA,46,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Andrew Tan,,CA,51,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Alan Premkumar,,VA,54,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Kai Chong,WC,MA,57,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Madhav Karthikeyan,,NC,3,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Michael Jiang,,CA,7,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,David Zuo,,WA,8,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Adwin Sujin,,CA,12,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Alby Thomas,,TX,14,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Connor B Chan,,CA,15,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Rohan Rai,,CA,19,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Sohum Gulla Pulijal,,CA,22,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Brandon TT Han,,CA,29,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Siva Rajesh,,NC,32,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Kunal Toomu,,NC,37,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Patrick Chi,,CA,39,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Shawn Xia,,NJ,44,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Suraj Koneru,,NC,45,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Arav Siddharth Mestry,,CA,53,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Kody Seow,,CA,62,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Raghu Paladugu,,NY,6,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Ameya Kulkarni,,CA,16,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Abraham Xu,WC,CA,23,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Melvin O Thu,,NY,28,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Vishnu Pilla,,NC,30,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Nihal Kadamba,,CA,33,49,64,C:Round 1 (W/O)
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Pradyun Rasamsetti,,NC,38,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Youshi Chen,,CA,41,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Advait Ramakrishnan,,CA,50,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U17,Adithiya Gopalakrishnan Karthik,,NJ,60,49,64,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Ella Yishan Lin,2,CA,64,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Andrea Li,5/8,IL,9,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Tanvi Deshmukh,WC,CA,34,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Nicole Krawczyk,,CA,19,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Mikayla Cruz,5/8,NY,40,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Charlotte A Tse,,CA,41,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Harshita Kandambakkam,WC,CA,49,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Reanne Chan,5/8,CA,56,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Hailey Hung,,CA,5,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Carina Huang,,CA,16,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Mia Zhang,,CA,27,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Angie Huang,WC,CA,31,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Kavya Krishna,WC,VA,23,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Maggie Chen,5/8,IL,25,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Ardra Mohan,,CA,36,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Stella Pan,,MA,50,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Cindy Xin Lin,1,CA,1,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Daphne Huang,WC,CA,7,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Brianna Mia Xu,WC,CA,15,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Neha Kulkarni,,IL,21,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Annabelle Zhang,WC,MA,44,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Carolyn Zeng,3/4,NJ,48,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Lilian Shu,,CA,57,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Jennifer Cui,WC,MA,60,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Sannidhi Boppana,,CA,3,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Audrey Chang,,CA,11,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Anvita Jamsandekar,,CA,29,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Saisha Pitani,,VA,38,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Veda Gayatri Mullangi,,TX,46,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Annabelle Zhou,,CA,54,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Sammi Pan,,MA,13,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Amber Zeng,,CA,24,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Ananya Nekkalapudi,,NC,32,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Virthiha Selvamuthukumaran,,GA,33,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Apurva Nekkalapudi,,NC,42,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Elle Zeng,,IL,52,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Sruthi Perumalla,,CA,58,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Joline Siu,3/4,CA,17,49,64,C:Round 1 (W/O)
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U17,Anusha Jamsandekar,,CA,62,49,64,C:Round 1 (W/O)
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Samuel Wales LiFrancesca Corbett,,CACA,18,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Neil Ganguly [WC]Andrea Li,,ILIL,13,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Kai ChongAnnabelle Zhang,,MAMA,7,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Jerry Yuan [2]Hailey Hung,,CACA,32,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Isaac YangAngie Huang,,CACA,11,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Michael Xu [WC]Carolyn Zeng,,MANJ,8,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Kenny Yaowen LuuDaphne Huang,,CACA,19,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Adam Tay [3/4]Chloe Ho,,CACA,24,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Robert Shekhtman [1]Joline Siu,,MACA,1,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Weslie ChenSavanna Lee,,CACA,4,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Arthur Heng Lee [3/4]Ella Yishan Lin,,CACA,9,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Jeffrey Chang [WC]Reanne Chan,,CACA,26,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Alvin NgTanvi Deshmukh,,ILCA,5,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Andrew TanCarina Huang,,CACA,16,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Sohum Gulla PulijalAnusha Jamsandekar,,CACA,22,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Jack YinWenlu She,,CACA,30,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Adwin SujinAmber Zeng,,CACA,3,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Kody SeowKatheen Li,,CACA,12,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Thanik BharaniCharlotte A Tse,,CACA,14,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Kyle Wang [WC]Maggie Chen,,CAIL,17,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Matthew LiVeda Gayatri Mullangi,,CATX,21,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Lukas Rujia ChangMikayla Cruz,,NJNY,27,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Chris WuKavya Krishna,,NJVA,28,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Patrick ChiAnnabelle Zhou,,CACA,29,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Daniel WuMia Zhang,,CACA,15,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Samuel Jiaoyang LiJennifer Cui,,NJMA,20,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U17,Benjamin DictadoBrianna Mia Xu,,CACA,25,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Arthur Heng Lee [2]Jerry Yuan,,CACA,32,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Neil Ganguly [1]Michael Xu,,ILMA,1,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Weslie Chen [WC]Jack Yin,,CACA,17,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Kai Chong [WC]Alvin Ng,,MAIL,16,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Lukas Rujia Chang [3/4]Eric Cheng,,NJMA,24,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Jeffrey Chang [WC]Kyle Wang,,CACA,7,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Jaden Jin [WC]Adam Tay,,CACA,26,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Michael JiangAndrew Tan,,CACA,28,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Patrick ChiBenjamin Dictado,,CACA,5,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Matthew Li [3/4]Abraham Xu,,CACA,9,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Kody SeowDaniel Wu,,CACA,13,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Huaiyuan NiAlan Premkumar,,ILVA,21,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Sohum Gulla PulijalDhruva Singh,,CACA,3,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Ameya KulkarniAdwin Sujin,,CACA,11,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Shloak Eshan KulkarniSiva Rajesh,,WANC,14,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Chris WuShawn Xia,,NJNJ,30,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Lance FuchiaKenny Yaowen Luu,,CACA,8,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Suraj KoneruVishnu Pilla,,NCNC,12,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Anish BansalRohan Rai,,CACA,18,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Brandon TT HanAlby Thomas,,CATX,20,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Prateek HanumappanahalliVishwa Rajan,,GAGA,22,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U17,Connor B ChanAdvait Ramakrishnan,,CACA,25,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Reanne Chan [1]Chloe Ho,,CACA,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Harshita KandambakkamAllison Q Lee,,CACA,12,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Jennifer Cui [2]Angie Huang,,MACA,16,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Alice Y WangMia Zhang,,CACA,6,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Mikayla CruzAnnabelle Zhang,,NYMA,4,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Sammi PanStella Pan,,MAMA,11,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Wenlu SheLilian Shu,,CACA,3,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Hailey HungCharlotte A Tse,,CACA,5,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Maggie Chen [WC]Savanna Lee,,ILCA,8,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Cindy Xin Lin [WC]Carolyn Zeng,,CANJ,10,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Amber ZengAnnabelle Zhou,,CACA,13,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Carina HuangElla Mak,,CACA,14,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Samanvi BoppanaAnusha Jamsandekar,,CACA,7,13,16,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Neha KulkarniVeda Gayatri Mullangi,,ILTX,9,13,16,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U17,Sruthi PerumallaSaisha Pitani,,CAVA,15,13,16,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Ryan Ma,WC,CA,58,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Don HENLEY Averia,1,CA,1,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Kelvin Chong,3/4,CA,17,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Andrew S Wang,5/8,CA,40,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Adrian Mar,WC,CA,5,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Isaac Yang,,CA,36,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Nicholas Chiu,,OR,60,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Joshua J Yang,2,CA,64,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Mihir Raja,5/8,CA,9,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Presley Smith,5/8,MD,25,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Brandon m Xu,3/4,CA,48,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Alohi Sheung,WC,CA,52,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Hanson Zhang,WC,FL,15,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Thanik Bharani,,CA,49,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Huaiyuan Ni,,IL,50,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Henry Tang,5/8,CA,56,13,16,C:Round 5
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Kevin Ngo,,CA,8,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Nikhil Vasudeva,WC,NC,21,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Siva Rajesh,,NC,23,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Jaden Seangmany,,CA,24,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Ryan N Chan,,CA,28,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Aaron Low,WC,CA,31,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Andrew Yuan,WC,NJ,34,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Joshua Yuan,,CA,41,17,24,C:Round 4
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Henry K Chamberlain,,IL,3,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Shrayes Bhagavatula,,CA,11,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Ethan Xu,,CA,19,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Muhammad Mahdi Hussain,,NC,29,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Ved Vedere,,CA,37,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,James Lai,,WA,46,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Viswanath Jay Nair,,NJ,54,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Prashant Harish,,NC,62,25,32,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Nicholas W Lai,,NC,7,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Zicheng Shao,,FL,13,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Vishnu Pilla,,NC,16,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Kunal Toomu,,NC,27,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Henry Xue,,WA,32,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Madhav Karthikeyan,,NC,33,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Ryan Phan,,CA,38,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Tejas Guru Raj,,NC,42,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Jason Zhan,WC,NJ,44,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BS U19,Jay J Yang,,IL,57,33,48,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Natalie Chi,3/4,CA,24,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Bhaavya S Manikonda,1,IL,1,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Francesca Corbett,3/4,CA,9,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Ella Yishan Lin,,CA,30,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Ashley Huang,,CA,18,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Ashley Yang,WC,CA,6,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Amanda Ng,,NC,8,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Kavya Krishna,,VA,26,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Andrea Lou,,CA,3,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Yuqing Qiu,,CA,11,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Ashley Zhang,,WA,12,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Rachel Ye,WC,IL,14,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Kalea Sheung,,CA,7,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Aurchana Manickavasagan,,CA,15,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Evelyn Zeng,,NJ,19,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Shriya Chockalingam,2,CA,32,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Sumaswara Chinthalapati,,CA,4,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Taylor Chao,,MD,16,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Ruhi Raju,WC,MA,20,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Arushi Tyagi,,CA,22,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Dhriti Kommineni,,MA,23,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Sonu Manoharan,,IL,27,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Kristine Nicole Ngo,WC,CA,28,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Sanskruti Esha Kulkarni,,WA,29,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Ria Balwalli,,FL,5,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Ananya Nekkalapudi,,NC,13,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Angela Song,,WA,17,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Ema Akutsu,,IL,21,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GS U19,Brianna Mia Xu,,CA,25,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Joshua Yuan [2]Allison Q Lee,,CACA,32,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Adrian MarNatalie Chi,,CACA,11,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Henry Tang [WC]Kodi Tang Lee,,CACA,5,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Ryan MaChloe Ho,,CACA,21,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Presley Smith [3/4]Jeanette Y Yue,,MDNY,24,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Jeremy Y Chen [3/4]Nicole Alice Ju,,CACA,9,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Don HENLEY AveriaBhaavya S Manikonda,,CAIL,13,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Brandon m Xu [WC]Andrea Lou,,CACA,19,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Joshua J Yang [1]Ashley Yang,,CACA,1,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Codey MaEvelyn Zeng,,CANJ,8,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Alohi Sheung [WC]Yuqing Qiu,,CACA,27,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Jason ZhanDhriti Kommineni,,NJMA,30,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Kevin NgoKristine Nicole Ngo,,CACA,17,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Nikhil VasudevaRachel Ye,,NCIL,18,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Hanson ZhangSammi Pan,,FLMA,26,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Jay J YangSunnie Qing Li,,ILCA,29,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Franklin Y YiuAngela Song,,NJWA,3,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Muhammad Mahdi HussainTaylor Chao,,NCMD,4,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Prashant HarishEma Akutsu,,NCIL,7,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Henry XueSanskruti Esha Kulkarni,,WAWA,12,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Nicholas W LaiRadha Mukkamala,,NCNC,14,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Mihir Raja [WC]Emily Han,,CACA,15,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Andrew YuanAndrea Li,,NJIL,22,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Nicholas ChiuSonu Manoharan,,ORIL,25,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Viswanath Jay NairAshley Zhang,,NJWA,16,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Henry K ChamberlainNeha Kulkarni,,ILIL,20,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,XD U19,Kelvin ChongClaire J Chen,,CACA,28,25,32,C:Round 1
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Joshua J Yang [1]Joshua Yuan,,CACA,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Don HENLEY Averia [2]Henry Tang,,CACA,32,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Aaron Low [3/4]Adrian Mar,,CACA,9,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Kelvin Chong [3/4]Andrew S Wang,,CACA,24,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Samuel Wales LiAndrew Yuan,,CANJ,13,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Samuel Jiaoyang Li [WC]Presley Smith,,NJMD,5,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Jeremy Y Chen [WC]Alohi Sheung,,CACA,20,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Nicholas ChiuNikhil Vasudeva,,ORNC,30,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Abraham XuEthan Xu,,CACA,7,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Ryan Ma [WC]Mihir Raja,,CACA,15,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,James LaiHenry Xue,,WAWA,17,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Muhammad Mahdi Hussain [WC]Codey Ma,,NCCA,28,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Shrayes BhagavatulaViswanath Jay Nair,,CANJ,3,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Prashant HarishNicholas W Lai,,NCNC,11,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Ryan N ChanRyan Phan,,CACA,22,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Franklin Y YiuHanson Zhang,,NJFL,26,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,BD U19,Henry K ChamberlainTejas Guru Raj,,ILNC,18,17,24,C:Round 2
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Francesca Corbett [1]Allison Q Lee,,CACA,1,1,1,Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Kalea Sheung [WC]Joline Siu,,CACA,18,2,2,Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Kodi Tang Lee [3/4]Bhaavya S Manikonda,,CAIL,9,3,3,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Shriya Chockalingam [2]Nicole Alice Ju,,CACA,32,4,4,Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Claire J ChenEmily Han,,CACA,17,5,5,C:Winner
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Andrea Lou [WC]Ashley Yang,,CACA,7,6,6,C:Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Rachel Ye [3/4]Evelyn Zeng,,ILNJ,24,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Sumaswara ChinthalapatiAmanda Ng,,CANC,30,7,8,C:Semi Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Sunnie Qing LiAmber Zhang,,CACA,3,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Dhriti Kommineni [WC]Sonu Manoharan,,MAIL,13,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Sannidhi BoppanaArushi Tyagi,,CACA,22,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Yuqing Qiu [WC]Jeanette Y Yue,,CANY,26,9,12,C:Quarter Finals
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Sanskruti Esha KulkarniAshley Zhang,,WAWA,5,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Taylor ChaoAngela Song,,MDWA,11,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Ipsita JainAurchana Manickavasagan,,CACA,20,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Ema AkutsuElle Zeng,,ILIL,28,13,16,C:Round 3
+2021 U.S. Junior Nationals,2021-06-21/2021-06-28,GD U19,Samanvi BoppanaAnica Liu,,CACA,15,17,24,C:Round 2

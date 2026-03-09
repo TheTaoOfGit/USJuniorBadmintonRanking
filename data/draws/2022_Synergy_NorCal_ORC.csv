@@ -1,0 +1,778 @@
+tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Jacob Zhou,1,SCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Srineet Atluri,2,NC,32,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Kayden Hossain,WC,NCA,20,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Varish Karri,3/4,TX,9,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Vishnu Anand,,NCA,7,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Taneesh Musunuru,WC,GA,13,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Adhip Sundar,3/4,GA,24,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Haochen Zhang Li,WC,NCA,28,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Mikael Chang,,NCA,11,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Jaylen Zhou,,NCA,15,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Phillip You,,SCA,17,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Charlie W Gao,,NCA,22,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Harrison Wenyu Zhang,,NCA,26,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Ethan Qiu,,NJ,29,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Sai Ratan Shankar,,GA,3,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Prathik Nemani,WC,NCA,5,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Siddharth Gummadi,,IL,8,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Wilson Liao,,NCA,12,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Anay Pranavkuma Shah,,NCA,16,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Vivaan Jinwala,,NCA,18,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Jaden Wang,,NCA,21,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Vihaan Vinod,,NCA,25,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U11,Landon Ling,,NCA,30,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Lexuan Wen,1,NCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Sophia Sun,2,NCA,32,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Alice Meng,3/4,NCA,24,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Mihika Jaiswal,3/4,NCA,9,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Abhigna Parvathaneni,WC,NCA,5,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Stephanie Jiayi Song,WC,WA,13,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Janice Chen,WC,NCA,20,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Nityaa Jaiswal,WC,SCA,26,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Aradhana Santhosh,,GA,8,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Emily Chan,,NCA,15,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Sanjanaa V Priya,,NCA,17,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Alekhya Jalwadi,,TX,3,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Madison H Bach,,NCA,7,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Alice Luo,,NCA,11,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Netri Vasireddy,,NCA,16,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Riya Shriranga Naik,,NCA,18,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Mishka Jain,,NCA,22,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Ananya Mishra,,GA,25,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Sophia Liu,,NCA,28,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U11,Anya Virmani,,NCA,30,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Jacob Zhou [1]Sophia Sun,,SCANCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Srineet Atluri [2]Lexuan Wen,,NCNCA,16,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Mikael ChangStephanie Jiayi Song,,NCAWA,9,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Landon Ling [WC]Janice Chen,,NCANCA,5,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Prathik NemaniAbhigna Parvathaneni,,NCANCA,3,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Taneesh MusunuruNityaa Jaiswal,,GASCA,8,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Varish Karri [WC]Mihika Jaiswal,,TXNCA,12,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Ethan QiuAlice Meng,,NJNCA,13,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Adhip SundarAradhana Santhosh,,GAGA,4,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Vivaan JinwalaNetri Vasireddy,,NCANCA,7,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Jaylen ZhouAlice Luo,,NCANCA,10,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Anay Pranavkuma ShahMishka Jain,,NCANCA,11,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U11,Kayden HossainSophia Liu,,NCANCA,14,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U11,Ethan Qiu [2]Jacob Zhou,,NJSCA,16,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U11,Srineet Atluri [1]Varish Karri,,NCTX,1,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U11,Mikael Chang [WC]Kayden Hossain,,NCANCA,5,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U11,Haochen Zhang Li [WC]Landon Ling,,NCANCA,12,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U11,Siddharth GummadiJaden Wang,,ILNCA,10,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U11,Vishnu AnandPrathik Nemani,,NCANCA,3,9,16,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U11,Taneesh MusunuruSai Ratan Shankar,,GAGA,7,9,16,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U11,Vivaan JinwalaHarrison Wenyu Zhang,,NCANCA,9,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U11,Charlie W GaoJaylen Zhou,,NCANCA,14,9,16,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U11,Mihika Jaiswal [1]Lexuan Wen,,NCANCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U11,Stephanie Jiayi Song [2]Sophia Sun,,WANCA,8,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U11,Janice Chen [WC]Abhigna Parvathaneni,,NCANCA,6,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U11,Ananya MishraAradhana Santhosh,,GAGA,4,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U11,Nityaa JaiswalAlekhya Jalwadi,,SCATX,2,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U11,Sophia Liu [WC]Alice Luo,,NCANCA,3,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U11,Netri VasireddyAnya Virmani,,NCANCA,5,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U11,Madison H BachEmily Chan,,NCANCA,7,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Yifan Liu,2,NCA,64,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Aarya Vijay,3/4,TX,17,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Terence Cai,3/4,NCA,48,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Vincent Chen,1,IL,1,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Jayden Mar,,NCA,15,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Alex Wen,5/8,NCA,25,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Anirud Veldanda,5/8,TX,40,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Gavin Le,,SCA,50,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Anish Sai Gunupudi,WC,NC,5,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Cayden Wang,5/8,NCA,9,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Clay Yang,WC,NCA,21,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Carsten Lam,WC,NCA,29,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Rishabh Praveen,WC,NCA,36,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Brendan E Chen,WC,IL,44,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Krish Raja,5/8,NCA,56,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Mi Michael Liu,WC,NCA,60,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Jason Yang,,NCA,3,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Nathaniel Volfbeyn,,WA,7,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Anthony Cheng Xu,,TX,11,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,William Geng,,WA,19,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Zuhao Fan,,SCA,23,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Shriariman Karthigayan,,NCA,28,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Vishanth Vijay,,GA,31,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,You Yang Li,,NCA,34,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Ethan Wu,,SCA,38,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Pranav Vivek,,NCA,41,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Yichen Li,,NCA,46,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Varin Karri,,TX,53,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Kenneth Wu,,NCA,57,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Henry Deng,,NCA,62,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Aryan Mohan,,NCA,4,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Hardik Gowrish,,NCA,8,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Veera Kalakota,,SCA,12,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Allen w Yang,WC,NCA,13,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Michael Zhao,,NCA,16,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Rex Hong,,NCA,20,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Kriday Ashok,,NCA,24,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Tao Peng,,NCA,27,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Daniel Xie,,SCA,32,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Morgan Li,,NCA,33,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Johnny Chen,,WA,35,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Sean Li,,NCA,37,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Nihal Vattem,,NCA,42,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Lokesh Ravuri,,NCA,45,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Advik Kevlani,,GA,49,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Saatvik Shetty,WC,NCA,52,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Justin Tran,,SCA,54,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Stanley Jiaye Song,,WA,58,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U13,Areen Pradhan,,NCA,61,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Diya Shetty,2,VA,64,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Aadya Pitani,1,VA,1,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Maggie Zang,3/4,SCA,48,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Camellia Wang,5/8,NCA,25,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Jennifer Bangcaya,5/8,NCA,9,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Aashi Gupta,3/4,TX,17,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Cynthia Wang,,NCA,38,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Vivian Jiayue Song,5/8,WA,56,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Megha Reddy Challa,WC,NJ,5,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Renee Leung,WC,SCA,13,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Celine Ao,WC,WA,21,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Selena Wei,WC,SCA,29,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Mira Chatterjee,WC,NCA,36,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Ishi Reddy,WC,IL,44,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Felicia Ho,,SCA,50,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Joanne Li,WC,NC,60,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Saee Thorat,,NCA,33,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Sanjana Ginjupalli,,NCA,3,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Iris Yuchen Mei,,WA,7,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Audrey Zhao,,NCA,11,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Saanya Sreenivas,,NCA,15,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Katie Wong,,NCA,19,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Tamara Valueva,,NCA,23,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Angela Wang,,SCA,27,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Samyukta Karthik,,NCA,31,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Bernice Xu,,SCA,34,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Nidhi Sujin,5/8,NCA,40,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Selina Xu,,NCA,42,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Aishani Damireddy,,NCA,46,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Shrivaishnavi Jami,WC,NCA,52,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Michelle Yourong Zhang,,NCA,54,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Lindsey Li,,NCA,58,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U13,Dhvani Shankar,,GA,62,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Aarya Vijay [1]Annie Meng,,TXNCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Anirud Veldanda [2]Diya Shetty,,TXVA,32,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Vincent Chen [WC]Ishi Reddy,,ILIL,13,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Jason Yang [3/4]Aadya Pitani,,NCAVA,24,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Sean Li [WC]Vivian Jiayue Song,,NCAWA,5,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Terence Cai [3/4]Joanne Li,,NCANC,9,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Ethan WuRenee Leung,,SCASCA,18,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Yifan Liu [WC]Jennifer Bangcaya,,NCANCA,28,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Jayden MarSelina Xu,,NCANCA,4,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Rishabh PraveenSaee Thorat,,NCANCA,8,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Gavin LeAngela Wang,,SCASCA,12,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Stanley Jiaye SongAudrey Zhao,,WANCA,16,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Brendan E Chen [WC]Nidhi Sujin,,ILNCA,20,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Krish RajaLindsey Li,,NCANCA,22,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Yichen LiCynthia Wang,,NCANCA,26,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Varin KarriAashi Gupta,,TXTX,29,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Mi Michael LiuCeline Ao,,NCAWA,3,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,William GengIris Yuchen Mei,,WAWA,6,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Veera KalakotaBernice Xu,,SCASCA,7,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Clay YangMaggie Zang,,NCASCA,10,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Anish Sai GunupudiDhvani Shankar,,NCGA,11,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Allen w YangKatie Wong,,NCANCA,14,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Advik KevlaniSamyukta Karthik,,GANCA,15,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Areen PradhanShrivaishnavi Jami,,NCANCA,17,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,You Yang LiTamara Valueva,,NCANCA,19,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Cayden WangSelena Wei,,NCASCA,21,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Alex WenCamellia Wang,,NCANCA,23,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Carsten LamSaanya Sreenivas,,NCANCA,25,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Kenneth WuMichelle Yourong Zhang,,NCANCA,27,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U13,Zuhao FanFelicia Ho,,SCASCA,30,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Vincent Chen [1]Aarya Vijay,,ILTX,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Yifan Liu [2]Clay Yang,,NCANCA,32,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Terence Cai [WC]Jason Yang,,NCANCA,20,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Brendan E Chen [3/4]Anirud Veldanda,,ILTX,9,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Carsten Lam [WC]Sean Li,,NCANCA,5,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Jayden MarAlex Wen,,NCANCA,15,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Krish Raja [3/4]Allen w Yang,,NCANCA,24,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Gavin LeEthan Wu,,SCASCA,26,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Zuhao FanCayden Wang,,SCANCA,8,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Rishabh PraveenKenneth Wu,,NCANCA,12,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Justin TranVishanth Vijay,,SCAGA,17,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Nihal VattemAnthony Cheng Xu,,NCATX,21,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Tao PengPranav Vivek,,NCANCA,3,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Anish Sai GunupudiAreen Pradhan,,NCNCA,7,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Johnny ChenDaniel Xie,,WASCA,11,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Hardik GowrishAryan Mohan,,NCANCA,13,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Shriariman KarthigayanMichael Zhao,,NCANCA,16,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Kriday AshokHenry Deng,,NCANCA,18,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,William GengRex Hong,,WANCA,22,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Veera KalakotaAdvik Kevlani,,SCAGA,25,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,You Yang Li [WC]Mi Michael Liu,,NCANCA,28,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U13,Stanley Jiaye SongNathaniel Volfbeyn,,WAWA,30,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Aadya Pitani [1]Maggie Zang,,VASCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Jennifer Bangcaya [2]Diya Shetty,,NCAVA,16,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Joanne Li [WC]Ishi Reddy,,NCIL,10,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Vivian Jiayue Song [WC]Camellia Wang,,WANCA,5,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Lindsey LiKatie Wong,,NCANCA,3,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Felicia HoIris Yuchen Mei,,SCAWA,7,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Megha Reddy ChallaDhvani Shankar,,NJGA,11,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Mira ChatterjeeCynthia Wang,,NCANCA,14,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Celine AoSelena Wei,,WASCA,4,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Saee ThoratMichelle Yourong Zhang,,NCANCA,6,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Sanjana GinjupalliSamyukta Karthik,,NCANCA,8,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Renee LeungBernice Xu,,SCASCA,9,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Shrivaishnavi JamiNidhi Sujin,,NCANCA,12,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U13,Tamara ValuevaAngela Wang,,NCASCA,13,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Jun Heng Lai,3/4,NCA,96,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Mitchell Purnomo,3/4,WA,33,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Darsh Jain,5/8,NC,17,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Shriyans Bhagavatula,2,NCA,128,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Nihal Kadamba,1,NCA,1,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Arush Shyam Chitgopkar,5/8,NCA,49,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Caden Wang,,NCA,78,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Rocky Yang,9/16,NCA,104,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Yiyang Jia,,WA,16,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Vaughn Zhao,9/16,NCA,25,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Abhi Mandanapu,WC,NCA,47,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Andy Xu Zhang,WC,NCA,63,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Adhyaan Balaji,,TX,70,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Daniel Seungchan Park,9/16,WA,88,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Vivek Rai,5/8,NCA,112,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Layton Wen,9/16,NCA,120,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Nishaant Anumolu,,NCA,5,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Aagnaey Gulla Pulijal,9/16,NCA,9,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Xinyang Peng,,SCA,21,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Hanwen Yuan,WC,WA,31,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Alex Anlai Song,WC,WA,39,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Ansen Liu,9/16,TX,41,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Kayosh Kumar Mohapatra,,NCA,53,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Mithun Gopinath,,GA,59,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Prabhat Mandava,WC,IL,66,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Ethan YS Ao,WC,WA,74,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Uddhav Kasarabada,WC,NCA,82,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Hao Lin,WC,SCA,90,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Kelvin Zhang,WC,WA,98,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Yuliaoliao Fan,WC,SCA,106,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Akshay Jalwadi,WC,TX,114,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Tsun Him Lam,WC,NCA,122,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Isaiah Melwyn Alleluia,,TX,3,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Mihir Thaha,WC,SCA,7,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Vignesh Jami,,NCA,11,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Samuel Xiao,,NCA,13,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Prajwal Avadhani,WC,NCA,15,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Justin Liaw,,NCA,19,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Manas Chintala,WC,NCA,23,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Kevin Zhang,,NCA,27,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Aidan Wong,,NCA,29,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Tanmay Krishna Thumuluru,,NCA,32,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Andrew Yu,,NCA,35,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Kezhen Tao,,NCA,37,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Zhengyue Xiong,,NC,43,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Akshith Vattem,,NCA,45,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Kehong Ng,,NCA,48,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Benjamin Zhuge,,NCA,51,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Aiden S Lau,WC,SCA,55,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Max Zhang,9/16,NCA,57,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Jarvis Hong,,NCA,61,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Gleb Valuev,,NCA,64,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Hamilton Le,,NCA,65,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Andy W Gao,,NCA,68,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Akshaj Reddy Donthi,9/16,VA,72,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Leheng Xu,,NCA,76,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Justin Kan,5/8,NCA,80,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,George Shen,,NCA,81,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Vishwa Rajan,,GA,84,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Aaron Liao,,NCA,86,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Ian Y Shi,,NCA,92,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Yushen Li,,WA,94,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Pradyun Gowda,,SCA,97,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Ryan Liu,,NCA,100,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Suraj Rajesh Kumar,,NCA,102,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Ethan Chan,,NCA,108,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Sizhe Chen,,WA,110,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Vincent Lu,,NCA,113,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Mang Ki Cheung,,WA,116,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Sumedh Madhusudan Pai,,NCA,118,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Raghav Vemulapalli,,NCA,124,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U15,Eshan Neog,,NC,126,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Jasmine Yeung,1,NCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Angela Ye,3/4,NCA,48,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Suneri Krishna Chinthalapati,2,NCA,64,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Brianna Lee,3/4,NCA,17,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Annie Meng,WC,NCA,13,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Jessica Wu,5/8,NCA,25,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Prutha Ramaprakas Bharadwaj,WC,NCA,36,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Sophia Jia,5/8,NCA,56,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Angelina Chun,WC,NCA,5,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Xinyan Zeng,5/8,NCA,9,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Anvita Jamsandekar,WC,NCA,21,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Cassidy Yeh,,SCA,31,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Eva Wang,5/8,NCA,40,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Charity Lam,WC,NCA,44,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Chloe A Kai,WC,SCA,52,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Chang He,WC,NCA,60,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Diyaa Sarath,,GA,3,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Allison Hsu,,NCA,7,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Laila Wang,,NCA,12,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Ziyan Zhao,,SCA,16,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Sanjanaa Shyam,,NC,19,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Isabella Meng,,NCA,24,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Samanvi Boppana,,NCA,28,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Sahana Chada,WC,NCA,29,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Sophie Zhang,,NCA,34,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Angelina Lin Wu,,NCA,38,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Yalan Zhu,,SCA,42,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Jocelyn (Youran) Zhang,,WA,46,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Emily Ou,,NCA,50,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Emily Zhang,,NCA,54,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Sai Sahasra Gajula,,NCA,57,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Lydia Ng,,NCA,62,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Shinher Jiang,,NCA,4,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Sylvia Yuqing Mei,,WA,6,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Aadhya Vinod,,NCA,8,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Reina Subramanian,,NCA,11,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Jaleesa Yu,,SCA,14,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Kriti Vasireddy,,NCA,15,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Karena Ling,,NCA,20,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Zimeng Zhou,,WA,22,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Callie Chen,,NCA,23,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Aangi Pranavkuma Shah,,NCA,26,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Aditi Gummadi,,IL,27,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Wendy Li,,SCA,30,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Abbie Chen,,WA,32,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Rishika Nanda,,NCA,33,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Rohini Ganesh,,NCA,35,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Mahati Mettu,,NCA,37,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Sana Pisharody,,NCA,39,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Owena Chen,,NCA,41,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Anvitha B Ranganna,,NC,43,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Sanika Alawani,,NCA,45,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Meghana Nishant,,SCA,49,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Coco Cenke Tao,,WA,51,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Aadya Makam,,NCA,53,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Tanushri Thokala,,NC,58,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Zien You,,SCA,59,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U15,Grace Liu,,NCA,61,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Zicheng Xu [2]Jasmine Yeung,,SCANCA,64,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Rocky Yang [1]Nicole Krawczyk,,NCANCA,1,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Jun Heng Lai [3/4]Anvita Jamsandekar,,NCANCA,17,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Justin Kan [WC]Charity Lam,,NCANCA,44,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Shriyans Bhagavatula [WC]Sahana Chada,,NCANCA,13,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Caden Wang [5/8]Jessica Wu,,NCANCA,25,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Yiyang Jia [WC]Chloe A Kai,,WASCA,36,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Layton Wen [WC]Chang He,,NCANCA,52,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Mitchell Purnomo [WC]Sophia Jia,,WANCA,5,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Akshaj Reddy Donthi [5/8]Xinyan Zeng,,VANCA,9,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Xinyang Peng [WC]Cassidy Yeh,,SCASCA,21,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Hao Lin [WC]Coco Cenke Tao,,SCAWA,29,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Kayosh Kumar MohapatraSamanvi Boppana,,NCANCA,38,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Ansen Liu [3/4]Eva Wang,,TXNCA,48,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Nihal Kadamba [5/8]Suneri Krishna Chinthalapati,,NCANCA,56,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Suraj Rajesh Kumar [WC]Tanushri Thokala,,NCANC,60,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Darsh JainAngelina Chun,,NCNCA,7,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,George ShenAadya Makam,,NCANCA,11,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Hanwen YuanAbbie Chen,,WAWA,16,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Prabhat MandavaAditi Gummadi,,ILIL,20,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Ethan YS AoZimeng Zhou,,WAWA,24,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Kelvin ZhangYalan Zhu,,WASCA,28,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Aagnaey Gulla PulijalSai Sahasra Gajula,,NCANCA,31,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Pradyun GowdaSanjanaa Shyam,,SCANC,33,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Ryan LiuSophie Zhang,,NCANCA,41,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Aiden S LauZien You,,SCASCA,46,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Eshan NeogDiyaa Sarath,,NCGA,50,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Daniel Seungchan ParkSylvia Yuqing Mei,,WAWA,54,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Uddhav KasarabadaKriti Vasireddy,,NCANCA,57,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Justin LiawAllison Hsu,,NCANCA,3,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Vaughn ZhaoJaleesa Yu,,NCASCA,8,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Akshith VattemSanika Alawani,,NCANCA,12,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Vincent LuGrace Liu,,NCANCA,15,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Benjamin ZhugeShinher Jiang,,NCANCA,19,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Alex Anlai SongAnvitha B Ranganna,,WANC,23,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Kezhen TaoEmily Ou,,NCANCA,27,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Leheng XuIsabella Meng,,NCANCA,32,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Vignesh JamiCallie Chen,,NCANCA,34,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Tsun Him LamKarena Ling,,NCANCA,37,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Max Zhang [5/8]Brianna Lee,,NCANCA,40,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Mang Ki CheungJocelyn (Youran) Zhang,,WAWA,42,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Andy Xu ZhangLaila Wang,,NCANCA,45,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Mihir ThahaMeghana Nishant,,SCASCA,49,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Manas ChintalaAadhya Vinod,,NCANCA,53,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Nishaant AnumoluRohini Ganesh,,NCANCA,58,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U15,Kevin ZhangAngelina Lin Wu,,NCANCA,62,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Nihal Kadamba [1]Justin Kan,,NCANCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Shriyans BhagavatulaZhengyue Xiong,,NCANC,24,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Mitchell Purnomo [5/8]Vaughn Zhao,,WANCA,28,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Arush Shyam Chitgopkar [5/8]Uddhav Kasarabada,,NCANCA,13,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Yuliaoliao FanAiden S Lau,,SCASCA,8,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Darsh Jain [3/4]Ansen Liu,,NCTX,9,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Akshaj Reddy Donthi [5/8]Layton Wen,,VANCA,20,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Caden Wang [2]Rocky Yang,,NCANCA,32,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Mithun Gopinath [WC]Vishwa Rajan,,GAGA,3,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Xinyang Peng [5/8]George Shen,,SCANCA,5,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Hao Lin [WC]Andy Xu Zhang,,SCANCA,11,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Abhi Mandanapu [WC]Vivek Rai,,NCANCA,15,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Adhyaan BalajiAkshay Jalwadi,,TXTX,17,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Yiyang Jia [WC]Hanwen Yuan,,WAWA,22,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Pradyun Gowda [WC]Mihir Thaha,,SCASCA,26,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Daniel Seungchan ParkAlex Anlai Song,,WAWA,29,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Isaiah Melwyn AlleluiaJarvis Hong,,TXNCA,2,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Vincent LuAndrew Yu,,NCANCA,4,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Hamilton LeKezhen Tao,,NCANCA,6,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Yushen Li [WC]Kelvin Zhang,,WAWA,7,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Andy W GaoBenjamin Zhuge,,NCANCA,10,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Tanmay Krishna ThumuluruAkshith Vattem,,NCANCA,12,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Ethan YS AoSizhe Chen,,WAWA,14,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Ryan LiuIan Y Shi,,NCANCA,16,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Tsun Him Lam [WC]Aagnaey Gulla Pulijal,,NCANCA,18,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Justin LiawKehong Ng,,NCANCA,19,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Nishaant AnumoluManas Chintala,,NCANCA,21,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Prabhat MandavaSumedh Madhusudan Pai,,ILNCA,23,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Leheng XuKevin Zhang,,NCANCA,25,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Eshan NeogSuraj Rajesh Kumar,,NCNCA,27,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Prajwal Avadhani [WC]Vignesh Jami,,NCANCA,30,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U15,Mang Ki CheungAidan Wong,,WANCA,31,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Angela Ye [1]Jasmine Yeung,,NCANCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Chang He [3/4]Jessica Wu,,NCANCA,24,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Suneri Krishna Chinthalapati [WC]Nicole Krawczyk,,NCANCA,28,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Brianna Lee [3/4]Xinyan Zeng,,NCANCA,9,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Angelina ChunSophia Jia,,NCANCA,6,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Chloe A KaiZiyan Zhao,,SCASCA,14,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Anvita Jamsandekar [WC]Charity Lam,,NCANCA,20,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Audrey Chang [2]Cassidy Yeh,,SCASCA,32,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Karena LingYalan Zhu,,NCASCA,4,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Jocelyn (Youran) ZhangZimeng Zhou,,WAWA,8,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Sylvia Yuqing MeiAnnie Meng,,WANCA,12,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Lydia NgSophie Zhang,,NCANCA,15,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Isabella MengAngelina Lin Wu,,NCANCA,18,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Meghana NishantTanushri Thokala,,SCANC,22,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Sai Sahasra GajulaKriti Vasireddy,,NCANCA,26,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Abbie ChenShinher Jiang,,WANCA,30,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Anvitha B RangannaSanjanaa Shyam,,NCNC,3,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Prutha Ramaprakas Bharadwaj [WC]Coco Cenke Tao,,NCAWA,5,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Aadya MakamSana Pisharody,,NCANCA,7,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Owena ChenLaila Wang,,NCANCA,11,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Eva Wang [WC]Jaleesa Yu,,NCASCA,13,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Samanvi BoppanaReina Subramanian,,NCANCA,16,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Allison HsuGrace Liu,,NCANCA,17,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Rishika NandaAangi Pranavkuma Shah,,NCANCA,19,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Emily OuAadhya Vinod,,NCANCA,21,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Aditi GummadiDiyaa Sarath,,ILGA,25,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Callie ChenRohini Ganesh,,NCANCA,27,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U15,Sanika AlawaniEmily Zhang,,NCANCA,29,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Adam Tay,2,NCA,128,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Linden Wang,1,NCA,1,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Jeffrey Chang,3/4,NCA,33,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Jaden Jin,3/4,NCA,96,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Kai Chong,5/8,MA,17,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Jack Yin,9/16,NCA,57,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Orlando Himawan,WC,NCA,66,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Zicheng Xu,9/16,SCA,104,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,David Zuo,WC,WA,15,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Devin Garg,WC,NCA,31,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Melvin O Thu,9/16,NY,41,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Kevin Zhou,5/8,NCA,49,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Kyle Wang,5/8,NCA,80,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Thanik Bharani,9/16,NCA,88,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Benjamin Dictado,5/8,NCA,112,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Scott Wang Lin,9/16,NCA,120,9,16,Round 4
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Srijan Challapalli,WC,VA,7,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Dhruva Singh,9/16,NCA,9,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Ben Tirtohadi,WC,SCA,23,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Ethan Paw,,NCA,27,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Muyang Li,WC,NCA,39,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Ronith A Manikonda,WC,IL,47,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,William Ye,WC,NCA,55,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Adwin Sujin,WC,NCA,63,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Alan Premkumar,9/16,VA,72,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Saujas Patil,,IL,76,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Weslie Chen,WC,NCA,82,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Yuanchen Wu,WC,NCA,90,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Daniel Wu,,NCA,97,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Arav Mestry,WC,NCA,106,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Atharva Gulla Pulijal,WC,NCA,114,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Michael Jiang,WC,SCA,122,17,32,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Jay Chun,WC,WA,74,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Aditya Renganathan,,NCA,3,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Kody Seow,,NCA,5,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Jialin Cao,,WA,11,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Manuel Melwyn Alleluia,,TX,13,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Rajat Rawat,,NCA,16,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Yu Hung Jiang,,NCA,19,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Nicholas Volfbeyn,,WA,21,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Siva Rajesh,9/16,NC,25,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Adrian Lui,,NCA,29,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Lorin Leung,,SCA,32,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Shloak Kulkarni,,WA,35,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Darron Jaden Su,,NCA,37,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Benson Ngai,,NCA,43,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Ziyang Wang,,SCA,45,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Adarsh Swamy,,NCA,48,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Tian Qi Alan Zhang,,SCA,51,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Andrew W. Grosso,,NCA,53,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Tsun Wang Lam,,NCA,56,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Jordan Lau,,SCA,59,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Ahwan Mishra,,GA,61,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Rohan Kumar Jha,,TX,64,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Nishchith G Manjunatha,,NY,65,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Rohan Sankaran,,NCA,68,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Joey Sun,,NCA,70,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Justin Han,,NCA,73,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Tom Yin,,WA,78,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Stanley Xing,,NCA,81,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Aidan Ruan,,NCA,84,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Jinyu Liu,,WA,86,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Yves Judson Homayoon,,NCA,92,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Hitansh Shah,,GA,94,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Alex He,WC,TX,98,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Louis N Thai,,WA,100,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Ameya Kulkarni,,NCA,102,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Advait Ramakrishnan,,NCA,108,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Arjun Chatterjee,,NCA,110,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Martin Wu,,NCA,113,65,128,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Sean Choudhury,,WA,116,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Kameran Hossain,,NCA,118,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Patrick Xiao,,NCA,124,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U17,Ryan Wong,,NCA,126,65,128,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Bettie Huang,1,NCA,1,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Alice Y Wang,5/8,NCA,40,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Akshaya A. Ajan,3/4,NCA,17,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Audrey Chang,WC,SCA,52,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Emma Wei,WC,NCA,13,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Mia Zhang,WC,NCA,29,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Harshita Kandambakkam,3/4,NCA,48,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Yuxuan Lin,WC,WA,60,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Katheen Li,,NCA,8,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Ardra Mohan,,NCA,11,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Nicole Krawczyk,WC,NCA,21,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Mia K Hundley,5/8,NCA,25,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Emily Liu,,SCA,34,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Hannah George,WC,IL,44,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Chloe Ho,5/8,NCA,56,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Tanvi Deshmukh,2,NCA,64,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Carina Huang,,SCA,4,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Krisha Tyagi,,GA,15,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Yaorui Shan,,SCA,19,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Yuqing Guo,,NCA,23,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Ella Mak,,SCA,27,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Hebe Wang,,NCA,32,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Vera Lin,WC,NCA,36,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Wenlu She,,NCA,37,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Sannidhi Boppana,,NCA,41,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Lilian Shu,,NCA,46,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Rithika Oumapathy,,NCA,50,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Charlotte A Tse,,NCA,53,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Xiaoyue Liu,,NCA,57,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Rishita Tubati,,NC,61,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Chloe Lim,,NCA,3,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Daphne Huang,WC,NCA,5,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Arushi Raghavendra,,VA,7,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Stella Pan,5/8,NC,9,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Kanyanat Vajworarat,,IL,12,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Annabelle Zhou,,NCA,16,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Aashi Agarwal,,NCA,20,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Emma Milner,,NCA,24,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Aashreeti Deo,,TX,28,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Vivian Shi,,NCA,30,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Julia Ruan,,WA,31,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Nadya Tirtohadi,,SCA,33,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Riya Natarajan,,NCA,35,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Sahasra Chada,,NCA,38,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Isabelle Chen,,SCA,42,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Yuxuan Ariel Ng,,NCA,45,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Ananya Vinod,,NCA,49,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Elaina Ying Xu,,NCA,51,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Rubie Liu,,NCA,54,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Ananya Shah,,Maharashtra,58,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U17,Anjali Abhilash,,NCA,62,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Kyle Wang [3/4]Ella Yishan Lin,,NCANCA,48,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Orlando Himawan [5/8]Stella Pan,,NCANC,25,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Adam Tay [2]Emma Wei,,NCANCA,64,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Linden Wang [1]Emily Liu,,NCASCA,1,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Thanik BharaniDaphne Huang,,NCANCA,12,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Jeffrey Chang [WC]Alice Y Wang,,NCANCA,21,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Michael Jiang [5/8]Mia K Hundley,,SCANCA,40,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Benjamin Dictado [5/8]Bettie Huang,,NCANCA,56,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,David Zuo [WC]Yuxuan Lin,,WAWA,5,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Srijan Challapalli [WC]Kanyanat Vajworarat,,VAIL,13,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Kai Chong [3/4]Savanna Lee,,MANCA,17,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Garret Tan [WC]Audrey Chang,,SCASCA,29,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Arden Q LeeLilian Shu,,NCANCA,33,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Weslie Chen [WC]Vera Lin,,NCANCA,44,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Ben Tirtohadi [WC]Akshaya A. Ajan,,SCANCA,52,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Kevin Zhou [WC]Tanvi Deshmukh,,NCANCA,60,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Melvin O ThuCarina Huang,,NYSCA,8,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Ethan PawCharlotte A Tse,,NCANCA,16,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Adrian LuiAnjali Abhilash,,NCANCA,24,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Louis N ThaiKrisha Tyagi,,WAGA,27,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Tsun Wang LamChloe Lim,,NCANCA,32,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Patrick XiaoNadya Tirtohadi,,NCASCA,38,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Jialin CaoJulia Ruan,,WAWA,42,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Daniel WuHarshita Kandambakkam,,NCANCA,45,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Rajat RawatXiaoyue Liu,,NCANCA,50,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Jack YinIsabelle Chen,,NCASCA,54,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Darron Jaden SuRithika Oumapathy,,NCANCA,57,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Jay ChunYaorui Shan,,WASCA,3,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Saujas PatilAnnabelle Zhou,,ILNCA,7,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Ronith A Manikonda [5/8]Hannah George,,ILIL,9,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Scott Wang LinVivian Shi,,NCANCA,11,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Yu Hung JiangRubie Liu,,NCANCA,15,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Stanley XingZiyan Zhao,,NCASCA,19,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Joey SunYuxuan Ariel Ng,,NCANCA,23,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Muyang LiKatheen Li,,NCANCA,28,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Hitansh ShahAashreeti Deo,,GATX,31,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,William YeAngelina vera Chai,,NCASCA,34,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Siva Rajesh [WC]Rishita Tubati,,NCNC,36,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Jordan LauYuqing Guo,,SCANCA,37,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Yves Judson HomayoonAnanya Shah,,NCAMaharashtra,41,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Justin HanPrutha Ramaprakas Bharadwaj,,NCANCA,46,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Atharva Gulla PulijalArushi Raghavendra,,NCAVA,49,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Kameran HossainRiya Natarajan,,NCANCA,53,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Devin GargElla Mak,,NCASCA,58,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U17,Nicholas VolfbeynAnanya Vinod,,WANCA,62,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Jeffrey Chang [3/4]Kyle Wang,,NCANCA,17,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Jaden Jin [2]Adam Tay,,NCANCA,64,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Kai Chong [1]Linden Wang,,MANCA,1,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Weslie Chen [3/4]Jack Yin,,NCANCA,48,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Benjamin Dictado [WC]Zicheng Xu,,NCASCA,13,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Ethan PawMelvin O Thu,,NCANY,32,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Jay Chun [WC]David Zuo,,WAWA,36,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Scott Wang Lin [5/8]Kevin Zhou,,NCANCA,56,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Alex HeRajat Rawat,,TXNCA,7,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Garret Tan [5/8]Tian Qi Alan Zhang,,SCASCA,9,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Shloak KulkarniJinyu Liu,,WAWA,23,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Saujas Patil [5/8]Siva Rajesh,,ILNC,25,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Srijan Challapalli [5/8]Ben Tirtohadi,,VASCA,40,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Orlando Himawan [WC]Jun Heng Lai,,NCANCA,44,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Arav Mestry [WC]William Ye,,NCANCA,52,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Devin GargArden Q Lee,,NCANCA,58,9,16,Round 3
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Jordan LauZiyang Wang,,SCASCA,33,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Louis N ThaiPatrick Xiao,,WANCA,50,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Muyang LiStanley Xing,,NCANCA,3,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Ameya Kulkarni [WC]Adwin Sujin,,NCANCA,5,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Adarsh SwamyRyan Wong,,NCANCA,11,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Kameran HossainTsun Wang Lam,,NCANCA,15,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Yves Judson HomayoonRohan Kumar Jha,,NCATX,19,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Daniel Wu [WC]Yuanchen Wu,,NCANCA,21,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Benson NgaiAidan Ruan,,NCANCA,27,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Dhruva Singh [WC]Darron Jaden Su,,NCANCA,29,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Manuel Melwyn AlleluiaAhwan Mishra,,TXGA,31,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Aaron LiaoJoey Sun,,NCANCA,34,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Justin HanMartin Wu,,NCANCA,38,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Nishchith G ManjunathaAlan Premkumar,,NYVA,42,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Hitansh ShahNicholas Volfbeyn,,GAWA,46,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Adrian LuiAdvait Ramakrishnan,,NCANCA,49,33,64,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Ronith A ManikondaAtharva Gulla Pulijal,,ILNCA,54,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Michael Jiang [WC]Kody Seow,,SCANCA,60,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U17,Jialin CaoSean Choudhury,,WAWA,62,33,64,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Carryssa Caryn Bun [WC]Vera Lin,,SCANCA,28,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Bettie Huang [1]Emily Liu,,NCASCA,1,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Wenlu SheLilian Shu,,NCANCA,18,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Katheen LiVivian Shi,,NCANCA,16,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Tanvi Deshmukh [WC]Savanna Lee,,NCANCA,5,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Harshita Kandambakkam [3/4]Charlotte A Tse,,NCANCA,9,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Alice Y WangMia Zhang,,NCANCA,22,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Mia K Hundley [2]Emma Wei,,NCANCA,32,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Ella MakArdra Mohan,,SCANCA,8,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Yuxuan LinYaorui Shan,,WASCA,11,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Sannidhi BoppanaRithika Oumapathy,,NCANCA,25,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Riya NatarajanNadya Tirtohadi,,NCASCA,30,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Chloe LimXiaoyue Liu,,NCANCA,3,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Julia RuanAnanya Shah,,WAMaharashtra,7,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Angelina vera ChaiAnnabelle Zhou,,SCANCA,12,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Hannah George [WC]Carina Huang,,ILSCA,13,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Aashi AgarwalAnanya Vinod,,NCANCA,15,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Rishita TubatiKrisha Tyagi,,NCGA,17,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Akshaya A. Ajan [WC]Sahasra Chada,,NCANCA,20,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Isabelle ChenKanyanat Vajworarat,,SCAIL,21,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Daphne Huang [3/4]Stella Pan,,NCANC,24,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Rubie LiuArushi Raghavendra,,NCAVA,26,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U17,Anjali AbhilashElaina Ying Xu,,NCANCA,29,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Daniel Zhou,WC,NCA,13,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Isaac Yang,WC,NCA,20,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Arthur Heng Lee,WC,NCA,5,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Ryan Ma,WC,NCA,28,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Mihir Raja,1,NCA,1,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Andrew Yuan,3/4,NJ,9,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Andrew S Wang,3/4,NCA,24,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Andre Chim,2,NCA,32,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Garret Tan,,SCA,4,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Eshwar Sathwik Nemani,,NCA,8,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Abraham Xu,,SCA,12,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Samuel W Li,,NCA,15,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Johnathan H Chi,,WA,17,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Kenny Yaowen Luu,,NCA,22,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Jun Jie (Sam) Lai,,NCA,26,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Matthew Li,,SCA,29,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Sohum Gulla Pulijal,,NCA,3,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Ryan Choudhury,,WA,7,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Jon Moser,,NCA,11,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Daniel Bielin,,NCA,14,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Lance Fuchia,,NCA,16,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Rohan Rai,,NCA,18,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Darshan Karthi,,NCA,19,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Raghava Krishna Katakam,,NCA,21,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Namith Nishal Raphael,,NC,25,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Anish Bansal,,NCA,27,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BS U19,Ved Vedere,,NCA,30,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Ella Yishan Lin,,NCA,25,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Joline Siu,3/4,NCA,9,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Veronica Yang,WC,NCA,5,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Cindy Xin Lin,,SCA,17,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Shriya Chockalingam,1,NCA,1,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Kristine Nicole Ngo,WC,NCA,13,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Reanne Chan,,SCA,21,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Koyu(Tara) Chou,2,NCA,32,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Angie Huang,,NCA,7,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Angelina vera Chai,,SCA,15,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Sanskruti Kulkarni,,WA,3,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Carryssa Caryn Bun,,SCA,8,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Ashley Yang,,SCA,11,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Ashley Zhang,,WA,16,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Youchang Li,,NCA,18,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Hailey Hung,WC,NCA,20,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Yuet Ki Cheung,,WA,22,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Emily Han,3/4,NCA,24,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Andrea Lou,,SCA,26,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Sumaswara Chinthalapati,WC,NCA,28,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GS U19,Brianna Mia Xu,,NCA,30,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Mihir Raja [2]Chloe Ho,,NCANCA,32,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Andrew S WangKoyu(Tara) Chou,,NCANCA,11,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Andre Chim [1]Kalea Sheung,,NCANCA,1,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Isaac Yang [3/4]Ashley Yang,,NCASCA,24,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Daniel Zhou [WC]Zihan Xu,,NCASCA,5,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Ryan Ma [WC]Veronica Yang,,NCANCA,13,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Arthur Heng Lee [WC]Hailey Hung,,NCANCA,20,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Matthew LiCarryssa Caryn Bun,,SCASCA,26,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Samuel W LiReanne Chan,,NCASCA,7,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Andrew YuanJolie Wang,,NJNCA,16,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Sohum Gulla PulijalSanskruti Kulkarni,,NCAWA,17,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Jerry YuanAngie Huang,,NCANCA,21,9,16,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Ved VedereWenlu She,,NCANCA,3,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Jun Jie (Sam) LaiKristine Nicole Ngo,,NCANCA,8,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Abraham Xu [3/4]Andrea Lou,,SCASCA,9,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Ryan ChoudhuryYuet Ki Cheung,,WAWA,15,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Edward ZhangJoline Siu,,NCANCA,18,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Andrew LiangYouchang Li,,NCANCA,22,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Namith Nishal RaphaelAashi Agarwal,,NCNCA,25,17,32,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Johnathan H Chi [WC]Ashley Zhang,,WAWA,28,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,XD U19,Rohan RaiAnusha Jamsandekar,,NCANCA,30,17,32,Round 2
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Ryan Ma [WC]Daniel Zhou,,NCANCA,5,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Daniel BielinAndrew Liang,,NCANCA,9,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Andre Chim [1]Andrew Yuan,,NCANJ,1,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Arthur Heng LeeJerry Yuan,,NCANCA,14,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Jun Jie (Sam) LaiNamith Nishal Raphael,,NCANC,4,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Samuel W LiIsaac Yang,,NCANCA,7,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Matthew Li [WC]Abraham Xu,,SCASCA,12,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Anish BansalRohan Rai,,NCANCA,3,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Lance FuchiaKenny Yaowen Luu,,NCANCA,8,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Raghava Krishna KatakamSohum Gulla Pulijal,,NCANCA,10,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Thanik BharaniVed Vedere,,NCANCA,11,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Ryan ChoudhuryTom Yin,,WAWA,13,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,BD U19,Andrew S Wang [2]Edward Zhang,,NCANCA,16,9,16,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Koyu(Tara) Chou [WC]Veronica Yang,,NCANCA,12,1,1,Winner
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Kalea Sheung [1]Joline Siu,,NCANCA,1,2,2,Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Shriya Chockalingam [WC]Andrea Lou,,NCASCA,5,3,3,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Chloe Ho [2]Ella Yishan Lin,,NCANCA,16,4,4,Semi Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Sanskruti KulkarniAshley Zhang,,WAWA,7,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Angie HuangKristine Nicole Ngo,,NCANCA,10,5,8,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Emily HanJolie Wang,,NCANCA,3,9,16,Quarter Finals
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Anusha JamsandekarBrianna Mia Xu,,NCANCA,8,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Yuet Ki CheungCindy Xin Lin,,WASCA,9,9,16,Round 1
+2022 Synergy NorCal ORC,2022-02-19/2022-02-21,GD U19,Reanne ChanZihan Xu,,SCASCA,14,9,16,Quarter Finals

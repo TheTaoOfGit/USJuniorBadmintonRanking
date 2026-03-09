@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:usabadminton.org)",
+      "WebSearch",
+      "WebFetch(domain:www.tournamentsoftware.com)",
+      "WebFetch(domain:usab.tournamentsoftware.com)",
+      "Bash(python:*)",
+      "Bash(py:*)",
+      "Bash(python3:*)",
+      "Bash(\"/c/Users/Tao/AppData/Local/Programs/Python/Python312/python.exe\":*)",
+      "Bash(\"$PYTHON\":*)",
+      "WebFetch(domain:planobadmintoncenter.com)",
+      "WebFetch(domain:dfwbadmintoncenter.com)",
+      "Bash(grep:*)",
+      "Bash(C:/Users/Tao/AppData/Local/Programs/Python/Python312/python.exe:*)",
+      "Bash(do echo:*)",
+      "Bash(sort:*)",
+      "WebFetch(domain:usabjrrankings.org)",
+      "Bash(\"C:\\\\Users\\\\Tao\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.exe\":*)",
+      "Bash(rm:*)",
+      "Bash(pip install:*)",
+      "Bash(where git:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(nslookup:*)",
+      "Bash(curl:*)",
+      "Bash(ipconfig:*)",
+      "Bash(do grep:*)",
+      "Bash(sed:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}

@@ -265,19 +265,22 @@ for r in all_results:
         name = normalize_name(raw_name)
         if not name:
             continue  # skip score strings and garbage
-        # Check eligibility: player must be on the eligible list for this age group
-        # OR the next-older age group (younger results carry up: U11→U13, etc.)
+        # Check eligibility: player results count in their own age group
+        # AND carry up to the next older age group (U11→U13, U13→U15, etc.)
         event_age = r['age_group']
         OLDER_AGE = {'U11': 'U13', 'U13': 'U15', 'U15': 'U17', 'U17': 'U19'}
-        eligible_age = None
-        if is_eligible(name, r['discipline'], event_age):
-            eligible_age = event_age
-        elif event_age in OLDER_AGE and is_eligible(name, r['discipline'], OLDER_AGE[event_age]):
-            eligible_age = OLDER_AGE[event_age]
-        if not eligible_age:
-            continue
         entry = dict(r, player=name)
-        player_results[(name, r['discipline'], eligible_age)].append(entry)
+        added = False
+        # Count in the event's own age group if eligible
+        if is_eligible(name, r['discipline'], event_age):
+            player_results[(name, r['discipline'], event_age)].append(entry)
+            added = True
+        # Also carry up to the older age group if eligible there
+        if event_age in OLDER_AGE and is_eligible(name, r['discipline'], OLDER_AGE[event_age]):
+            player_results[(name, r['discipline'], OLDER_AGE[event_age])].append(entry)
+            added = True
+        if not added:
+            continue
 
 # ── Calculate top-4 scores ────────────────────────────────────────────────────
 ranking_rows = []

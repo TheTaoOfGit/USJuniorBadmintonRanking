@@ -7,6 +7,15 @@ from collections import defaultdict
 from html import escape
 
 AGE_ORDER = ['U11', 'U13', 'U15', 'U17', 'U19']
+
+# Load player slug mapping for links
+player_slugs = {}
+try:
+    with open('data/player_slugs.csv', encoding='utf-8') as f:
+        for r in csv.DictReader(f):
+            player_slugs[r['name']] = r['slug']
+except FileNotFoundError:
+    pass
 DISC_ORDER = ['BS', 'GS', 'BD', 'GD', 'XD']
 DISC_NAMES = {
     'BS': "Boys' Singles", 'GS': "Girls' Singles",
@@ -53,6 +62,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .header { background: linear-gradient(135deg, #1a3a5c, #2d6aa0); color: white; padding: 24px 20px 16px; text-align: center; }
 .header h1 { font-size: 24px; margin-bottom: 4px; }
 .header p { opacity: 0.8; font-size: 14px; }
+.stats-link { display: inline-block; margin-top: 10px; padding: 8px 20px; background: rgba(255,255,255,0.15); color: white; text-decoration: none; border: 1px solid rgba(255,255,255,0.4); border-radius: 6px; font-size: 14px; font-weight: 500; transition: background 0.15s; }
+.stats-link:hover { background: rgba(255,255,255,0.25); }
 .controls { background: white; border-bottom: 1px solid #ddd; padding: 12px 20px; position: sticky; top: 0; z-index: 10; }
 .age-tabs { display: flex; gap: 4px; justify-content: center; margin-bottom: 8px; }
 .age-tabs button { padding: 8px 20px; border: 2px solid #2d6aa0; background: white; color: #2d6aa0; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 14px; transition: all 0.15s; }
@@ -97,6 +108,7 @@ tr.hidden { display: none; }
 <div class="header">
   <h1>USA Badminton Junior Rankings</h1>
   <p>2025-2026 Season &middot; Top 4 tournament scores &middot; Updated March 1, 2026</p>
+  <a href="https://usjuniorbadmintonranking.com/stats" class="stats-link">Player Stats &rarr;</a>
 </div>
 <div class="controls">
   <div class="age-tabs" id="ageTabs">
@@ -138,10 +150,17 @@ for age in AGE_ORDER:
             detail = escape(shorten_detail(r['top4_detail']))
             counted = r['tournaments_counted']
             total = r['tournaments_total']
+            # Link player name to individual page
+            player_name = r["player"]
+            slug = player_slugs.get(player_name)
+            if slug:
+                player_html = f'<a href="players/{slug}.html" style="color:inherit;text-decoration:none;border-bottom:1px dashed #ccc">{escape(player_name)}</a>'
+            else:
+                player_html = escape(player_name)
             html_parts.append(
                 f'<tr class="{rank_cls.strip()}">'
                 f'<td class="rank-col">{i}</td>'
-                f'<td class="player-col">{escape(r["player"])}</td>'
+                f'<td class="player-col">{player_html}</td>'
                 f'<td class="pts-col">{int(r["total_pts"]):,}</td>'
                 f'<td class="count-col">{counted}/{total}</td>'
                 f'<td class="detail-col">{detail}</td>'

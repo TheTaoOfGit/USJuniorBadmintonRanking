@@ -7,17 +7,17 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Matthew Alexander Lau,,HBB,13,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Ananth Vasappanavara,,SYN,18,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Justin Yang,,BIN,28,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Jake Shi,,BIN,30,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Nirav Proddaturi,,BIN,7,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Mingke Ding,,BIN,15,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Jayden Ma,,PBC,17,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Tyler Jiang,,BIN,3,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Vincent Xiaoyuan Zhang,,EBC,11,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Andy Cheng,,BIN,22,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Howard Yang Law,,USBA,25,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Abhinav Praveen,,SYN,16,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Vikram Charapalli,,BIN,20,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Dharshik Uchanan Anand,,BBC,26,13,16,C:Round 2 (W/O)
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Abhinav Praveen,,SYN,16,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Dharshik Uchanan Anand,,BBC,26,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Tyler Jiang,,BIN,3,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Nirav Proddaturi,,BIN,7,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Vincent Xiaoyuan Zhang,,EBC,11,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Mingke Ding,,BIN,15,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Jayden Ma,,PBC,17,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Vikram Charapalli,,BIN,20,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Andy Cheng,,BIN,22,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Howard Yang Law,,USBA,25,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U11,Jake Shi,,BIN,30,17,32,Round 2
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Isha Suresh,3/4,SYN,24,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Shreya Rajesh Kumar,3/4,BIN,9,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Venba Senkadir,2,BIN,32,3,3,Semi Finals
@@ -25,17 +25,17 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Nina Kuan,1,BEL,1,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Samanvi Shetty,,BIN,15,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Saanvi Jha,,HBB,17,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Aadya Patil,,BIN,22,5,5,C:Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Daisy Ma,,Can-Am,28,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Sarah Lin,,Can-Am,16,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Ella Kung,,PBC,7,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Elina Xiao-En Yang,,BIN,26,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,East Reyes,,ZBTC,3,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Ivy Lu,,SYN,11,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Grace Y Li,,PBC,20,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Anvitha Krishnan,,USBA,30,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Bingru Huang,,USBA,13,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Layaa Vijayshankar,,BIN,18,13,16,C:Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,East Reyes,,ZBTC,3,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Ella Kung,,PBC,7,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Ivy Lu,,SYN,11,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Bingru Huang,,USBA,13,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Sarah Lin,,Can-Am,16,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Layaa Vijayshankar,,BIN,18,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Grace Y Li,,PBC,20,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Aadya Patil,,BIN,22,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Elina Xiao-En Yang,,BIN,26,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U11,Anvitha Krishnan,,USBA,30,17,32,Round 2
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Devaansh MahatoVenba Senkadir,,SYNBIN,12,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Toby Liu [1]Nina Kuan,,SYNBEL,1,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Shrihayagrivan Karthigayan [2]Shreya Rajesh Kumar,,SYNBIN,16,3,3,Semi Finals
@@ -44,12 +44,12 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Marcus ChenIvy Lu,,BINSYN,5,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Timmy Qinnuo FanSarah Lin,,USBACan-Am,10,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Jake ShiDaisy Ma,,BINCan-Am,13,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Abhinav PraveenAadya Patil,,SYNBIN,14,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Matthew Alexander LauSaanvi Jha,,HBBHBB,4,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Howard Yang LawAnvitha Krishnan,,USBAUSBA,7,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Ananth VasappanavaraBingru Huang,,SYNUSBA,9,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Andy ChengElla Kung,,BINPBC,6,13,16,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Vincent Xiaoyuan ZhangGrace Y Li,,EBCPBC,11,13,16,C:Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Matthew Alexander LauSaanvi Jha,,HBBHBB,4,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Andy ChengElla Kung,,BINPBC,6,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Howard Yang LawAnvitha Krishnan,,USBAUSBA,7,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Ananth VasappanavaraBingru Huang,,SYNUSBA,9,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Vincent Xiaoyuan ZhangGrace Y Li,,EBCPBC,11,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U11,Abhinav PraveenAadya Patil,,SYNBIN,14,9,16,Round 1
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U11,Shrihayagrivan Karthigayan [1]Toby Liu,,SYNSYN,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U11,Devaansh Mahato [2]Justin Yang,,SYNBIN,8,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U11,Marcus ChenNirav Proddaturi,,BINBIN,3,3,3,Semi Finals
@@ -63,8 +63,8 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U11 - Position 1-4,Daisy MaElina Xiao-En Yang,,Can-AmBIN,2,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U11 - Position 1-4,Saanvi JhaAadya Patil,,HBBBIN,3,4,4,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U11 - Position 5-8,Sarah LinIvy Lu,,Can-AmSYN,1,1,1,Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U11 - Position 5-8,Ella KungGrace Y Li,,PBCPBC,4,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U11 - Position 5-8,Bingru HuangAnvitha Krishnan,,USBAUSBA,2,3,3,Semi Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U11 - Position 5-8,Ella KungGrace Y Li,,PBCPBC,4,4,4,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Harrison Zhang,,EBC,7,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Liam Xiao,,NJBC,23,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Daiwik Reddy,3/4,SYN,9,3,3,Semi Finals
@@ -73,210 +73,210 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Ethan Xiao-ze Yang,,BIN,14,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Evan Lu,,WZQ,17,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Ganesh Karthik,,BIN,27,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Atharva Abhijith,,BBC,28,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Yinuo Gan,,BBC,6,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Nathan Jeremy Santoso,,BIN,10,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Morgan Lu,,BIN,21,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Matthew Yin,,SYN,3,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Aarav Biyani,,BBC,13,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Austin Ren,,BIN,18,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Lohitaksh Chandu,,BIN,30,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Pranav Vijay,,BIN,4,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Jonathan Loh,,BIN,5,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Raymond Cai,,BIN,12,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Aditya Charapalli,,BIN,15,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Allen Wu,,SYN,20,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Jason Zhu,,BBC,22,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Jason Chang,,BIN,26,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Vraj Ashutosh Raval,,SYN,31,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Krish Ramachandran,,BIN,8,17,24,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Nathan Xiong,,Can-Am,11,17,24,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Anvay Reddy Maram,,EBC,16,17,24,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Carlo Feng,,BIN,19,17,24,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Satvikram Parvathaneni,3/4,BIN,24,17,24,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Krishna Bhabu,,Sonic,25,17,24,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Aiden Ziran Xu,,BBC,29,17,24,C:Round 1 (W/O)
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Pranav Vijay,,BIN,4,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Jonathan Loh,,BIN,5,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Raymond Cai,,BIN,12,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Aditya Charapalli,,BIN,15,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Allen Wu,,SYN,20,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Jason Zhu,,BBC,22,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Jason Chang,,BIN,26,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Lohitaksh Chandu,,BIN,30,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Matthew Yin,,SYN,3,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Yinuo Gan,,BBC,6,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Krish Ramachandran,,BIN,8,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Nathan Jeremy Santoso,,BIN,10,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Nathan Xiong,,Can-Am,11,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Aarav Biyani,,BBC,13,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Anvay Reddy Maram,,EBC,16,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Austin Ren,,BIN,18,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Carlo Feng,,BIN,19,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Morgan Lu,,BIN,21,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Satvikram Parvathaneni,3/4,BIN,24,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Krishna Bhabu,,Sonic,25,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Atharva Abhijith,,BBC,28,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Aiden Ziran Xu,,BBC,29,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U13,Vraj Ashutosh Raval,,SYN,31,17,32,Round 1
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Sophia Z Liu,3/4,HBB,9,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Zelenia Shen,3/4,EBC,24,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Grace Cheng,1,BIN,1,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Madison Bach,,SYN,28,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Sophia Coco Wang,,Sonic,5,5,5,C:Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Emily Chan,,SYN,8,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Katherine Zhou,,EBC,13,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Grace Li,,BIN,19,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Arundhathi Padma Mohan,2,BIN,32,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Shaoxuan Gong,,Can-Am,20,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Netri Vasireddy,,USBA,12,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Yueran Jiang,,BIN,27,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Chuqi Julie Jin,,EBC,4,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Molly Wei,,BIN,14,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Mira Kiran,,BIN,22,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Soudamini Reddy,,TBA,30,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Xiner Hu,,Can-Am,3,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Emma Yang,,HBB,6,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Anvita V Pai,,BIN,11,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Riya Prasanna,,Can-Am,16,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Ayushi Raheja,,USBA,18,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Anyashree Anand,,EBC,26,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Ellie Chen,,Can-Am,29,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Anahita Shrivastava,,BIN,7,17,24,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Harshini Purushothaman,,SYN,15,17,24,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Tanishi Desai,,SYN,17,17,24,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Qingyao Liu,,HBB,21,17,24,C:Round 1 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Aalia Sawlani,,BIN,25,17,24,C:Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Xiner Hu,,Can-Am,3,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Emma Yang,,HBB,6,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Anvita V Pai,,BIN,11,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Riya Prasanna,,Can-Am,16,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Ayushi Raheja,,USBA,18,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Mira Kiran,,BIN,22,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Anyashree Anand,,EBC,26,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Ellie Chen,,Can-Am,29,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Chuqi Julie Jin,,EBC,4,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Sophia Coco Wang,,Sonic,5,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Anahita Shrivastava,,BIN,7,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Netri Vasireddy,,USBA,12,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Molly Wei,,BIN,14,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Harshini Purushothaman,,SYN,15,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Tanishi Desai,,SYN,17,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Shaoxuan Gong,,Can-Am,20,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Qingyao Liu,,HBB,21,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Aalia Sawlani,,BIN,25,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Yueran Jiang,,BIN,27,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U13,Soudamini Reddy,,TBA,30,17,32,Round 1
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Harrison Zhang [1]Grace Cheng,,EBCBIN,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Chiranjeev Deepak [2]Siddhi Thorat,,SYNHBB,32,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Shravan Chockalingam [3/4]Arundhathi Padma Mohan,,BINBIN,24,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Eli You [3/4]Zelenia Shen,,HBBEBC,9,4,4,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Jonathan ZhangMadison Bach,,SYNSYN,8,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Naksh ShettyXiner Hu,,SYNCan-Am,11,5,5,C:Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Yinuo GanQingyao Liu,,BBCHBB,16,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Leo YeAyushi Raheja,,EBCUSBA,18,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Daiwik ReddyAnvita V Pai,,SYNBIN,25,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Daniel LiChuqi Julie Jin,,HBBEBC,20,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Pranav VijayEllie Chen,,BINCan-Am,7,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Nathan Jeremy SantosoYueran Jiang,,BINBIN,26,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Ethan Xiao-ze YangElina Xiao-En Yang,,BINBIN,3,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Allen WuMolly Wei,,SYNBIN,13,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Krishna BhabuMira Kiran,,SonicBIN,22,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Morgan LuRiya Prasanna,,BINCan-Am,30,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Liam XiaoSophia Coco Wang,,NJBCSonic,5,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Lohitaksh ChanduNetri Vasireddy,,BINUSBA,15,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Aarav BiyaniAnyashree Anand,,BBCEBC,17,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Aiden Ziran XuShaoxuan Gong,,BBCCan-Am,21,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Atharva AbhijithSoudamini Reddy,,BBCTBA,28,13,16,C:Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Aiden Ziran XuShaoxuan Gong,,BBCCan-Am,21,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Ethan Xiao-ze YangElina Xiao-En Yang,,BINBIN,3,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Liam XiaoSophia Coco Wang,,NJBCSonic,5,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Pranav VijayEllie Chen,,BINCan-Am,7,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Naksh ShettyXiner Hu,,SYNCan-Am,11,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Allen WuMolly Wei,,SYNBIN,13,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Lohitaksh ChanduNetri Vasireddy,,BINUSBA,15,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Aarav BiyaniAnyashree Anand,,BBCEBC,17,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Daniel LiChuqi Julie Jin,,HBBEBC,20,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Krishna BhabuMira Kiran,,SonicBIN,22,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Nathan Jeremy SantosoYueran Jiang,,BINBIN,26,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Atharva AbhijithSoudamini Reddy,,BBCTBA,28,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U13,Morgan LuRiya Prasanna,,BINCan-Am,30,17,32,Round 2
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Chiranjeev Deepak [1]Anshu Gowda,,SYNSYN,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Daiwik ReddyJonathan Zhang,,SYNSYN,13,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Liam XiaoAiden Ziran Xu,,NJBCBBC,11,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Evan LuJason Zhu,,WZQBBC,7,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Daniel LiMorgan Lu,,HBBBIN,4,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Atharva AbhijithAarav Biyani,,BBCBBC,9,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Jason ChangAustin Ren,,BINBIN,8,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Carlo FengNathan Jeremy Santoso,,BINBIN,14,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Jonathan LohEthan Xiao-ze Yang,,BINBIN,3,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Lohitaksh ChanduAditya Charapalli,,BINBIN,5,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Ganesh KarthikKrish Ramachandran,,BINBIN,10,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Leo Ye [2]Eli You,,EBCHBB,16,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Allen WuMatthew Yin,,SYNSYN,12,13,16,C:Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Jonathan LohEthan Xiao-ze Yang,,BINBIN,3,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Ganesh KarthikKrish Ramachandran,,BINBIN,10,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Daniel LiMorgan Lu,,HBBBIN,4,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Lohitaksh ChanduAditya Charapalli,,BINBIN,5,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Jason ChangAustin Ren,,BINBIN,8,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Atharva AbhijithAarav Biyani,,BBCBBC,9,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Allen WuMatthew Yin,,SYNSYN,12,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Carlo FengNathan Jeremy Santoso,,BINBIN,14,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U13,Leo Ye [2]Eli You,,EBCHBB,16,9,16,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Grace Cheng [1]Zelenia Shen,,BINEBC,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Xiner Hu [2]Sophia Z Liu,,Can-AmHBB,16,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Madison BachEmily Chan,,SYNSYN,7,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Grace LiAnvita V Pai,,BINBIN,9,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Ellie ChenShaoxuan Gong,,Can-AmCan-Am,8,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Anyashree AnandSophia Coco Wang,,EBCSonic,12,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Riya PrasannaMolly Wei,,Can-AmBIN,3,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Anahita ShrivastavaNetri Vasireddy,,BINUSBA,14,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Arundhathi Padma MohanAyushi Raheja,,BINUSBA,4,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Mira KiranHarshini Purushothaman,,BINSYN,5,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Tanishi DesaiAalia Sawlani,,SYNBIN,10,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Chuqi Julie JinKatherine Zhou,,EBCEBC,13,9,12,C:Quarter Finals (W/O)
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Arundhathi Padma MohanAyushi Raheja,,BINUSBA,4,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Chuqi Julie JinKatherine Zhou,,EBCEBC,13,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Riya PrasannaMolly Wei,,Can-AmBIN,3,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Mira KiranHarshini Purushothaman,,BINSYN,5,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Ellie ChenShaoxuan Gong,,Can-AmCan-Am,8,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Tanishi DesaiAalia Sawlani,,SYNBIN,10,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Anyashree AnandSophia Coco Wang,,EBCSonic,12,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U13,Anahita ShrivastavaNetri Vasireddy,,BINUSBA,14,9,16,Round 1
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Pranav Vivek,1,SYN,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Tao Peng,3/4,SYN,24,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Prathik Nemani,2,BIN,32,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Hardik Gowrish,3/4,BIN,9,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Logan Lu,,BIN,3,5,5,C:Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Jonah Chenfei Wong,,USBA,8,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Darren Zhong,,BBC,16,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Anshu Gowda,,SYN,17,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Jonathan Zhang,,SYN,26,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Siddhant Pruthi,,SYN,30,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Sriyansh Chigullapally,,BIN,15,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Arav Kolli,,BIN,20,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Arnav Godbole,,BIN,5,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Ashwath Vasappanavara,,SYN,11,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Tyler Chang,,ZinYaw,22,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Vihaan Vinod,,BIN,28,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Alan Ma,,PBC,7,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Lucas Lu,,SYN,13,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Charlie W Gao,,EBC,18,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Landon Ling,,BIN,21,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Charlie Chen,,BIN,25,13,16,C:Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Landon Ling,,BIN,21,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Logan Lu,,BIN,3,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Arnav Godbole,,BIN,5,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Alan Ma,,PBC,7,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Ashwath Vasappanavara,,SYN,11,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Lucas Lu,,SYN,13,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Sriyansh Chigullapally,,BIN,15,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Charlie W Gao,,EBC,18,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Arav Kolli,,BIN,20,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Tyler Chang,,ZinYaw,22,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Charlie Chen,,BIN,25,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Vihaan Vinod,,BIN,28,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U15,Siddhant Pruthi,,SYN,30,17,32,Round 2
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Sahasra Reddy,1,USBA,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Irene Xu,,BIN,22,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Sherlyn Mei,,BIN,25,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Saanya Sreenivas,,BIN,15,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Siddhi Thorat,3/4,HBB,24,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Sanjanaa V Priya,,BIN,7,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Tara Karthik,,SYN,16,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Zoe Wong,,SYN,28,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Samyukta Karthik,,BIN,3,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Anya Virmani,,SYN,5,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Abhi Arun Kumar,,SYN,11,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Pranathi Chilukuri,,USBA,17,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Shirin Shaik,,BIN,20,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Alice Luo,,EBC,30,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Shrivaishnavi Jami,2,BIN,32,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Kavya Goyal,3/4,BIN,9,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Sophie Lin,,Can-Am,13,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Riya Naik,,SYN,18,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Adithi Krishnan,,USBA,26,13,16,C:Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Anya Virmani,,SYN,5,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Abhi Arun Kumar,,SYN,11,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Shirin Shaik,,BIN,20,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Shrivaishnavi Jami,2,BIN,32,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Riya Naik,,SYN,18,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Samyukta Karthik,,BIN,3,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Sanjanaa V Priya,,BIN,7,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Kavya Goyal,3/4,BIN,9,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Sophie Lin,,Can-Am,13,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Tara Karthik,,SYN,16,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Pranathi Chilukuri,,USBA,17,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Siddhi Thorat,3/4,HBB,24,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Adithi Krishnan,,USBA,26,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Zoe Wong,,SYN,28,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U15,Alice Luo,,EBC,30,17,32,Round 2
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Joey Liu [2]Sophia Z Liu,,HBBHBB,16,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Prathik Nemani [1]Sahasra Reddy,,BINUSBA,1,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Dhruvan KarthikAnya Virmani,,SYNSYN,9,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Sriyansh ChigullapallyRiya Naik,,BINSYN,5,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Logan LuAlice Luo,,BINEBC,12,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Siddhant PruthiZoe Wong,,SYNSYN,7,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Alan MaSophie Lin,,PBCCan-Am,3,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Vihaan VinodAdithi Krishnan,,BINUSBA,14,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Hardik GowrishIrene Xu,,BINBIN,8,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Jonathan LohSherlyn Mei,,BINBIN,10,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Kenneth WuSaanya Sreenivas,,BINBIN,13,9,12,C:Quarter Finals (W/O)
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Hardik GowrishIrene Xu,,BINBIN,8,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Kenneth WuSaanya Sreenivas,,BINBIN,13,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Alan MaSophie Lin,,PBCCan-Am,3,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Siddhant PruthiZoe Wong,,SYNSYN,7,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Jonathan LohSherlyn Mei,,BINBIN,10,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Logan LuAlice Luo,,BINEBC,12,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U15,Vihaan VinodAdithi Krishnan,,BINUSBA,14,9,16,Round 1
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U15 - Position 1-4,Tao Peng [1]Kenneth Wu,,SYNBIN,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U15 - Position 1-4,Lucas LuSiddhant Pruthi,,SYNSYN,3,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U15 - Position 1-4,Alan MaJonah Chenfei Wong,,PBCUSBA,4,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U15 - Position 1-4,Charlie W GaoLandon Ling,,EBCBIN,2,4,4,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U15 - Position 5-8,Sriyansh ChigullapallyVihaan Vinod,,BINBIN,1,1,1,Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U15 - Position 5-8,Charlie Chen [2]Logan Lu,,BINBIN,4,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U15 - Position 5-8,Arnav GodboleAshwath Vasappanavara,,BINSYN,2,3,3,Semi Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U15 - Position 5-8,Charlie Chen [2]Logan Lu,,BINBIN,4,4,4,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Sherlyn MeiIrene Xu,,BINBIN,12,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Samyukta Karthik [1]Saanya Sreenivas,,BINBIN,1,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Kavya GoyalAnya Virmani,,BINSYN,14,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Alice LuoRiya Naik,,EBCSYN,7,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Shrivaishnavi Jami [2]Sanjanaa V Priya,,BINBIN,16,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Abhi Arun KumarSiddhi Thorat,,SYNHBB,5,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Pranathi ChilukuriAdithi Krishnan,,USBAUSBA,3,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Yueran JiangSophie Lin,,BINCan-Am,9,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Tara KarthikZoe Wong,,SYNSYN,10,9,12,C:Quarter Finals (W/O)
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Tara KarthikZoe Wong,,SYNSYN,10,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Pranathi ChilukuriAdithi Krishnan,,USBAUSBA,3,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Abhi Arun KumarSiddhi Thorat,,SYNHBB,5,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Yueran JiangSophie Lin,,BINCan-Am,9,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GD U15,Shrivaishnavi Jami [2]Sanjanaa V Priya,,BINBIN,16,9,16,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Krish Ashok,2,BIN,32,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Joey Liu,,HBB,13,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Mi Michael Liu,,BIN,5,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Aryan Mohan,,BIN,22,4,4,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Aidan Wong,1,BIN,1,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Isaac Wong,,EBC,3,5,5,C:Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Ethan Chan,3/4,SYN,9,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Kehong Ng,,BBC,17,5,8,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Andy W Gao,,EBC,25,5,8,Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Dhruvan Karthik,,SYN,18,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Jonathan Phmah,,PBC,16,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Rishabh Praveen,,SYN,30,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Anish Koppula,,BIN,7,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Aarush Hegde Shanbhog,,BIN,11,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Andrew Poh,3/4,BIN,24,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Prithvi Roopa Pradeep,,BIN,26,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Shriariman Karthigayan,,SYN,8,13,16,C:Round 2 (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Ridhiman Krishna Patwari,,BIN,20,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Dylan Yang,,NORCAL,28,13,16,C:Round 2
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Aarush Gaddai,,BIN,15,17,24,C:Round 1 (W/O)
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Shriariman Karthigayan,,SYN,8,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Jonathan Phmah,,PBC,16,9,16,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Isaac Wong,,EBC,3,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Anish Koppula,,BIN,7,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Aarush Hegde Shanbhog,,BIN,11,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Aarush Gaddai,,BIN,15,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Dhruvan Karthik,,SYN,18,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Ridhiman Krishna Patwari,,BIN,20,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Andrew Poh,3/4,BIN,24,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Prithvi Roopa Pradeep,,BIN,26,17,32,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Dylan Yang,,NORCAL,28,17,32,Round 2
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U17,Rishabh Praveen,,SYN,30,17,32,Round 2
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Selina Xu,,BIN,13,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Katie Wong,1,BIN,1,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Aarshi Jain,,SYN,9,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Varshini Subramanian,,SYN,5,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Mihika Jaiswal,2,SYN,16,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Daksha Ravindhar,,SYN,3,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Jasmine Chang,,ZinYaw,8,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Tamara Valueva,,PBC,12,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Rishika Nanda,,BIN,7,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Surbhi Sakshi,,BIN,10,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Allison Hsu,,EBC,14,9,12,C:Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Rishika Nanda,,BIN,7,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Daksha Ravindhar,,SYN,3,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Jasmine Chang,,ZinYaw,8,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Surbhi Sakshi,,BIN,10,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Tamara Valueva,,PBC,12,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Allison Hsu,,EBC,14,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,GS U17,Mihika Jaiswal,2,SYN,16,9,16,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Krish Ashok [1]Daby Huang,,BIN03IB,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Tao PengMihika Jaiswal,,SYNSYN,10,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Prithvi Roopa PradeepRishika Nanda,,BINBIN,5,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Aryan MohanNidhi Sujin,,BINBIN,14,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Kehong NgKatie Wong,,BBCBIN,3,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Aidan Wong [2]Tamara Valueva,,BINPBC,16,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Jonathan PhmahSurbhi Sakshi,,PBCBIN,7,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Ridhiman Krishna PatwariAarshi Jain,,BINSYN,12,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Isaac WongJasmine Chang,,EBCZinYaw,9,9,12,C:Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Kehong NgKatie Wong,,BBCBIN,3,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Jonathan PhmahSurbhi Sakshi,,PBCBIN,7,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Isaac WongJasmine Chang,,EBCZinYaw,9,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Ridhiman Krishna PatwariAarshi Jain,,BINSYN,12,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U17,Aidan Wong [2]Tamara Valueva,,BINPBC,16,9,16,Quarter Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U17,Joey Liu [1]Aryan Mohan,,HBBBIN,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U17,Kehong NgAidan Wong,,BBCBIN,5,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BD U17,Rishabh Praveen [2]Pranav Vivek,,SYNSYN,8,3,3,Semi Finals
@@ -289,16 +289,16 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Kevin Zhang,,EBC,3,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Aagnaey Gulla Pulijal,,EBC,5,3,3,Semi Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Pranav Rao,,SYN,11,4,4,Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Ryan Tiong,,SYN,4,5,5,C:Winner
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Lenny Zhang,,SYN,10,6,6,C:Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Jackson Mao,,SYN,6,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Nikhil Kandalam,,SYN,13,7,8,C:Semi Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Allen Yang,1,SYN,1,9,12,C:Quarter Finals
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Jayden Mar,,SYN,8,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Gleb Valuev,,PBC,9,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Tsun Him Lam,,HBB,14,9,12,C:Quarter Finals (W/O)
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Vincent He,,HBB,7,13,16,C:Round 1
-2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Muyang Li,,EBC,12,13,16,C:Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Jayden Mar,,SYN,8,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Gleb Valuev,,PBC,9,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Tsun Him Lam,,HBB,14,5,8,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Allen Yang,1,SYN,1,9,16,Quarter Finals
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Ryan Tiong,,SYN,4,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Jackson Mao,,SYN,6,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Vincent He,,HBB,7,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Lenny Zhang,,SYN,10,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Muyang Li,,EBC,12,9,16,Round 1
+2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,BS U19,Nikhil Kandalam,,SYN,13,9,16,Round 1
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U19 - Position 1-4,Arush Shyam Chitgopkar [1]Sophia Jia,,BINBIN,1,1,1,Winner
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U19 - Position 1-4,Kevin Zhang [2]Xinyan Zeng,,EBCEBC,4,2,2,Finals
 2025 CAN-AM Elite NorCal OLC,2025-06-13/2025-06-15,XD U19 - Position 1-4,Justin LiawAngelina Lin Wu,,SYNUSBA,2,3,3,Semi Finals

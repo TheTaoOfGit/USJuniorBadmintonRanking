@@ -23,15 +23,15 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Adrian Zhang,1,ILLINOIS,1,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Advith Karnam,,GEORGIA,10,3,3,Semi Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Andrew Sinyushkin,,MD,5,4,4,Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Pradhyumn Surendran,2,Illinois,16,5,5,C:Winner
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Franklin An,,,4,6,6,C:Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Daniel Han,,IN,7,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Aarav Muthu Rajavel,,,9,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Venkata Sai Sreekar Kondamuri,,,3,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Peter Lei,,Illinois,8,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Warren Wenxuan Huang,,IL,12,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Matthew Jerome,,IL,14,9,12,C:Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Hrishikesh Gollamudi,,IN,11,13,16,C:Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Venkata Sai Sreekar Kondamuri,,,3,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Peter Lei,,Illinois,8,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Warren Wenxuan Huang,,IL,12,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Franklin An,,,4,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Daniel Han,,IN,7,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Aarav Muthu Rajavel,,,9,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Hrishikesh Gollamudi,,IN,11,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Matthew Jerome,,IL,14,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U13,Pradhyumn Surendran,2,Illinois,16,9,16,Quarter Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U13,Catherine Chen,1,IL,1,1,1,Winner
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U13,Rachel Yuezhi Xu,2,IL,8,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U13,Sahasra Nali,,IL,4,3,3,Semi Finals
@@ -52,36 +52,36 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Bavish Reddi Dornala,1,IL,1,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Brighton Yu,,IL,10,3,3,Semi Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Nithesh Madishetti,,Il,8,4,4,Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Eric Zhang,,,5,5,5,C:Winner
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Amaan Mohammad,,Michigan,11,6,6,C:Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Arjun Roshan Nair,,,3,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Akindu Wanigasooriya,,IL,13,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Lucas Lin,,,4,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Urav Gupta,,,7,9,12,C:Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Ashrith Raj Vuppala,,IL,12,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Tinghao Tan,,IL,14,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Advik Rai,,,9,13,16,C:Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Lucas Lin,,,4,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Ashrith Raj Vuppala,,IL,12,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Tinghao Tan,,IL,14,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Arjun Roshan Nair,,,3,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Eric Zhang,,,5,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Urav Gupta,,,7,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Advik Rai,,,9,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Amaan Mohammad,,Michigan,11,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U15,Akindu Wanigasooriya,,IL,13,9,16,Round 1
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Sahana Samarthy,,Illinois,7,1,1,Winner
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Ivy Chang,2,,16,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Catherine Du,1,il,1,3,3,Semi Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Dhyuti Aruru,,,12,4,4,Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Cynthia Shaw,,,5,5,5,C:Winner
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Xinyue Jin,,IL,9,6,6,C:Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Yingxi Li,,IL,14,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Andrea Lee,,IL,3,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Maggie Lai Bao,,IL,8,9,12,C:Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Aanya Ahuja,,IL,10,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Akshara Saravanakumar,,IL,13,9,12,C:Quarter Finals (W/O)
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Aanya Ahuja,,IL,10,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Akshara Saravanakumar,,IL,13,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Andrea Lee,,IL,3,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Cynthia Shaw,,,5,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Maggie Lai Bao,,IL,8,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Xinyue Jin,,IL,9,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U15,Yingxi Li,,IL,14,9,16,Round 1
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Bavish Reddi Dornala [1]Catherine Du,,ILil,1,1,1,Winner
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Luke WenIvy Chang,,IN,9,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Ashrith Raj VuppalaAndrea Lee,,ILIL,14,3,3,Semi Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Eric ZhangXinyue Jin,,IL,7,4,4,Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Nithesh MadishettiDhyuti Aruru,,Il,12,5,5,C:Winner
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Amaan MohammadMaggie Lai Bao,,MichiganIL,8,6,6,C:Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Advik RaiCynthia Shaw,,,3,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Tinghao Tan [2]Sahana Samarthy,,ILIllinois,16,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Arjun Roshan NairAanya Ahuja,,IL,5,9,12,C:Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Akindu WanigasooriyaAkshara Saravanakumar,,ILIL,10,9,12,C:Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Advik RaiCynthia Shaw,,,3,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Arjun Roshan NairAanya Ahuja,,IL,5,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Amaan MohammadMaggie Lai Bao,,MichiganIL,8,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Akindu WanigasooriyaAkshara Saravanakumar,,ILIL,10,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Nithesh MadishettiDhyuti Aruru,,Il,12,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U15,Tinghao Tan [2]Sahana Samarthy,,ILIllinois,16,9,16,Quarter Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GD U15,Catherine Du [1]Sahana Samarthy,,ilIllinois,1,1,1,Winner
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GD U15,Catherine Chen [2]Rachel Yuezhi Xu,,ILIL,8,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GD U15,Ivy ChangPearl Li,,IL,5,3,3,Semi Finals
@@ -94,40 +94,40 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Melvin Cui,2,IL,16,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Agastya Kalal,,IL,8,3,3,Semi Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Eric Zhun Hu,,IL,9,4,4,Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Steven Lei,,IL,5,5,5,C:Winner
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Kerrick Linn Hu,,IL,13,6,6,C:Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Pranav Gyajangi,,IL,3,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Justin John George,,IL,10,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Shawn Ye,,,7,9,12,C:Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Chandresh Gopal,,IL,12,9,12,C:Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Reyansh Nehwal,,ILLINOIS,14,9,12,C:Quarter Finals (W/O)
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Reyansh Nehwal,,ILLINOIS,14,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Pranav Gyajangi,,IL,3,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Steven Lei,,IL,5,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Shawn Ye,,,7,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Justin John George,,IL,10,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Chandresh Gopal,,IL,12,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U17,Kerrick Linn Hu,,IL,13,9,16,Round 1
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Kaitlyn Kim,3/4,Illinois,5,1,1,Winner
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Allison Zhao,2,Illinois,16,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Hanyi (Sissi) Lei,1,IL,1,3,3,Semi Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Paige Xu,3/4,IL,12,4,4,Semi Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Srivarshini Badrinarayanan,,IL,4,5,8,Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Ava Lee,,IL,6,5,5,C:Winner
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Emma Qin,,IL,7,5,8,Quarter Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Tianrui Peng,,,9,5,8,Quarter Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Kaylie Liu,,IL,14,5,8,Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Naisha Madkaiker,,IL,10,6,6,C:Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Jocelyn Jerome,,IL,2,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Allie Ko,,,13,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Raksha Mullangi,,IL,3,13,16,C:Round 1
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Hannya Keswani,,IL,8,13,16,C:Round 1
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Gauri Thekkittil,,IL,11,13,16,C:Round 1
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Avani Ajmire,,IL,15,13,16,C:Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Jocelyn Jerome,,IL,2,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Raksha Mullangi,,IL,3,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Ava Lee,,IL,6,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Hannya Keswani,,IL,8,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Naisha Madkaiker,,IL,10,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Gauri Thekkittil,,IL,11,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Allie Ko,,,13,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,GS U17,Avani Ajmire,,IL,15,9,16,Round 1
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Jacob Ma [2]Charvi Srivastava,,ILIllinois,16,1,1,Winner
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Jason Gu [1]Elena Zhang,,IL,1,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Pranav GyajangiAllison Zhao,,ILIllinois,7,3,3,Semi Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Steven LeiHanyi (Sissi) Lei,,ILIL,9,4,4,Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Brighton YuSrivarshini Badrinarayanan,,ILIL,10,5,5,C:Winner
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Eric Zhun HuPaige Xu,,ILIL,8,6,6,C:Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Reyansh NehwalAva Lee,,ILLINOISIL,3,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Urav GuptaGauri Thekkittil,,IL,13,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Chandresh GopalAvani Ajmire,,ILIL,5,9,12,C:Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Shawn YeHannya Keswani,,IL,12,9,12,C:Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Alex JiangEmma Qin,,ILIL,14,9,12,C:Quarter Finals (W/O)
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Alex JiangEmma Qin,,ILIL,14,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Reyansh NehwalAva Lee,,ILLINOISIL,3,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Chandresh GopalAvani Ajmire,,ILIL,5,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Eric Zhun HuPaige Xu,,ILIL,8,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Brighton YuSrivarshini Badrinarayanan,,ILIL,10,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Shawn YeHannya Keswani,,IL,12,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U17,Urav GuptaGauri Thekkittil,,IL,13,9,16,Round 1
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BD U17,Pranav Gyajangi [1]Agastya Kalal,,ILIL,1,1,1,Winner
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BD U17,Steven LeiBrighton Yu,,ILIL,4,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BD U17,Alex JiangJeffrey Wang,,IL,3,3,3,Semi Finals
@@ -140,15 +140,15 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Tahmid Hossain,1,Indiana,1,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Aaron Fu,,IL,10,3,3,Semi Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Yuta Ueki,,Illinois,7,4,4,Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Oliver Nguyen,,,4,5,5,C:Winner
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Aditya Prasad Iyer,,Illinois,12,6,6,C:Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Aadit Naik,,Illinois,8,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Tejas Ranade,,,14,7,8,C:Semi Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Vedanth Menon,,,3,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Manoj muthukrish Srinivasan,,IL,5,9,12,C:Quarter Finals
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Jun Yan Li,,IL,11,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Benson Liang,,MI,13,9,12,C:Quarter Finals (W/O)
-2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Guru Anish Agneeswaran,,Illinois,9,13,16,C:Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Vedanth Menon,,,3,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Jun Yan Li,,IL,11,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Benson Liang,,MI,13,5,8,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Oliver Nguyen,,,4,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Manoj muthukrish Srinivasan,,IL,5,9,16,Quarter Finals
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Aadit Naik,,Illinois,8,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Guru Anish Agneeswaran,,Illinois,9,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Aditya Prasad Iyer,,Illinois,12,9,16,Round 1
+2026 CBA Midwest OLC,2026-01-10/2026-01-11,BS U19,Tejas Ranade,,,14,9,16,Round 1
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U19,Tahmid HossainKaitlyn Kim,,IndianaIllinois,1,1,1,Winner
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U19,Vedanth MenonTianrui Peng,,,4,2,2,Finals
 2026 CBA Midwest OLC,2026-01-10/2026-01-11,XD U19,Aditya Prasad Iyer [1]Seoyoung Lee,,Illinois,3,3,3,Semi Finals

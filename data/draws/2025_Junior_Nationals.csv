@@ -802,9 +802,9 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U15,Shloka R EdunuriAriana Yang,,VAMN,15,33,48,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U15,Sanvi GargAmrutha Katta,,WAWA,16,33,48,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U15,Shreya S KirikeraEmma Qin,,MAIL,23,33,48,C:Round 2
-2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U15,Ashni MathureArtha Ram,,TXCA,27,33,48,C:Round 2 (W/O)
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U15,Yueran JiangSophie Lin,,CACA,29,33,48,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U15,Ellis HoAyaana Makker,,CAIL,32,33,48,C:Round 2
+2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U15,Ashni MathureArtha Ram,,TXCA,27,49,64,C:Round 1 (W/O)
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Saatvik Shetty,3/4,CA,96,1,1,Winner
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Kevin Zhang,9/16,CA,25,2,2,Finals
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Nithesh Haribabu,9/16,NC,57,3,3,Semi Finals
@@ -872,7 +872,6 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Eric Zhun Hu,,IL,8,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Vishanth Vijay,,GA,24,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Vignesh Jami,,CA,27,65,96,C:Round 2
-2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Aidan Wong [],,CA,29,65,96,C:Round 2 (W/O)
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Vedanth Menon,,IL,37,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Prithvi Roopa Pradeep,,CA,43,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Ridhiman Krishna Patwari,,CA,48,65,96,C:Round 2
@@ -882,7 +881,6 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Aaron Fu,,IL,61,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Dylan Yang,,CA,64,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Sriharsha Lakkapragada,,MA,69,65,96,C:Round 2
-2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Kehong Ng [],,CA,78,65,96,C:Round 2 (W/O)
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Aryan Mohan,,CA,82,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Aryan Dayaram,,CA,86,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Vihaan S Vinay,,GA,92,65,96,C:Round 2
@@ -891,6 +889,8 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Krishna Kuchi,,MA,106,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Shanmukh Ayyalasomayajula,,IL,113,65,96,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Jeffrey Wang,,IL,114,65,96,C:Round 2
+2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Aidan Wong [],,CA,29,97,128,C:Round 1 (W/O)
+2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BS U17,Kehong Ng [],,CA,78,97,128,C:Round 1 (W/O)
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GS U17,Clarinda Jin,1,IL,1,1,1,Winner
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GS U17,Adonia Anny Chandran,,NJ,52,2,2,Finals
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GS U17,Aadya Pitani,3/4,VA,17,3,3,Semi Finals
@@ -1021,9 +1021,7 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Trilochan JanakiramanNaresh Sriram,,NJMA,36,25,32,C:Round 3
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Stanley Jiaye SongKyson Tu,,WATX,54,25,32,C:Round 3
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Aaron LiaoLeheng Xu,,CACA,62,25,32,C:Round 3
-2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Kehong Ng []Aidan Wong,,CACA,3,33,48,C:Round 2 (W/O)
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Ishan KanchiVishanth Vijay,,NCGA,8,33,48,C:Round 2
-2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Adithya S BurisettyNikhil Peechara,,NCNC,11,33,48,C:Round 2 (W/O)
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Akshit SharmaGowshik Manogar Sudhagar,,GAGA,15,33,48,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Varin KarriDwijesh Makireddi,,TXMA,27,33,48,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Krishna KuchiSriharsha Lakkapragada,,MAMA,31,33,48,C:Round 2
@@ -1033,6 +1031,8 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Aarush GaddaiKido Phan,,CACA,44,33,48,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Vedanth MenonJeffrey Wang,,ILIL,49,33,48,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Aditya AgarwalSourish Yanamandra,,VAMA,58,33,48,C:Round 2
+2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Kehong Ng []Aidan Wong,,CACA,3,49,64,C:Round 1 (W/O)
+2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U17,Adithya S BurisettyNikhil Peechara,,NCNC,11,49,64,C:Round 1 (W/O)
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U17,Sasha Suman [1]Yalan Zhu,,VACA,1,1,1,Winner
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U17,Kimaya Krishna [3/4]Joanne Li,,VANC,24,2,2,Finals
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U17,Vivian FengMichelle Yourong Zhang,,NJCA,26,3,3,Semi Finals
@@ -1158,7 +1158,7 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U19,Sanchay DevnathNikhil Kandalam,,CACA,15,17,24,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U19,Pranav RaoRyan Tiong,,CACA,17,17,24,C:Round 2
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U19,Shaan V SinghArthur Yan,,ILIL,22,17,24,C:Round 2
-2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U19,Mukil NambikumarVihaan S Vinay,,GAGA,28,17,24,C:Round 2 (W/O)
+2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,BD U19,Mukil NambikumarVihaan S Vinay,,GAGA,28,25,32,C:Round 1 (W/O)
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U19,Lydia Chao [2]Charity Lam,,MDTX,16,1,1,Winner
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U19,Sydney LiCassidy Yeh,,NJCA,8,2,2,Finals
 2025 YONEX U.S. Junior Nationals,2025-07-01/2025-07-07,GD U19,Sophia Wu [1]Jennifer Xu,,NJMA,1,3,3,Semi Finals

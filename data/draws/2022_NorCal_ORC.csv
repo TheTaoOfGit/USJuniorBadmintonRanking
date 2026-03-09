@@ -1,0 +1,893 @@
+tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Prathik Nemani,3/4,California,48,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Ethan Qiu,5/8,,25,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Varish Karri,1,TX,1,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Vishnu Anand,5/8,California,56,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Taneesh Musunuru,5/8,GA,9,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Kayden Hossain,3/4,California,17,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Zisheng (GaoGao) Fan,5/8,MA,40,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Sai Ratan Shankar,,GA,62,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Phillip You,,,6,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Mahir s Modi,,California,16,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Derek Li,,California,21,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Yian Yang,,California,29,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Nihal Reddy Gajjala,,Texas,33,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Landon Ling,,CA,43,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Devon Wong,,,51,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Ethan Yip Ly,,CA,57,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Jonathan Loh,,CA,4,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Harrison Wenyu Zhang,,CA,7,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Henry Tan,,NJ,12,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Haochen Zhang Li,,CA,13,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Leon Luo,,NJ,20,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Vivaan Jinwala,,CA,23,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Steven Li,,WA,27,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Jonathan Zhang,,CA,32,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Enming Cao,,CA,35,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Andy Korlann,,CA,38,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Daiwik Reddy,,CA,42,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Chiranjeev Deepak,,,46,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Akhil Chendur,,WA,50,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Jaden D'Souza,,WA,54,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Bliss Liu,,California,59,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Wilson Liao,,CA,3,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Justin Lim,,,5,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Rex Tee,,CA,8,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Eason Chin,,,11,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Nicolas Dolar,,NY,14,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Ethan Xiao-ze Yang,,,15,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Ayden A Ju,,California,19,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Edwin Huang,,,22,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Caleb Lawrence Zhou,,CA,24,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Jonah Chenfei Wong,,CA,28,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Charlie W Gao,,,30,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Matthew Wu,,Texas,31,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Haoyu Cheng,,TX,34,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Samanyu Sathyamoorthi,,California,36,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Yunqi Chen,,Washington,37,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Arav Kolli,,California,39,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Shu-Han Chang,,CALIFORNIA,41,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Devin Kung,,CA,44,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Ching Chun Fan,,California,45,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Aiden Ziran Xu,,CA,49,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Allen Wu,,California,52,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Jaylen Zhou,,CA,53,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Kabir Madiman,,,58,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Krish Tennety,,CA,60,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Jaden Wang,,California,61,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U11,Mikael Chang,2,CA,64,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Abhigna Parvathaneni,2,CA,64,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Mihika Jaiswal,1,CA,1,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Stephanie Jiayi Song,3/4,wa,48,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Janice Chen,3/4,CA,17,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Sophia Li,5/8,CA,9,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Shraddha Prakash,5/8,Texas,25,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Lilian Feng,5/8,NJ,40,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Sitar Nainish Sanghani,5/8,PA,56,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Alice Luo,,ca,7,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Shaoyao Luo,,tx,15,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Nityaa Jaiswal,,,23,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Katherine F Xu,,CA,29,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Emily Chan,,CA,34,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Irene Xu,,CA,42,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Sanjanaa V Priya,,CA,50,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Xintong Jiang,,CA,58,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Cindy Li,,CA,3,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Jocelyn Chiang,,California,5,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Grace Zhao,,California,11,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Daisy Xu,,CA,13,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Marissa Zhang,,WA,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Claire Lufei Xiao,,,21,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Netri Vasireddy,,CA,27,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Elaine Yan,,TX,31,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Sathvika Shettipelly,,CA,33,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Anya Virmani,,CA,36,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Sophia Liu,,CA,38,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Madison H Bach,,CA,44,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Cheree Leung,,California,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Anisha Rajesh,,WA,52,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Haziqa H Mathani,,TX,54,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Iris Kuan,,WA,60,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U11,Bella Liu,,CA,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Vishnu Anand [5/8]Alice Meng,,CaliforniaCA,9,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Prathik Nemani [3/4]Abhigna Parvathaneni,,CaliforniaCA,48,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Ethan Qiu [3/4]Adriel Ammy Chandran,,NJ,17,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Mikael Chang [2]Stephanie Jiayi Song,,CAwa,64,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Kayden Hossain [1]Sahasra Reddy,,CaliforniaCalifornia,1,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Zisheng (GaoGao) Fan [5/8]Sitar Nainish Sanghani,,MAPA,25,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Nihal Reddy Gajjala [5/8]Shraddha Prakash,,TexasTexas,40,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Henry Tan [5/8]Sophia Li,,NJCA,56,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Jaden WangShaoyao Luo,,Californiatx,7,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Yian YangDaisy Xu,,CaliforniaCA,13,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Edwin HuangIris Kuan,,WA,23,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Phillip YouKatherine F Xu,,CA,29,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Ethan Yip LyXintong Jiang,,CACA,33,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Varish KarriMadison H Bach,,TXCA,44,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Enming CaoBella Liu,,CACA,52,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Leon LuoLilian Feng,,NJNJ,60,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Jaylen ZhouAlice Luo,,CAca,3,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Allen WuCindy Li,,CaliforniaCA,5,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Jonah Chenfei WongElaine Yan,,CATX,11,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Aiden Ziran XuClaire Lufei Xiao,,CA,15,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Chiranjeev DeepakEmily Chan,,CA,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Justin LimSophia Liu,,CA,21,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Harrison Wenyu ZhangGrace Zhao,,CACalifornia,27,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Akhil ChendurAnisha Rajesh,,WAWA,31,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Steven LiMarissa Zhang,,WAWA,34,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Taneesh MusunuruNetri Vasireddy,,GACA,36,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Landon LingHaziqa H Mathani,,CATX,38,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Charlie W GaoIrene Xu,,CA,42,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Ching Chun FanCheree Leung,,CaliforniaCalifornia,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Nicolas DolarNityaa Jaiswal,,NY,50,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Sai Ratan ShankarSathvika Shettipelly,,GACA,54,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Matthew WuJocelyn Chiang,,TexasCalifornia,58,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U11,Jaden D'SouzaAnya Virmani,,WACA,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Vishnu Anand [3/4]Prathik Nemani,,CaliforniaCalifornia,24,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Mikael ChangPhillip You,,CA,4,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Zisheng (GaoGao) Fan [3/4]Henry Tan,,MANJ,9,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Leon Luo [2]Ethan Qiu,,NJ,32,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Haochen Zhang LiLandon Ling,,CACA,5,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Akhil ChendurJaden D'Souza,,WAWA,15,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Jaden WangHarrison Wenyu Zhang,,CaliforniaCA,18,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Derek LiMahir s Modi,,CaliforniaCalifornia,25,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Enming CaoMatthew Wu,,CATexas,8,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Edwin HuangSteven Li,,WA,12,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Eason ChinAllen Wu,,California,14,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Haoyu ChengNicolas Dolar,,TXNY,20,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Ching Chun FanEthan Yip Ly,,CaliforniaCA,21,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Kayden HossainSai Ratan Shankar,,CaliforniaGA,30,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Varish Karri [1]Taneesh Musunuru,,TXGA,1,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Chiranjeev DeepakKrish Tennety,,CA,3,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Ayden A JuCaleb Lawrence Zhou,,CaliforniaCA,7,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Yunqi ChenKabir Madiman,,Washington,11,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Daiwik ReddyJonathan Zhang,,CACA,13,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Nihal Reddy GajjalaJustin Lim,,Texas,16,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Andy KorlannDevon Wong,,CA,17,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Jonathan LohEthan Xiao-ze Yang,,CA,19,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Bliss LiuYian Yang,,CaliforniaCalifornia,22,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Shu-Han ChangVivaan Jinwala,,CALIFORNIACA,26,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Charlie W GaoJaylen Zhou,,CA,28,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U11,Devin KungJonah Chenfei Wong,,CACA,29,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Alice Meng [2]Sophia Sun,,CACalifornia,16,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Janice Chen [1]Stephanie Jiayi Song,,CAwa,1,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Adriel Ammy Chandran [3/4]Lilian Feng,,NJNJ,12,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Sophia Liu [3/4]Sitar Nainish Sanghani,,CAPA,5,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Shraddha PrakashElaine Yan,,TexasTX,4,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Sophia LiShaoyao Luo,,CAtx,7,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Alice LuoIrene Xu,,caCA,10,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Cheree LeungCindy Li,,CaliforniaCA,13,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Xintong JiangDaisy Xu,,CACA,2,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Nityaa JaiswalHaziqa H Mathani,,TX,3,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Madison H BachEmily Chan,,CACA,6,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Anisha RajeshMarissa Zhang,,WAWA,8,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Sathvika ShettipellyNetri Vasireddy,,CACA,9,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Bella LiuKatherine F Xu,,CACA,11,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Jocelyn ChiangSanjanaa V Priya,,CaliforniaCA,14,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U11,Anya VirmaniGrace Zhao,,CACalifornia,15,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Rithik Rasamsetti,1,NC,1,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Terence Cai,2,California,128,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Alex Wen,3/4,CA,33,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Jason Yang,9/16,CA,88,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Allen w Yang,5/8,CA,17,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Jacob Zhou,5/8,CA,49,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Clay Yang,9/16,CA,72,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Brendan Chen,5/8,,112,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Seth Li,9/16,,9,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Gavin Le,9/16,,25,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Mi Michael Liu,9/16,California,41,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Jayden Mar,9/16,CA,57,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Cayden Wang,5/8,CA,80,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Hanyi Zhang,3/4,TX,96,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Krish Raja,9/16,,104,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Carsten Lam,9/16,CA,120,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Advik Kevlani,,Forsyth County,5,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Nathaniel Volfbeyn,,WA,13,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Vrishin Telikuntla,,Texas,21,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Dhruvan Karthik,,CALIFORNIA,29,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Vihaan Reddy Lekkala,,texas,39,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Yifei Zhang,,TX,45,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Christopher Gunawan,,CA,55,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Aryan Mohan,,ca,61,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Pranav Vivek,,,68,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Timothy Yung-An Chuang,,California,76,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Marzuq Mathani,,TX,84,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Jonathan Wu,,New Jersey,92,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Stanley Jiaye Song,,WA,98,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Daniel Xie,,CA,106,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Hardik Gowrish,,CA,114,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Varin Karri,,Texas,122,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Zuhao Fan,,California,64,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Neel J Reddy,,TX,66,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Sean Li,,CA,3,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Ben Friedman,,CA,7,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Rishabh Praveen,,California,11,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Lokesh Ravuri,,CA,15,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Veera Kalakota,,California,19,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Charlie Frankie We Chen,,CA,23,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Sashanth Senthil,,TX,27,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Kriday Ashok,,California,31,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Darren Zhong,,CA,35,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Siddharth Vippagunta,,CA,37,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,You Yang Li,,,43,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Anthony Cheng Xu,,TX,47,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Ethan Wu,,,51,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Rex Hong,,CA,53,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Mark w Wu,,Texas,59,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Tao Peng,,,63,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Daniel Li,,CA,65,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Areen Pradhan,,California,70,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Morgan Li,,CA,74,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Jonathan Yung-Nien Chuang,,California,78,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Shreyas Reddy,,California,82,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Arjun Aditya Hariharan,,Texas,86,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Neel Ganesh,,GA,90,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Kingsley Chong,,Washington,94,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Joey Liu,,ca,100,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Shriariman Karthigayan,,CA,102,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Aditya Singh,,,108,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Samiksh Talapally,,TX,110,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Nagi Morikawa,,CA,116,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Linus None Chan,,California,118,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Richard Liu,,California,124,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U13,Kenneth Wu,,Ca,126,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Lindsey Li,1,CA,1,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Lexuan Wen,3/4,CA,48,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Selina Xu,3/4,,17,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Alice Meng,5/8,CA,56,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Katie Wong,,CA,13,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Tvisha Modi,5/8,TX,25,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Vivian Jiayue Song,5/8,WA,40,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Adriel Ammy Chandran,,NJ,62,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Ishi Reddy,,IL,5,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Nidhi Sujin,5/8,,9,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Vivian Feng,,NJ,21,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Cynthia Wang,,CA,31,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Mira Chatterjee,,CA,34,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Angela Wang,,ca,42,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Clarinda Jin,,,50,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Emily Min Tang,,VA,58,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Audrey Zhao,,California,3,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Renee Leung,,California,7,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Felicia Ho,,California,11,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Samyukta Karthik,,,15,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Michelle Yourong Zhang,,CA,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Sahasra Reddy,,California,23,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Selena Wei,,CA,27,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Lanting Jiang,,CA,29,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Diksha Chandrasekaran,,TX,32,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Saee Thorat,,California,33,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Varshini Subramanian,,,36,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Tamara Valueva,,California,38,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Celine Ao,,,44,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Shrivaishnavi Jami,,CA,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Irene Yan,,,52,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Iris Yuchen Mei,,WA,54,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Anya Kuan,,WA,60,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U13,Sophia Sun,2,California,64,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Gavin LeAngela Wang,,ca,3,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Hanyi Zhang [5/8]Adonia Anny Chandran,,TX,40,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Rithik Rasamsetti [2]Tvisha Modi,,NCTX,64,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Jacob ZhouSelena Wei,,CACA,32,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Ethan Wu [5/8]Renee Leung,,California,9,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Shriariman KarthigayanNidhi Sujin,,CA,23,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Jason Yang [3/4]Lindsey Li,,CACA,48,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Srinivas Raghav Subash [5/8]Clarinda Jin,,IL,56,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Rishabh PraveenMihika Jaiswal,,CaliforniaCA,7,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Daniel XieBernice Xu,,CACA,13,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Terence Cai [3/4]Janice Chen,,CaliforniaCA,17,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Kenneth WuMichelle Yourong Zhang,,CaCA,27,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Cayden WangLexuan Wen,,CACA,33,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Yichen LiSelina Xu,,California,42,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Stanley Jiaye SongShrivaishnavi Jami,,WACA,50,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Alex WenCamellia Wang,,CAca,58,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Anirud Veldanda [1]Ishi Reddy,,TexasIL,1,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Jonathan WuIrene Yan,,New Jersey,5,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Brendan ChenVivian Feng,,NJ,11,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Kingsley ChongIris Yuchen Mei,,WashingtonWA,15,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Lokesh RavuriSamyukta Karthik,,CA,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Yifei ZhangDiksha Chandrasekaran,,TXTX,21,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Seth Li [5/8]Emily Min Tang,,VA,25,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Devon WongLanting Jiang,,CA,29,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Allen w YangVivian Jiayue Song,,CAWA,31,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Carsten LamSophia Sun,,CACalifornia,34,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,You Yang LiTamara Valueva,,California,36,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Mi Michael LiuCeline Ao,,California,38,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Jayden MarCynthia Wang,,CACA,44,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Saatvik ShettyKatie Wong,,CACA,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Varin KarriSaee Thorat,,TexasCalifornia,52,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Mark w WuAudrey Zhao,,TexasCalifornia,54,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Zuhao FanFelicia Ho,,CaliforniaCalifornia,60,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U13,Christopher GunawanAnya Kuan,,CAWA,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Srinivas Raghav Subash [1]Anirud Veldanda,,ILTexas,1,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Alex Wen [5/8]Hanyi Zhang,,CATX,40,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Rithik Rasamsetti [5/8]Saatvik Shetty,,NCCA,25,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Allen w Yang [5/8]Jason Yang,,CACA,56,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Gavin Le [5/8]Ethan Wu,,,9,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Terence Cai [3/4]Jacob Zhou,,CaliforniaCA,17,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Seth Li [3/4]Clay Yang,,CA,48,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Brendan Chen [2]Krish Raja,,,64,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Jonathan Yung-Nien ChuangTimothy Yung-An Chuang,,CaliforniaCalifornia,7,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Marzuq MathaniSashanth Senthil,,TXTX,15,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Shriariman KarthigayanSiddharth Vippagunta,,CACA,21,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Christopher GunawanJayden Mar,,CACA,31,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Varin KarriAdvik Kevlani,,TexasForsyth County,36,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Tao PengPranav Vivek,,,44,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,You Yang LiMi Michael Liu,,California,52,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Arjun Aditya HariharanYifei Zhang,,TexasTX,60,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Kingsley ChongMorgan Li,,WashingtonCA,33,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Vihaan Reddy LekkalaNeel J Reddy,,texasTX,3,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Kriday AshokArav Kolli,,CaliforniaCalifornia,5,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Stanley Jiaye SongNathaniel Volfbeyn,,WAWA,11,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Dhruvan KarthikLokesh Ravuri,,CALIFORNIACA,13,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Carsten LamCayden Wang,,CACA,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Rex HongJoey Liu,,CAca,23,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Daniel LiGaoyu Xue,,CACA,27,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Veera KalakotaJonathan Wu,,CaliforniaNew Jersey,29,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Aditya SinghDarren Zhong,,CA,34,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Rishabh PraveenKenneth Wu,,CaliforniaCa,38,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Charlie Frankie We ChenShreyas Reddy,,CACalifornia,42,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Richard LiuAnthony Cheng Xu,,CaliforniaTX,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Sean LiYichen Li,,CACalifornia,50,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Zuhao FanDaniel Xie,,CaliforniaCA,54,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Hardik GowrishAreen Pradhan,,CACalifornia,58,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U13,Samiksh TalapallyVrishin Telikuntla,,TXTexas,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Vivian FengAngela Wang,,NJca,15,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Cynthia Wang [3/4]Selina Xu,,CA,5,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Adonia Anny Chandran [1]Vivian Jiayue Song,,WA,1,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Mihika Jaiswal [3/4]Lexuan Wen,,CACA,12,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Tvisha ModiEmily Min Tang,,TXVA,3,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Abhigna ParvathaneniSahasra Reddy,,CACalifornia,7,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Renee LeungBernice Xu,,CaliforniaCA,10,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Celine AoSelena Wei,,CA,13,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Diksha ChandrasekaranIrene Yan,,TX,2,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Nidhi SujinSaee Thorat,,California,4,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Felicia HoIris Yuchen Mei,,CaliforniaWA,6,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Samyukta KarthikVarshini Subramanian,,,8,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Tamara ValuevaAudrey Zhao,,CaliforniaCalifornia,9,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Shrivaishnavi JamiLanting Jiang,,CACA,11,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Anya KuanIris Kuan,,WAWA,14,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U13,Clarinda Jin [2]Ishi Reddy,,IL,16,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Vaughn Zhao,5/8,,112,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Abhi Mandanapu,,,27,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Max Zhang,5/8,California,49,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Jaden Ke Hong Chen,,,70,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Arush Shyam Chitgopkar,1,,1,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Leheng Xu,,CA,35,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Suraj Rajesh Kumar,3/4,CA,96,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Saatvik Shetty,9/16,CA,120,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Prajwal Avadhani,9/16,CA,9,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Daniel Seungchan Park,5/8,Washington,17,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Anirud Veldanda,9/16,Texas,41,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Kevin Zhang,,California,63,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Aarya Vijay,5/8,tx,80,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Srinivas Raghav Subash,9/16,IL,88,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Jaxton Zhang,9/16,,104,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Eli Cui,,IL,126,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Andrew Yu,,,5,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Alex Anlai Song,,WA,13,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Andy Xu Zhang,,CA,23,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Aagnaey Gulla Pulijal,,CA,31,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Tyler Xingfei Chen,,Washington,39,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Akshay Jalwadi,,,45,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Tsun Him Lam,,CA,53,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Vivek Rai,9/16,CA,57,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Yushen Li,,WA,65,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Justin Liaw,,California,73,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Vignesh Jami,,CA,82,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Kayosh Kumar Mohapatra,,CA,90,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Xinyang Peng,,California,100,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Hanwen Yuan,,WA,108,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,George Shen,,CA,114,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Mihir Thaha,,California,122,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Mang Ki Cheung,,Washington,15,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Ethan Thai,,Ca,47,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Uddhav Kasarabada,,CA,56,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Xianhang Meng,,,98,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Yuliaoliao Fan,,CA,106,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Andy W Gao,,CA,3,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Jaden Zhou,,CA,7,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Ethan Biren Fong,,Washington,11,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Jonathan Khyewuiy Tan,,CA,16,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Eli Ying,,California,19,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Vincent Lu,,CA,21,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Puneeth Kumar Anumala,,,24,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Kelvin Zhang,9/16,WA,25,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Hamilton Le,,,29,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Benjamin Zhuge,,,32,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Yifan Liu,3/4,,33,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Manav Patel,,California,37,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Kehong Ng,,CA,43,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Oliver Lien Strayer,,OR,48,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Rajat Shriranga Naik,,CA,51,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Devin Shao,,WA,55,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Hao Lin,,ca,59,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Yunshang Chen,,Washington,61,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Nishaant Anumolu,,CA,64,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Micah Wei,,,66,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Jonathan Friedman,,CA,68,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Layton Wen,9/16,,72,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Dongzi Liu,,California,74,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Aaron Liao,,CA,76,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Nathan Zhang,,California,78,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Yichen Li,,California,81,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Ryan Liu,,,84,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Anson Chen,,CA,86,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Pradyun Gowda,,California,89,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Talan Tee,,CA,92,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Manas Chintala,,California,94,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Mihir Madiman,,WA,97,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Aiden S Lau,,,102,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Aidan Wong,,,105,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Ethan YS Ao,,WA,110,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Kezhen Tao,,CA,113,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Jonathan Phmah,,CA,116,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Gleb Valuev,,,118,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Eddy Li,,IL,124,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U15,Vincent Chen,2,IL,128,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Brianna Lee,1,CA,1,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Sophia Jia,2,CA,64,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Annie Meng,3/4,CA,48,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Xinyan Zeng,,,32,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Coco Cenke Tao,5/8,WA,9,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Prutha Bharadwaj Ramaprakash,,,24,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Zoey Enqi Tan,5/8,,40,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Sophia Wu,5/8,NJ,56,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Wendy Li,,California,5,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Meghana Nishant,,CA,13,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Adonia Anny Chandran,,,19,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Sahana Chada,,,28,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Angelina Chun,,,35,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Owena Chen,,,41,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Ziyan Zhao,,CA,50,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Kriti Vasireddy,,CA,60,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Camellia Wang,,ca,4,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Zimeng Zhou,,WA,8,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Jocelyn (Youran) Zhang,,WA,11,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Shuoan Xiang,,WA,15,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Isabella Meng,,CA,22,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Yicheng Wang,,OR,30,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Maggie Zang,,CA,34,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Emily Ou,,CA,37,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Riya Suresh,,TX,44,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Samanvi Boppana,,california,45,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Charvi Anand,,Virginia,51,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Sai Sahasra Gajula,,CA,53,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Shinher Jiang,,CA,58,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Cassidy Yeh,,Ca,62,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Angelina Lin Wu,,CA,3,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Kaavya Chaudhary,,TEXAS,7,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Hiraani Hew Nam Leung,,WA,12,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Jessica Cao,,,14,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Arya Saket Dandawate,,CA,16,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Aadya Pitani,3/4,VA,17,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Rohini Ganesh,,CA,20,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Avery Ji,,Oregon,21,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Yalan Zhu,,CA,23,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Hansika - Malladi,5/8,,25,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Anvitha Nagathan,,Texas,27,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Lina Vi Dinh,,,29,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Chloe A Kai,,CA,31,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Jennifer Bangcaya,,California,33,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Sophie Zhang,,ca,36,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Caitlynn Ningxi Kurniawan,,Texas,38,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Karena Ling,,CA,42,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Aadhya Vinod,,California (CA),43,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Sylvia Yuqing Mei,,WA,46,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Grace Liu,,California,49,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Allison Hsu,,California,52,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Laura K Huang,,,54,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Daby Huang,,,57,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U15,Laila Wang,,CA,61,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Suraj Rajesh Kumar [5/8]Angelina Chun,,CA,56,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Arush Shyam Chitgopkar [3/4]Sophia Jia,,CA,17,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Vaughn Zhao [5/8]Chang He,,California,9,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Sizhe ChenHansika - Malladi,,WA,44,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Shriyans Bhagavatula [1]Sahana Chada,,California,1,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Akshay Jalwadi [5/8]Zoey Enqi Tan,,,25,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Tsun Him LamIsabella Meng,,CACA,33,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Max ZhangXinyan Zeng,,California,60,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Yifan LiuJennifer Bangcaya,,California,8,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Kevin ZhangAngelina Lin Wu,,CaliforniaCA,16,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Justin KanSamanvi Boppana,,california,23,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Justin LiawLaila Wang,,CaliforniaCA,29,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Uddhav KasarabadaKriti Vasireddy,,CACA,38,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Xinyang Peng [3/4]Cassidy Yeh,,CaliforniaCa,48,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Yushen LiCoco Cenke Tao,,WAWA,50,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Daniel Seungchan Park [2]Brianna Lee,,WashingtonCA,64,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Eli CuiDaby Huang,,IL,11,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Micah WeiCaitlynn Ningxi Kurniawan,,Texas,27,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Nathan ZhangOwena Chen,,California,31,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Eddy LiAvery Ji,,ILOregon,42,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Ethan YS AoZimeng Zhou,,WAWA,46,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Jaden Ke Hong ChenWendy Li,,California,53,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Mihir ThahaMeghana Nishant,,CaliforniaCA,57,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Aarya VijayAnvitha Nagathan,,txTexas,3,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Vincent LuShinher Jiang,,CACA,5,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Ethan Biren FongShuoan Xiang,,WashingtonWA,7,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Vignesh JamiAadhya Vinod,,CACalifornia (CA),12,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Nishaant AnumoluRohini Ganesh,,CACA,13,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Gaoyu XueLaura K Huang,,CA,15,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Andy Xu ZhangYalan Zhu,,CACA,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Aagnaey Gulla PulijalSai Sahasra Gajula,,CACA,21,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Vincent ChenMaggie Zang,,ILCA,24,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Leheng XuKarena Ling,,CACA,28,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Andy W GaoGrace Liu,,CACalifornia,32,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Hanwen YuanRiya Suresh,,WATX,34,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Alex Anlai SongSylvia Yuqing Mei,,WAWA,36,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Kehong NgMira Chatterjee,,CACA,37,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Prajwal Avadhani [5/8]Annie Meng,,CACA,40,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Kezhen TaoEmily Ou,,CACA,41,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,George ShenLinda Zhao,,CAWA,45,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Jaden ZhouKaavya Chaudhary,,CATEXAS,49,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Yunshang ChenYicheng Wang,,WashingtonOR,52,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Mang Ki CheungJocelyn (Youran) Zhang,,WashingtonWA,54,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Andrew YuAllison Hsu,,California,58,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U15,Benjamin ZhugeHiraani Hew Nam Leung,,WA,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Vivek Rai [5/8]Max Zhang,,CACalifornia,9,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Jaden Ke Hong ChenMihir Thaha,,California,54,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Yushen LiGeorge Shen,,WACA,36,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Arush Shyam Chitgopkar [3/4]Abhi Mandanapu,,,17,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Puneeth Kumar AnumalaUddhav Kasarabada,,CA,3,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Yuliaoliao FanAiden S Lau,,CA,29,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Layton Wen [3/4]Jaxton Zhang,,,48,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Daniel Seungchan Park [2]Alex Anlai Song,,WashingtonWA,64,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Ethan ThaiJaden Zhou,,CaCA,7,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Ryan LiuIan Y Shi,,,15,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Manas ChintalaVignesh Jami,,CaliforniaCA,21,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Kelvin Zhang [5/8]Kevin Zhang,,WACalifornia,25,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Ethan YS Ao [5/8]Sizhe Chen,,WAWA,40,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Aagnaey Gulla PulijalAndy Xu Zhang,,CACA,50,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Anson ChenTsun Him Lam,,CACA,58,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Justin LiawAndrew Yu,,California,34,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Vincent Chen [1]Aarya Vijay,,ILtx,1,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Dongzi LiuOliver Lien Strayer,,CaliforniaOR,5,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Hamilton LeKezhen Tao,,CA,11,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Tyler Xingfei ChenYunshang Chen,,WashingtonWashington,13,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Eli CuiEddy Li,,ILIL,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Jonathan PhmahGleb Valuev,,CA,23,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Nishaant AnumoluMang Ki Cheung,,CAWashington,27,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Akshay JalwadiKayosh Kumar Mohapatra,,CA,31,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Vincent LuKehong Ng,,CACA,33,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Leheng XuHanwen Yuan,,CAWA,38,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Xianhang MengNathan Zhang,,California,42,33,64,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Andy W GaoBenjamin Zhuge,,CA,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Micah WeiMark w Wu,,Texas,52,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Prajwal Avadhani [5/8]Yifan Liu,,CA,56,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Ben FriedmanJonathan Friedman,,CACA,60,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U15,Ethan Biren FongDevin Shao,,WashingtonWA,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Suneri Krishna Chinthalapati [1]Charity Lam,,CA,1,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Zoey Enqi Tan [2]Cassidy Yeh,,Ca,32,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Brianna LeeEva Wang,,CA,15,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Angelina Chun [3/4]Sophia Jia,,CA,24,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Sylvia Yuqing MeiAngelina Lin Wu,,WACA,5,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Chloe A Kai [3/4]Xinyan Zeng,,CA,9,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Hansika - MalladiYalan Zhu,,CA,18,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Coco Cenke TaoSophia Wu,,WANJ,26,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Jennifer BangcayaKatie Wong,,CaliforniaCA,4,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Shinher JiangEmily Ou,,CACA,8,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Owena ChenGrace Liu,,California,12,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Karena LingIsabella Meng,,CACA,20,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Sai Sahasra GajulaKriti Vasireddy,,CACA,22,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Annie MengLinda Zhao,,CAWA,30,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Allison HsuDaby Huang,,California,3,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Lina Vi DinhWendy Li,,California,7,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Avery JiHiraani Hew Nam Leung,,OregonWA,11,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Lindsey LiCamellia Wang,,CAca,13,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Laila WangSophie Zhang,,CAca,16,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Samanvi BoppanaMeghana Nishant,,californiaCA,17,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Kaavya ChaudharyAnvitha Nagathan,,TEXASTexas,19,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Laura K HuangYicheng Wang,,OR,21,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Shuoan XiangJocelyn (Youran) Zhang,,WAWA,25,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Charvi AnandAadya Pitani,,VirginiaVA,28,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U15,Maggie ZangZimeng Zhou,,CAWA,29,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Jay Chun,1,Washington,1,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Shriyans Bhagavatula,3/4,California,96,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,William Ye,5/8,,112,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Zicheng Xu,5/8,CA,49,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Kevin Zhou,5/8,California,17,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,David Zuo,3/4,WASHINGTON,33,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Rocky Yang,5/8,,80,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Rajat Rawat,9/16,CA,120,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Arav Mestry,9/16,CA,9,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Huaiyuan Ni,,Texas,27,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Tsun Wang Lam,,CA,43,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Muyang Li,9/16,,57,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Patrick Chi,,,68,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Adwin Sujin,,,86,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Scott Wang Lin,9/16,CA,104,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Atharva Gulla Pulijal,,CA,122,9,16,Round 4
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Shawn Xia,,,5,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Yu Hung Jiang,,California,15,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Ben Tirtohadi,,,21,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Stanley Xing,,,29,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Matthew Lei,,New Jersey,39,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Patrick Xiao,,,47,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Tom Yin,,,53,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Aditya Renganathan,,California,64,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Devin Garg,9/16,,72,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Martin Wu,,CA,74,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Yves Judson Homayoon,,California,82,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Tian Qi Alan Zhang,,CA,92,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Ameya Kulkarni,,CA,98,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Thomas Wang,,WA,108,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Youshi Chen,,,116,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Nihal Kadamba,2,,128,17,32,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Kameran Hossain,,CA,66,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Pranav Rao,,California,3,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Kevin yukai Sun,,CA,7,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Aryan R Cimala,,Texas,11,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Sashreek BHUSHAN Rewatkar,,California,13,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Nishchith G Manjunatha,,CA,19,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Philip Chu,,California,23,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Ansen Liu,9/16,,25,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Sanchay Devnath,,CA,31,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Benson Ngai,,,35,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Sizhe Chen,,WA,37,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Yuanchen Wu,9/16,Ca,41,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Dennis Shao,,WA,45,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Justin Han,,california,51,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Vighnesh Umesh Nair,,California,55,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Srikrishna Sriganesh,,TX,59,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Cameron Shanyu Jiang,,California,61,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Brandon Minh Ng,,CA,63,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Anirudh Rajesh,,WA,65,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Manuel Melwyn Alleluia,,,70,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Kody Seow,,CA,76,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Nicholas Volfbeyn,,WA,78,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Lorin Leung,,CA,84,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Justin Kan,9/16,,88,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Jinyu Liu,,Washington,90,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Caden Wang,,CA,94,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Jiongchen Gu,,,97,65,128,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Joey Sun,,CA,100,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Jonathan Liu,,Washington,102,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Jordan Lau,,CA,106,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Ronith A Manikonda,,,110,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Pradyun Rasamsetti,,NC,114,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Andrew W. Grosso,,,118,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Brandon Xu,,CA,124,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U17,Geoffray Lee,,,126,65,128,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Suneri Krishna Chinthalapati,3/4,,17,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Yaorui Shan,3/4,CA,48,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Akshaya A. Ajan,1,,1,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Angela Ye,5/8,CA,56,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Xiaoyue Liu,,California,16,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Yuxuan Lin,5/8,WA,25,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Jessica Wu,,California,34,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Emily Liu,,,58,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Emma Wei,,CA,7,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Kathleen Li,5/8,CA,9,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Bridget Min Wang,,CA,21,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Kanyanat Vajworarat,,Illinois,32,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Riya Natarajan,,CA,38,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Vivian Shi,,CA,42,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Ardra Mohan,,,49,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Mia Hundley,2,California,64,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Rubie Liu,,CA,3,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Anjali Abhilash,,California,5,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Ella Mak,,CA,11,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Elaina Ying Xu,,,13,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Lydia Ng,,California,15,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Charity Lam,,CA,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Eva Wang,,,23,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Angelina vera Chai,,california,27,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Emma Milner,,CA,29,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Aashreeti Deo,,Texas,31,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Linda Zhao,,WA,33,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Chang He,,California,36,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Jasmine Yeung,5/8,,40,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Jaleesa Yu,,CA,41,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Chloe Lim,,CA,44,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Julia Ruan,,Washington,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Serena Yang,,Texas,50,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Yuqing Guo,,CA,52,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Anvita Jamsandekar,,CA,54,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Hannah George,,,60,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U17,Sydney Li,,New Jersey,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Jun Heng LaiJasmine Yeung,,CA,41,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Arden Q Lee [5/8]Yaorui Shan,,CACA,9,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Ronith A ManikondaHannah George,,,23,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Zicheng XuSydney Li,,CANew Jersey,60,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Anderson Lin [1]Bettie Huang,,CACalifornia,1,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Tian Qi Alan ZhangKathleen Li,,CACA,31,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Ben TirtohadiAkshaya A. Ajan,,,38,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Thanik Bharani [5/8]Anvita Jamsandekar,,CA,56,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Stanley XingYuxuan Lin,,WA,7,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,William YeJasmine La,,CA,15,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Youshi Chen [3/4]Audrey Chang,,CA,17,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Kevin Zhou [5/8]Ella Mak,,CaliforniaCA,25,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Chris WuSophia Wu,,NJNJ,33,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Thomas Wang [3/4]Kanyanat Vajworarat,,WAIllinois,48,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Tsun Wang LamAngelina vera Chai,,CAcalifornia,52,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Rocky Yang [2]Nicole Krawczyk,,,64,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Dennis ShaoJulia Ruan,,WAWashington,49,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Geoffray LeeLina Vi Dinh,,,3,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Muyang LiLydia Ng,,California,5,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Ethan PawZiyan Zhao,,CA,11,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Jordan LauYuqing Guo,,CACA,13,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Devin GargRubie Liu,,CA,16,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Ansen LiuPrutha Bharadwaj Ramaprakash,,,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Benson NgaiCharity Lam,,CA,21,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Kameran HossainChloe Lim,,CACA,27,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Rajat RawatXiaoyue Liu,,CACalifornia,29,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Srikrishna SriganeshSerena Yang,,TXTexas,32,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Aaron LiaoBridget Min Wang,,CACA,34,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Caden WangJessica Wu,,CACalifornia,36,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Linden Wang [5/8]Eva Wang,,CA,40,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Jaxton ZhangJaleesa Yu,,CA,42,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Atharva Gulla PulijalRiya Natarajan,,CACA,44,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Darron Jaden SuSavanna Lee,,CA,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Justin HanAashreeti Deo,,californiaTexas,50,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Philip ChuElaina Ying Xu,,California,54,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,David ZuoVivian Shi,,WASHINGTONCA,58,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U17,Patrick XiaoNadya Tirtohadi,,CA,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Anderson Lin [5/8]William Ye,,CA,56,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Jay Chun [1]David Zuo,,WashingtonWASHINGTON,1,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Orlando Himawan [5/8]Vaughn Zhao,,California,40,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Chris Wu [3/4]Shawn Xia,,NJ,17,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Shriyans BhagavatulaRocky Yang,,California,16,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Matthew LeiTian Qi Alan Zhang,,New JerseyCA,27,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Benjamin Dictado [3/4]Jun Heng Lai,,CA,48,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Arden Q Lee [2]Kevin Zhou,,CACalifornia,64,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Kody SeowDarron Jaden Su,,CACA,7,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Yu Hung JiangBenson Ngai,,California,11,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Ansen LiuCaden Wang,,CA,21,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Xinyang PengSuraj Rajesh Kumar,,CaliforniaCA,29,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Daniel WuYuanchen Wu,,CaliforniaCa,36,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Ethan PawBen Tirtohadi,,,44,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Youshi ChenStanley Xing,,,50,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Dennis ShaoNicholas Volfbeyn,,WAWA,60,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Devin GargMuyang Li,,,32,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Patrick ChiAndrew W. Grosso,,,34,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Atharva Gulla PulijalRajat Rawat,,CACA,3,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Justin HanMartin Wu,,californiaCA,5,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Scott Wang Lin [5/8]Arav Mestry,,CACA,9,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Sanchay DevnathPranav Rao,,CACalifornia,13,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Jiongchen GuJonathan Liu,,Washington,15,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Tsun Wang LamPradyun Rasamsetti,,CANC,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Jordan LauLorin Leung,,CACA,23,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Nihal Kadamba [5/8]Justin Kan,,,25,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Vighnesh Umesh NairZicheng Xu,,CaliforniaCA,31,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Jinyu LiuTom Yin,,Washington,33,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Anirudh RajeshLouis N Thai,,WAWA,38,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Ameya KulkarniAdwin Sujin,,CA,42,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Yves Judson HomayoonKameran Hossain,,CaliforniaCA,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Ronith A ManikondaNishchith G Manjunatha,,CA,49,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Philip ChuAditya Renganathan,,CaliforniaCalifornia,52,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Aryan R CimalaSrikrishna Sriganesh,,TexasTX,54,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Aaron LiaoJoey Sun,,CACA,58,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U17,Geoffray LeeHuaiyuan Ni,,Texas,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Angela YeJasmine Yeung,,CA,28,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Yaorui Shan [1]Vivian Shi,,CACA,1,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Bettie HuangJasmine La,,CaliforniaCA,11,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Anvita JamsandekarArdra Mohan,,CA,22,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Sydney LiZiyan Zhao,,New JerseyCA,7,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Chang HeJessica Wu,,CaliforniaCalifornia,13,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Caitlynn Ningxi KurniawanSerena Yang,,TexasTexas,17,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Akshaya A. Ajan [2]Hannah George,,,32,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Chloe LimXiaoyue Liu,,CACalifornia,3,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Lydia NgRiya Suresh,,CaliforniaTX,5,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Yuxuan Lin [3/4]Kanyanat Vajworarat,,WAIllinois,9,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Yuqing GuoBridget Min Wang,,CACA,15,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Julia RuanNadya Tirtohadi,,WashingtonCA,18,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Anjali AbhilashElaina Ying Xu,,California,20,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Nicole Krawczyk [3/4]Ella Mak,,CA,24,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Prutha Bharadwaj RamaprakashJaleesa Yu,,CA,26,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U17,Kathleen LiRubie Liu,,CACA,30,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Ryan Ma,2,CA,64,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Isaac Yang,1,,1,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Adam Tay,3/4,CA,48,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Kyle Wang,,CA,32,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Kai Chong,5/8,Massachusetts,9,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Anderson Lin,,CA,24,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Jeffrey Chang,5/8,CA,40,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Daniel Zhou,,CALIFORNIA,52,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Michael Xu,,,5,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Linden Wang,,CA,15,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Arthur Heng Lee,3/4,,17,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Ethan Paw,,,27,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Siva Rajesh,,NC,33,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Weslie Chen,,,42,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Samuel Wales Li,5/8,,56,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Arjun Chatterjee,,CA,60,9,16,Round 3
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Orlando Himawan,,California,50,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Abraham Xu,,California,3,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Darron Jaden Su,,CA,7,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Eric Cheng,,,11,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Eshwar Sathwik Nemani,,CA,13,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Michael Jiang,,,16,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Jaden Seangmany,,CA,19,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Jack Yin,,,21,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Ashton Reyes Prieto,,,23,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Neil Ganguly,5/8,,25,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Chris Wu,,NJ,29,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Anish Bansal,,CA,31,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Louis N Thai,,WA,34,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Kenny Yaowen Luu,,,36,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Thanik Bharani,,,38,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Benjamin Dictado,,,41,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Daniel Wu,,California,44,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Lukas Rujia Chang,,NJ,46,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Hoang khanh Nguyen,,CA,49,33,64,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Jaden Jin,,Ca,54,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Sohum Gulla Pulijal,,,58,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,BS U19,Dhruva Singh,,CALIFORNIA,62,33,64,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Ella Yishan Lin,2,,32,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Veronica Yang,,,11,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Bettie Huang,,California,8,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Koyu(Tara) Chou,3/4,CA,24,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Andrea Li,1,IL,1,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Carryssa Caryn Bun,,,15,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Alice Y Wang,,,19,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Rithika Oumapathy,,,25,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Mia Zhang,,,4,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Brianna Mia Xu,,,13,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Nicole Krawczyk,,,18,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Lilian Shu,,,22,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Audrey Chang,,CA,30,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Harshita Kandambakkam,,,3,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Reanne Chan,,,5,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Carina Huang,,CA,7,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Joline Siu,3/4,,9,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Chloe Ho,,,12,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Victoria Vy Dinh,,Illinois,14,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Sumaswara Chinthalapati,,,16,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Cindy Xin Lin,,California,17,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Hailey Hung,,,20,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Aashi Agarwal,,California,21,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Yuet Ki Cheung,,Washington,26,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Angie Huang,,California,28,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,GS U19,Annabelle Zhou,,CA,29,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Ryan Ma [2]Veronica Yang,,CA,32,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Daniel Zhou [3/4]Koyu(Tara) Chou,,CALIFORNIACA,9,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Samuel Wales Li [3/4]Joline Siu,,,24,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Isaac Yang [1]Chloe Ho,,,1,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Adrian MarReanne Chan,,CA,8,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Weslie ChenAnnabelle Zhang,,MASSACHUSETTS,16,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Jerry YuanHailey Hung,,,20,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Jeffrey ChangAndrea Li,,CAIL,25,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Dhruva SinghRithika Oumapathy,,CALIFORNIA,3,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Kyle WangElla Yishan Lin,,CA,11,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Adam TayEmma Wei,,CACA,18,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Michael XuZihan Xu,,CA,22,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Anish BansalAashi Agarwal,,CACalifornia,30,9,16,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Eric ChengVictoria Vy Dinh,,Illinois,4,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Ved VedereWenlu She,,CA,5,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Abraham XuCarina Huang,,CaliforniaCA,7,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Benjamin DictadoLilian Shu,,,12,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Ashton Reyes PrietoAngie Huang,,California,13,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Siva RajeshHarshita Kandambakkam,,NC,15,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Michael JiangMia Hundley,,California,17,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Kai ChongJennifer Cui,,MassachusettsMA,21,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Kenny Yaowen LuuAnnabelle Zhou,,CA,26,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Lukas Rujia ChangEmily Liu,,NJ,28,17,32,Round 2
+2022 NorCal ORC,2022-11-11/2022-11-13,XD U19,Louis N ThaiYuet Ki Cheung,,WAWashington,29,17,32,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Arthur Heng Lee [2]Samuel Wales Li,,,16,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Ryan MaKyle Wang,,CACA,7,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Adrian MarThomas Wang,,CAWA,4,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Jeffrey ChangKai Chong,,CAMassachusetts,9,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Arjun ChatterjeeJack Yin,,CA,5,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Weslie ChenIsaac Yang,,,11,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Manuel Melwyn AlleluiaAnish Bansal,,CA,14,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Lukas Rujia Chang [1]Eric Cheng,,NJ,1,9,16,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Ashton Reyes PrietoAbraham Xu,,California,3,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Sohum Gulla PulijalDhruva Singh,,CALIFORNIA,6,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Thanik BharaniVed Vedere,,,8,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Linden WangDaniel Zhou,,CACALIFORNIA,10,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Adam TayJerry Yuan,,CA,12,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Neil GangulyMichael Xu,,,13,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,BD U19,Michael JiangJaden Jin,,Ca,15,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Chloe Ho [1]Ella Yishan Lin,,,1,1,1,Winner
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Joline Siu [2]Veronica Yang,,,16,2,2,Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Reanne ChanEmily Liu,,,5,3,3,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Alice Y WangMia Zhang,,,9,4,4,Semi Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Mia HundleyEmma Wei,,CaliforniaCA,4,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Wenlu SheAnnabelle Zhang,,CAMASSACHUSETTS,8,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Sumaswara ChinthalapatiAngie Huang,,California,12,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Audrey ChangHarshita Kandambakkam,,CA,14,5,8,Quarter Finals
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Carryssa Caryn BunAndrea Li,,IL,3,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Aashi AgarwalAngelina vera Chai,,Californiacalifornia,6,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Brianna Mia XuAnnabelle Zhou,,CA,7,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Carina HuangLilian Shu,,CA,10,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Jennifer CuiZihan Xu,,MACA,11,9,16,Round 1
+2022 NorCal ORC,2022-11-11/2022-11-13,GD U19,Yuet Ki CheungVictoria Vy Dinh,,WashingtonIllinois,13,9,16,Round 1

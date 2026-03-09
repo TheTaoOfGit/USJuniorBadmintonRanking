@@ -3,10 +3,10 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Shubhan Sarikonda,,,11,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Alexander Joseph,,,4,3,3,Semi Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Devansh Ponnapalli,2,,16,4,4,Semi Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Niranjan Rajasekaran,1,,1,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Anirudh Ananth,,,7,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Jason Fang,,,10,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Le Siang (Lex) Low,,,13,5,8,Quarter Finals
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Niranjan Rajasekaran,1,,1,9,16,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Pranav Iyer,,,3,9,16,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Pradvik Prabhu,,,6,9,16,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U11,Pardhu Pathuri,,,8,9,16,Round 1
@@ -72,10 +72,10 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Ritvik Singh [1]Adithya Yeluguri,,,1,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Vishwajeeth Madhavan [2]Aadiv Raj,,,16,3,3,Semi Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Marcus K Chua [3/4]Andrew Mikhail Sinyushkin,,,5,4,4,Semi Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Lohith Reddy AravaKesan Murthysundar,,,3,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Aarav Muthu RajavelTimothy A Pulikal,,,7,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Varun Sai PathuriImon Sahu,,,10,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Jaden NiKoushal Sriram Prattigodupu,,,14,5,8,Quarter Finals
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Lohith Reddy AravaKesan Murthysundar,,,3,9,16,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Jason FangJinhang Seow,,,8,9,16,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Advith KarnamVenkata Sai Sreekar Kondamuri,,,9,9,16,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U13,Rohith RengaduraiJonathan Wang,,,13,9,16,Round 1
@@ -95,26 +95,26 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Sajith Kamal,,,42,9,16,Round 3
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Gagan Polineni,5/8,,56,9,16,Round 3
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Shanyu Tanneeru,9/16,,60,9,16,Round 3
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Jonas Chen,,,3,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Varun Vidyuth Devahnand,,,7,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Zeeshan Ahmed Mohammed,,,11,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Tharun Katharnath,,,15,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Shrihan Reddy Pingili,,,19,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Reyhan SK Suresh Babu,,,23,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Ruedi Cheng,,,27,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Tejas Thatipatri,9/16,,29,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Ansh Mishra,9/16,,36,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Virat Siva Sai Potta,,,38,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Arjun Rajkumar,9/16,,44,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Xi Cao,3/4,,48,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Mark Chen,,,50,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Chris Huang,,,54,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Aiden Kunwoo Lee,,,58,17,32,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Jishnu Sai Chennupati,,,62,17,32,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Jonas Chen,,,3,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Varun Vidyuth Devahnand,,,7,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Zeeshan Ahmed Mohammed,,,11,33,64,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Sean Gu,,,16,33,64,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Shrihan Reddy Pingili,,,19,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Reyhan SK Suresh Babu,,,23,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Ruedi Cheng,,,27,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Tejas Thatipatri,9/16,,29,33,64,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Bivab Chandra,,,31,33,64,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Alex Huang,,,33,33,64,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Ansh Mishra,9/16,,36,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Virat Siva Sai Potta,,,38,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Arjun Rajkumar,9/16,,44,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Xi Cao,3/4,,48,33,64,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Kavin Vignesh,,,49,33,64,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Chris Huang,,,54,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Aiden Kunwoo Lee,,,58,33,64,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U15,Jishnu Sai Chennupati,,,62,33,64,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Srinika Lingidi,5/8,,13,1,1,Winner
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Nila Ramesh,5/8,,28,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Meghna Yeluguri,1,,1,3,3,Semi Finals
@@ -123,20 +123,20 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Ruohan Joy Du,3/4,,9,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Niyati Tamerissi,3/4,,24,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Gabby XZ Xiang,2,,32,5,8,Quarter Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Laasya Gurram,,,3,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Venkata Sahasra Kondaveeti,5/8,,5,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Emilyn Lizbeth Joseph,,,12,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Erela Liu,,,15,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Meghna Ramakrishnan,,,17,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Mahika Duggar,,,21,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Sahana Mittapalli,,,25,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Merrisa Wang,,,30,9,16,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Laasya Gurram,,,3,17,32,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Venkata Sahasra Kondaveeti,5/8,,5,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Laura Tan,,,7,17,32,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Tanvi Sree Gaddam,,,11,17,32,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Melanie Wang,,,16,17,32,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Mahima Devullapally,,,18,17,32,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Angel Qi,,,22,17,32,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Ariel Liu,,,26,17,32,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U15,Merrisa Wang,,,30,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Aarav Gupta [3/4]Gabby XZ Xiang,,,9,1,1,Winner
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Adhip Sundar [2]Sitar Sanghani,,,32,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Anish Sai GunupudiEmilyn Lizbeth Joseph,,,8,3,3,Semi Finals
@@ -145,18 +145,18 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Ryan Shih [5/8]Ruohan Joy Du,,,13,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Yuancheng LiSrinika Lingidi,,,18,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Vihaan Darbha [5/8]Tanvi Sree Gaddam,,,28,5,8,Quarter Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Varish KunisettyLaasya Gurram,,,3,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Sajith Kamal [5/8]Meghna Yeluguri,,,5,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Arjun RajkumarVenkata Sahasra Kondaveeti,,,11,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Shrihan Reddy PingiliSahana Ramkumar,,,15,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Yashas Cheerlavancha [5/8]Sankeerthi Marasani,,,20,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Tejas ThatipatriNimeesha Sreeramula,,,22,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Reyhan SK Suresh BabuMahima Devullapally,,,26,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Soumith ParasaAngel Qi,,,30,9,16,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Varish KunisettyLaasya Gurram,,,3,17,32,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Sajith Kamal [5/8]Meghna Yeluguri,,,5,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Ishan VinothkumarSahana Mittapalli,,,7,17,32,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Arjun RajkumarVenkata Sahasra Kondaveeti,,,11,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Shanyu TanneeruMelanie Wang,,,16,17,32,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Aarav Muthu RajavelNiyati Tamerissi,,,17,17,32,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Yashas Cheerlavancha [5/8]Sankeerthi Marasani,,,20,17,32,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Tejas ThatipatriNimeesha Sreeramula,,,22,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Zeeshan Ahmed MohammedMahika Duggar,,,25,17,32,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,XD U15,Soumith ParasaAngel Qi,,,30,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U15,Gagan Polineni [2]Ryan Shih,,,16,1,1,Winner
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U15,Anish Sai Gunupudi [1]Adhip Sundar,,,1,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U15,Sajith Kamal [5/8]Tharun Katharnath,,,7,3,3,Semi Finals
@@ -177,12 +177,12 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Tanvi Sree GaddamNila Ramesh,,,8,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Sitar Sanghani [1]Merrisa Wang,,,1,3,3,Semi Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Sankeerthi MarasaniMeghna Yeluguri,,,12,4,4,Semi Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Venkata Sahasra KondaveetiMeghna Ramakrishnan,,,3,5,8,Quarter Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Ariel LiuAngel Qi,,,5,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Emilyn Lizbeth JosephSrinika Lingidi,,,9,5,8,Quarter Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Mahima DevullapallyLaasya Gurram,,,14,5,8,Quarter Finals
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Venkata Sahasra KondaveetiMeghna Ramakrishnan,,,3,9,16,Quarter Finals
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Ariel LiuAngel Qi,,,5,9,16,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Ruohan Joy DuNiyati Tamerissi,,,7,9,16,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Mahika DuggarMelanie Wang,,,10,9,16,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,GD U15,Mahima DevullapallyLaasya Gurram,,,14,9,16,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Nithesh Haribabu,1,,1,1,1,Winner
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Aarav Gupta,2,,32,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Venkata Shashank Kondaveeti,3/4,,24,3,3,Semi Finals
@@ -191,17 +191,17 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Mithun Gopinath,5/8,,13,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Akshith P Arava,5/8,,20,5,8,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Vishanth Vijay,5/8,,28,5,8,Quarter Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Rushil Reddy Aleti,,,3,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Adithya S Burisetty,5/8,,5,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Chenxi Gu,,,11,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Adithya Tadinada,,,15,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Ishan Kanchi,,,17,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Eeshan Nandan Mudivarthy,,,22,9,16,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Ishaan Keshri,,,25,9,16,Round 2
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Kaie Bernal,,,30,9,16,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Rushil Reddy Aleti,,,3,17,32,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Adithya S Burisetty,5/8,,5,17,32,Round 2
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Chenxi Gu,,,11,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Michael Li,,,16,17,32,Round 1
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Lokesh Ravuri,,,18,17,32,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Eeshan Nandan Mudivarthy,,,22,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Nikhil Peechara,,,26,17,32,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U17,Kaie Bernal,,,30,17,32,Round 2
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U17,Keira Winarto,1,,1,1,1,Winner
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U17,Sitar Sanghani,,,4,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,GS U17,Rithika Thatipatri,2,,2,3,3,Semi Finals
@@ -214,11 +214,11 @@ tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Srineet Atluri [1]Aarav Gupta,,,1,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Mithun GopinathVishanth Vijay,,,7,3,3,Semi Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Akshith P Arava [2]Venkata Shashank Kondaveeti,,,16,4,4,Semi Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Ishan KanchiIshaan Keshri,,,3,5,8,Quarter Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Kaie BernalMichael Li,,,5,5,8,Quarter Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Lokesh RavuriAdithya Tadinada,,,12,5,8,Quarter Finals
-2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Chenxi GuEeshan Nandan Mudivarthy,,,14,5,8,Quarter Finals
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Ishan KanchiIshaan Keshri,,,3,9,16,Quarter Finals
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Kaie BernalMichael Li,,,5,9,16,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Rushil Reddy AletiShanyu Tanneeru,,,9,9,16,Round 1
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Lokesh RavuriAdithya Tadinada,,,12,9,16,Quarter Finals
+2025 Peak Sports South OLC,2025-04-12/2025-04-13,BD U17,Chenxi GuEeshan Nandan Mudivarthy,,,14,9,16,Quarter Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U19,Mukil Nambikumar,,,1,1,1,Winner
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U19,Eshan Neog,2,,4,2,2,Finals
 2025 Peak Sports South OLC,2025-04-12/2025-04-13,BS U19,Nathan Kankanala,,,2,3,3,Semi Finals

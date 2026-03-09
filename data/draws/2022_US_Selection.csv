@@ -1,0 +1,462 @@
+tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Srinivas Raghav Subash,,IL,21,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Aarya Vijay,3/4,TX,9,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Vincent Chen,1,IL,1,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Jason Yang,,NCA,28,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Anirud Veldanda,,TX,8,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Gavin Le,,SCA,15,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Alex Wen,,NCA,17,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Christopher Gunawan,,SCA,29,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Clay Yang,,NCA,3,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Jayden Mar,,NCA,6,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Carsten Lam,,NCA,12,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Krish Raja,,NCA,13,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Seth Li,,NJ,20,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Terence Cai,3/4,NCA,24,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Ethan Wu,,SCA,26,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Mi Michael Liu,,NCA,4,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Nathan Lee,,TX,5,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Bhavesh SAI VARMA Tammu,,TX,7,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Ayaaz Muhammed Baig,,TX,11,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Allen w Yang,,NCA,14,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Brendan E Chen,,IL,16,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Varin Karri,,TX,18,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Aarav Bhandary,,TX,19,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Anish Bhandary,,TX,22,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Yichen Li,,NCA,23,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Sean Li,,NCA,25,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Anish Sai Gunupudi,,NC,27,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Thomas Cui,,MA,30,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BS,Rithik Rasamsetti,2,NC,32,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Annie Meng,,NCA,11,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Joanne Li,,NC,20,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Aadya Pitani,1,VA,1,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Maggie Zang,2,SCA,32,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Kimaya Krishna,,VA,5,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Clarinda Jin,,IL,16,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Lindsey Li,,NCA,21,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Jennifer Bangcaya,,NCA,26,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Ishi Reddy,,IL,8,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Vivian Jiayue Song,,WA,18,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Tvisha Modi,,TX,3,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Saee Thorat,,NCA,7,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Aashi Gupta,3/4,TX,9,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Renee Leung,,SCA,12,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Tatthva Sharma,,TX,13,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Celine Ao,,WA,15,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Bernice Xu,,SCA,17,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Megha Reddy Challa,,NJ,22,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Camellia Wang,3/4,NCA,24,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Vivian Feng,,NJ,25,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Angela Wang,,SCA,28,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GS,Adonia Anny Chandran,,NJ,30,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Aarya Vijay [1]Annie Meng,,TXNCA,1,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Srinivas Raghav SubashClarinda Jin,,ILIL,18,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Seth LiKimaya Krishna,,NJVA,30,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Anirud VeldandaTvisha Modi,,TXTX,12,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Jason YangLindsey Li,,NCANCA,7,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Jayden MarMaggie Zang,,NCASCA,16,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Terence Cai [3/4]Joanne Li,,NCANC,24,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Sean LiJennifer Bangcaya,,NCANCA,26,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Alex WenCamellia Wang,,NCANCA,22,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Brendan E ChenVivian Feng,,ILNJ,3,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Yichen LiAdonia Anny Chandran,,NCANJ,5,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Mi Michael LiuCeline Ao,,NCAWA,8,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Vincent Chen [3/4]Ishi Reddy,,ILIL,9,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Anish Sai GunupudiMegha Reddy Challa,,NCNJ,11,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Thomas CuiSaee Thorat,,MANCA,13,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Varin KarriAashi Gupta,,TXTX,15,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Carsten LamBernice Xu,,NCASCA,17,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Gavin LeAngela Wang,,SCASCA,20,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Bhavesh SAI VARMA TammuTatthva Sharma,,TXTX,21,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Ethan WuRenee Leung,,SCASCA,25,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Allen w YangVivian Jiayue Song,,NCAWA,28,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 XD,Rithik Rasamsetti [2]Aadya Pitani,,NCVA,32,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Vincent Chen [1]Aarya Vijay,,ILTX,1,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Gavin LeEthan Wu,,SCASCA,12,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Terence Cai [2]Jason Yang,,NCANCA,16,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Seth LiRithik Rasamsetti,,NJNC,7,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Sean LiMi Michael Liu,,NCANCA,4,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Yichen LiClay Yang,,NCANCA,5,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Krish RajaAllen w Yang,,NCANCA,9,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Brendan E ChenSrinivas Raghav Subash,,ILIL,14,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Aarav BhandaryAnish Bhandary,,TXTX,3,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Ayaaz Muhammed BaigBhavesh SAI VARMA Tammu,,TXTX,6,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Christopher GunawanJayden Mar,,SCANCA,8,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Anish Sai GunupudiCarsten Lam,,NCNCA,10,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Anirud VeldandaAlex Wen,,TXNCA,11,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 BD,Thomas CuiNathan Lee,,MATX,13,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Annie Meng [1]Maggie Zang,,NCASCA,1,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Tvisha Modi [2]Aadya Pitani,,TXVA,16,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Kimaya KrishnaJoanne Li,,VANC,8,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Adonia Anny ChandranVivian Feng,,NJNJ,10,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Lindsey LiCamellia Wang,,NCANCA,3,9,16,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Ishi ReddyVivian Jiayue Song,,ILWA,5,9,16,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Renee LeungBernice Xu,,SCASCA,7,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Tatthva SharmaSaee Thorat,,TXNCA,9,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Celine AoAngela Wang,,WASCA,12,9,16,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U13 GD,Megha Reddy ChallaAashi Gupta,,NJTX,14,9,16,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Shriyans Bhagavatula,2,NCA,64,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Rylan Tan,3/4,SCA,17,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Vaughn Zhao,,NCA,7,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Rocky Yang,5/8,NCA,40,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Evan Liu,5/8,MA,9,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Ansen Liu,,TX,27,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Nihal Kadamba,3/4,NCA,48,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Max Zhang,,NCA,50,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Mitchell Purnomo,1,WA,1,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Prabhat Mandava,,IL,15,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Akshaj Reddy Donthi,,VA,21,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Kevin Zhao,,NJ,32,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Abhi Mandanapu,,NCA,34,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Justin Xia,,IL,42,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Justin Kan,5/8,NCA,56,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Aagnaey Gulla Pulijal,,NCA,58,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Dhruv Pediredla,,TX,3,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Kelvin Zhang,,WA,5,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Suraj Rajesh Kumar,,NCA,11,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Eli Cui,,IL,13,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Manas Chintala,,NCA,19,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Ethan YS Ao,,WA,23,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Arush Shyam Chitgopkar,5/8,NCA,25,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Afraz Muhammed Baig,,TX,29,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Akshay Jalwadi,,TX,31,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Wufan Zhang,,TX,33,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Ish Modi,,TX,36,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Alex Anlai Song,,WA,38,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Eshan Neog,,NC,44,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Napat Srisalaipaisal,,TX,46,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Adhyaan Balaji,,TX,52,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Andy Xu Zhang,,NCA,54,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Tejo Ram Mukkamala,,NC,60,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BS,Caden Wang,,NCA,62,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Nicole Krawczyk,5/8,NCA,56,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Jasmine Yeung,1,NCA,1,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Micah Cruz,5/8,NY,40,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Sydney Li,5/8,NJ,25,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Jessica Wu,5/8,NCA,9,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Angela Ye,3/4,NCA,17,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Brianna Lee,3/4,NCA,48,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Suneri Krishna Chinthalapati,2,NCA,64,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Xinyan Zeng,,NCA,7,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Sophia Wu,,NJ,15,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Savannah H Kam,,TX,21,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Anvita Jamsandekar,,NCA,29,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Sasha Suman,,VA,33,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Zoey Enqi Tan,,SCA,44,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Charvi Anand,,VA,49,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Prutha R Bharadwaj,,NCA,60,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Lydia Ng,,NCA,31,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Cassidy Yeh,,SCA,42,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Sophie Zhang,,NCA,3,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Charity Lam,,NCA,5,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Melody Pei,,SCA,11,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Wendy Li,,SCA,13,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Emily Zhang,,NCA,16,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Yeening Yap,,TX,19,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Emily Ou,,NCA,23,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Sai Sahasra Gajula,,NCA,27,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Scarlett Yu,,TX,32,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Sahana Chada,,NCA,34,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Chloe A Kai,,SCA,36,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Riya Suresh,,TX,38,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Jaleesa Yu,,SCA,41,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Anvitha B Ranganna,,NC,46,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Radhika Birur,,TX,50,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Hasini Gajjala,,TX,52,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Diyaa Sarath,,GA,54,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Zimeng Zhou,,WA,58,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GS,Chang He,,NCA,62,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Vaughn ZhaoJasmine Yeung,,NCANCA,26,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Shriyans BhagavatulaSahana Chada,,NCANCA,4,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Caden Wang [3/4]Jessica Wu,,NCANCA,24,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Ansen LiuPrutha R Bharadwaj,,TXNCA,12,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Mitchell PurnomoSydney Li,,WANJ,5,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Aagnaey Gulla PulijalSai Sahasra Gajula,,NCANCA,15,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Nihal KadambaSuneri Krishna Chinthalapati,,NCANCA,17,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Rylan Tan [2]Micah Cruz,,SCANY,32,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Ethan YS AoZimeng Zhou,,WAWA,7,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Manas ChintalaCharvi Anand,,NCAVA,14,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Justin XiaXinyan Zeng,,ILNCA,19,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Akshaj Reddy DonthiChloe A Kai,,VASCA,21,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Justin KanCharity Lam,,NCANCA,28,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Evan LiuCassidy Yeh,,MASCA,30,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Rocky Yang [1]Nicole Krawczyk,,NCANCA,1,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Andy Xu ZhangChang He,,NCANCA,3,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Kelvin ZhangSophia Wu,,WANJ,6,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Eshan NeogDiyaa Sarath,,NCGA,8,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Suraj Rajesh Kumar [3/4]Anvita Jamsandekar,,NCANCA,9,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Wufan ZhangScarlett Yu,,TXTX,11,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Eli CuiSavannah H Kam,,ILTX,13,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Ish ModiSasha Suman,,TXVA,16,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Adhyaan BalajiRadhika Birur,,TXTX,18,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Max ZhangBrianna Lee,,NCANCA,20,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Prabhat MandavaWendy Li,,ILSCA,22,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Alex Anlai SongZoey Enqi Tan,,WASCA,23,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Tejo Ram MukkamalaAnvitha B Ranganna,,NCNC,25,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Napat SrisalaipaisalMelody Pei,,TXSCA,27,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 XD,Akshay JalwadiHasini Gajjala,,TXTX,29,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Nihal Kadamba [1]Justin Kan,,NCANCA,1,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Mitchell PurnomoRylan Tan,,WASCA,11,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Ansen LiuVaughn Zhao,,TXNCA,13,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Arush Shyam ChitgopkarAbhi Mandanapu,,NCANCA,5,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Evan LiuKelvin Zhang,,MAWA,4,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Manas ChintalaSuraj Rajesh Kumar,,NCANCA,7,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Shriyans BhagavatulaMax Zhang,,NCANCA,10,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Caden Wang [2]Rocky Yang,,NCANCA,16,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Aagnaey Gulla PulijalAndy Xu Zhang,,NCANCA,3,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Adhyaan BalajiAkshay Jalwadi,,TXTX,6,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Eli CuiKevin Zhao,,ILNJ,8,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Akshaj Reddy DonthiEshan Neog,,VANC,9,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Prabhat MandavaJustin Xia,,ILIL,12,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Napat SrisalaipaisalWufan Zhang,,TXTX,14,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 BD,Ethan YS AoAlex Anlai Song,,WAWA,15,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Angela Ye [1]Jasmine Yeung,,NCANCA,1,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Chang He [3/4]Jessica Wu,,NCANCA,24,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Audrey Chang [3/4]Cassidy Yeh,,SCASCA,9,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Sydney Li [2]Xinyan Zeng,,NJNCA,32,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Lydia NgSophie Zhang,,NCANCA,7,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Micah CruzBrianna Lee,,NYNCA,15,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Suneri Krishna ChinthalapatiNicole Krawczyk,,NCANCA,17,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Anvita JamsandekarCharity Lam,,NCANCA,28,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Radhika BirurHasini Gajjala,,TXTX,3,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Emily OuEmily Zhang,,NCANCA,5,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Yeening YapZimeng Zhou,,TXWA,11,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Melody PeiJaleesa Yu,,SCASCA,13,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Chloe A KaiZoey Enqi Tan,,SCASCA,16,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Diyaa SarathSasha Suman,,GAVA,18,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Anvitha B RangannaRiya Suresh,,NCTX,20,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Sophia WuScarlett Yu,,NJTX,22,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Savannah H KamWendy Li,,TXSCA,26,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U15 GD,Sahana ChadaSai Sahasra Gajula,,NCANCA,30,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Adam Tay,1,NCA,1,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Jeffrey Chang,3/4,NCA,48,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Linden Wang,2,NCA,64,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Jaden Jin,3/4,NCA,17,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Kai Chong,5/8,MA,9,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Kyle Wang,5/8,NCA,25,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Benjamin Dictado,5/8,NCA,40,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Chris Wu,,NJ,53,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Alan Premkumar,,VA,7,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Jack Yin,,NCA,15,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Arav Mestry,,NCA,21,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Weslie Chen,,NCA,32,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Orlando Himawan,,NCA,34,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Michael Jiang,,SCA,42,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Ben Tirtohadi,,SCA,52,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Jay Chun,,WA,57,9,16,Round 3
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Matthew Lei,,NJ,12,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Darron Jaden Su,,NCA,24,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Atharva Gulla Pulijal,,NCA,27,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Aditya K George,,TX,38,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Ethan Paw,,NCA,45,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Kavin Raguraman,,MA,49,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Melvin O Thu,,NY,3,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Saujas Patil,,IL,5,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Suraj Koneru,,TX,8,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Manuel Melwyn Alleluia,,TX,11,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Srijan Challapalli,,VA,13,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,David Zuo,,WA,16,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Daniel Wu,,NCA,19,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Arnav Tiwari,,TX,23,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Aditya Kotaru,,TX,28,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Dhruva Singh,,NCA,29,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Thanik Bharani,,NCA,31,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Kody Seow,,NCA,33,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Siva Rajesh,,NC,36,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Srikrishna Sriganesh,,TX,37,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Tian Qi Alan Zhang,,SCA,41,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Darren Teu,,TX,44,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Vyom Mehrotra,,NJ,46,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Shaunak Misra,,TX,50,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Shawn Xia,,NJ,54,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Kevin Zhou,5/8,NCA,56,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Eric Jon,,TX,58,33,64,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,Huaiyuan Ni,,TX,60,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BS,David Purnomo,,WA,62,33,64,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Mikayla Cruz,2,NY,32,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Emma Wei,,NCA,3,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Mia Zhang,,NCA,23,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Kavya Krishna,,VA,13,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Kayla X. Wu,,NY,6,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Vera Lin,,NCA,11,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Audrey Chang,,SCA,17,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Ella Mak,,SCA,28,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Carissa M Chen,,IL,8,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Tanvi Deshmukh,,NCA,16,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Riya Natarajan,,NCA,20,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Charlotte A Tse,,NCA,22,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Lilian Shu,,NCA,26,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Yaorui Shan,,SCA,30,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Bettie Huang,1,NCA,1,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Hannah George,,IL,4,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Veda Gayatri Mullangi,,TX,5,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Annabelle Zhou,,NCA,7,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Alice Y Wang,3/4,NCA,9,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Wenlu She,,NCA,12,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Carina Huang,,SCA,14,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Meggie Chang,,MD,15,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Wei Yee Pua,,TX,18,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Mia Hundley [],,NCA,19,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Aashi Agarwal,,NCA,21,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Harshita Kandambakkam,3/4,NCA,24,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Ardra Mohan,,NCA,25,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Daphne Huang,,NCA,27,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GS,Stella Pan,,NC,29,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Kyle Wang [3/4]Ella Yishan Lin,,NCANCA,24,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Linden Wang [1]Emily Liu,,NCASCA,1,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Kai Chong [2]Annabelle Zhang,,MAMA,32,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Garret TanAudrey Chang,,SCASCA,13,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Benjamin DictadoBettie Huang,,NCANCA,5,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Adam Tay [3/4]Emma Wei,,NCANCA,9,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Srijan ChallapalliElla Mak,,VASCA,17,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Thomas WangHarshita Kandambakkam,,WANCA,26,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Jeffrey ChangAlice Y Wang,,NCANCA,4,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Tian Qi Alan ZhangYaorui Shan,,SCASCA,7,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Orlando HimawanStella Pan,,NCANC,12,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Michael JiangMia Hundley,,SCANCA,16,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Darron Jaden SuSavanna Lee,,NCANCA,19,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Jack YinMikayla Cruz,,NCANY,21,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Thanik BharaniDaphne Huang,,NCANCA,27,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Siva RajeshMeggie Chang,,NCMD,29,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Melvin O ThuCarina Huang,,NYSCA,3,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Atharva Gulla PulijalCarissa M Chen,,NCAIL,6,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Ethan PawCharlotte A Tse,,NCANCA,8,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Weslie ChenVera Lin,,NCANCA,11,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Arden Q LeeLilian Shu,,NCANCA,14,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Daniel WuTanvi Deshmukh,,NCANCA,15,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Huaiyuan NiAngelina vera Chai,,TXSCA,18,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Chris WuKavya Krishna,,NJVA,20,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Ben TirtohadiHannah George,,SCAIL,22,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Jay ChunJaleesa Yu,,WASCA,25,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,David PurnomoAnnabelle Zhou,,WANCA,28,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 XD,Darren TeuWei Yee Pua,,TXTX,30,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Kai Chong [2]Linden Wang,,MANCA,32,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Weslie Chen [3/4]Jack Yin,,NCANCA,9,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Jeffrey Chang [3/4]Kyle Wang,,NCANCA,24,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Jaden Jin [1]Adam Tay,,NCANCA,1,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Jay ChunDavid Zuo,,WAWA,5,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Michael JiangArden Q Lee,,SCANCA,13,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Srijan ChallapalliAlan Premkumar,,VAVA,18,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Garret TanTian Qi Alan Zhang,,SCASCA,26,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,David PurnomoThomas Wang,,WAWA,8,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Benjamin DictadoDarron Jaden Su,,NCANCA,15,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Saujas PatilSiva Rajesh,,ILNC,21,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Ethan PawBen Tirtohadi,,NCASCA,3,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Vyom MehrotraDarren Teu,,NJTX,7,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Manuel Melwyn AlleluiaEric Jon,,TXTX,11,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Suraj KoneruShaunak Misra,,TXTX,16,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Atharva Gulla PulijalDhruva Singh,,NCANCA,17,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Aditya K GeorgeArnav Tiwari,,TXTX,20,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Kody SeowDaniel Wu,,NCANCA,22,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Chris WuShawn Xia,,NJNJ,25,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Matthew LeiKavin Raguraman,,NJMA,28,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 BD,Arav MestryKevin Zhou,,NCANCA,30,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Mia Hundley [2]Emma Wei,,NCANCA,16,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Mikayla CruzStella Pan,,NYNC,5,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Bettie Huang [1]Emily Liu,,NCASCA,1,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Wenlu SheLilian Shu,,NCANCA,9,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Harshita KandambakkamCharlotte A Tse,,NCANCA,3,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Alice Y WangMia Zhang,,NCANCA,8,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Hannah GeorgeCarina Huang,,ILSCA,11,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Carryssa Caryn BunVera Lin,,SCANCA,14,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Kavya KrishnaRiya Natarajan,,VANCA,4,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Ella MakArdra Mohan,,SCANCA,6,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Aashi AgarwalWei Yee Pua,,NCATX,7,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Angelina vera ChaiAnnabelle Zhou,,SCANCA,10,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Savanna LeeAnnabelle Zhang,,NCAMA,12,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Meggie ChangCarissa M Chen,,MDIL,13,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U17 GD,Daphne HuangYaorui Shan,,NCASCA,15,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Adrian Mar,1,NCA,1,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Ryan Ma,,NCA,18,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Andre Chim,3/4,NCA,9,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Mihir Raja,2,NCA,32,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Eric Cheng,,MA,5,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Arthur Heng Lee,,NCA,15,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Andrew Yuan,3/4,NJ,24,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Andrew S Wang,,NCA,27,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Isaac Yang,,NCA,4,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Edward Zhang,,NCA,7,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Matthew Li,,SCA,12,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Aaron Bai,,SCA,14,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Garret Tan,,SCA,19,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Henry Tang,,SCA,21,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Daniel Bielin,,NCA,25,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Neil Ganguly,,IL,30,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Ryan Xurei Wu,,NY,3,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Nikhil Vasudeva,,NC,8,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Michael Xu,,MA,11,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Sohum Gulla Pulijal,,NCA,13,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Lukas Rujia Chang,,NJ,16,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Nicholas Chiu,,OR,17,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Jaden Seangmany,,SCA,20,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Abraham Xu,,SCA,22,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Johnathan H Chi,,WA,26,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Ved Vedere,,NCA,28,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BS,Samuel W Li,,NCA,29,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Ella Yishan Lin,,NCA,7,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Natalie Chi,,NCA,26,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Veronica Yang,,NCA,16,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Emily Han,,NCA,17,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Shriya Chockalingam,1,NCA,1,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Joline Siu,3/4,NCA,9,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Andrea Li,3/4,IL,24,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Amanda Ng,2,IL,32,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Yuet Ki Cheung,,WA,22,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Ashley Huang,,SCA,3,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Kristine Nicole Ngo,,NCA,5,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Carryssa Caryn Bun,,SCA,8,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Angie Huang,,NCA,11,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Sumaswara Chinthalapati,,NCA,13,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Ashley Zhang,,WA,15,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Angelina vera Chai,,SCA,18,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Brianna Mia Xu,,NCA,20,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Sanskruti Kulkarni,,WA,21,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Maggie Chen,,IL,25,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Hailey Hung,,NCA,28,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GS,Dhriti Kommineni,,MA,30,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Adrian Mar [3/4]Natalie Chi,,NCANCA,9,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Henry TangKodi Tang Lee,,SCASCA,18,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Andrew YuanJolie Wang,,NJNCA,3,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Mihir Raja [2]Chloe Ho,,NCANCA,32,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Arthur Heng LeeHailey Hung,,NCANCA,5,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Edward ZhangJoline Siu,,NCANCA,13,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Isaac Yang [3/4]Ashley Yang,,NCASCA,24,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Lukas Rujia ChangDhriti Kommineni,,NJMA,26,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Johnathan H ChiAshley Zhang,,WAWA,7,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Jerry YuanAngie Huang,,NCANCA,11,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Ryan Xurei WuKayla X. Wu,,NYNY,15,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Aaron BaiAndrea Li,,SCAIL,21,9,16,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Andre Chim [1]Kalea Sheung,,NCANCA,1,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Sohum Gulla PulijalSanskruti Kulkarni,,NCAWA,8,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Matthew LiCarryssa Caryn Bun,,SCASCA,12,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Nicholas ChiuBrianna Mia Xu,,ORNCA,16,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Ryan MaVeronica Yang,,NCANCA,17,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Abraham XuMaggie Chen,,SCAIL,20,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Nikhil VasudevaAmanda Ng,,NCIL,22,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Eric ChengJennifer Cui,,MAMA,25,17,32,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Ved VedereWenlu She,,NCANCA,28,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 XD,Andrew LiangEmily Han,,NCANCA,30,17,32,Round 2
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Aaron BaiRyan Ma,,SCANCA,4,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Andre Chim [2]Andrew Yuan,,NCANJ,16,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Arthur Heng LeeJerry Yuan,,NCANCA,5,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Neil GangulyMichael Xu,,ILMA,11,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Nicholas ChiuNikhil Vasudeva,,ORNC,7,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Matthew LiAbraham Xu,,SCASCA,9,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Andrew S WangEdward Zhang,,NCANCA,14,5,8,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Adrian Mar [1]Henry Tang,,NCASCA,1,9,16,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Samuel W LiIsaac Yang,,NCANCA,3,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Thanik BharaniVed Vedere,,NCANCA,6,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Lukas Rujia ChangEric Cheng,,NJMA,8,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Sohum Gulla PulijalJaden Seangmany,,NCASCA,10,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Johnathan H ChiRyan Xurei Wu,,WANY,12,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 BD,Daniel BielinAndrew Liang,,NCANCA,13,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GD,Chloe Ho [2]Ella Yishan Lin,,NCANCA,16,1,1,Winner
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GD,Kodi Tang LeeAshley Yang,,SCASCA,7,2,2,Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GD,Kalea Sheung [1]Joline Siu,,NCANCA,1,3,3,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GD,Shriya ChockalingamKristine Nicole Ngo,,NCANCA,9,4,4,Semi Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GD,Maggie ChenAmanda Ng,,ILIL,3,9,16,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GD,Emily HanJolie Wang,,NCANCA,5,9,16,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GD,Jennifer CuiAngie Huang,,MANCA,10,9,16,Round 1
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GD,Sanskruti KulkarniAshley Zhang,,WAWA,12,9,16,Quarter Finals
+2022 U.S. Selection Event,2022-04-15/2022-04-18,U19 GD,Andrea LiVeronica Yang,,ILNCA,14,9,16,Quarter Finals

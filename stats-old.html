@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>USA Badminton Junior Player Stats (2025-2026)</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; color: #1a1a2e; padding: 20px; }
+  h1 { text-align: center; margin-bottom: 4px; font-size: 1.5rem; }
+  .subtitle { text-align: center; color: #666; margin-bottom: 16px; font-size: 0.9rem; }
+  .table-wrap { overflow-x: auto; background: #fff; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
+  table { border-collapse: collapse; width: 100%; min-width: 1400px; font-size: 13px; }
+  thead { position: sticky; top: 0; z-index: 2; }
+  th {
+    background: #1a1a2e; color: #fff; padding: 8px 10px; text-align: right;
+    cursor: pointer; user-select: none; white-space: nowrap; position: relative;
+  }
+  th:nth-child(2) { text-align: left; }
+  th:hover { background: #2d2d5e; }
+  th .arrow { font-size: 10px; margin-left: 3px; opacity: 0.4; }
+  th.sort-asc .arrow::after { content: '\25B2'; }
+  th.sort-desc .arrow::after { content: '\25BC'; }
+  th.sort-asc .arrow, th.sort-desc .arrow { opacity: 1; }
+  td { padding: 6px 10px; border-bottom: 1px solid #eee; text-align: right; white-space: nowrap; }
+  td:nth-child(2) { text-align: left; font-weight: 600; }
+  tr:hover td { background: #f0f4ff; }
+  tr:nth-child(even) td { background: #fafbfc; }
+  tr:nth-child(even):hover td { background: #f0f4ff; }
+  .pos { color: #999; font-weight: normal; }
+  .good { color: #16a34a; }
+  .bad { color: #dc2626; }
+  .tooltip { position: relative; }
+  .tooltip::after {
+    content: attr(data-tip); position: absolute; top: 100%; left: 50%; transform: translateX(-50%);
+    background: #444; color: #fff; padding: 6px 12px; border-radius: 6px; font-size: 12px;
+    font-weight: normal; letter-spacing: 0;
+    white-space: nowrap; pointer-events: none; opacity: 0; transition: opacity 0.2s;
+    z-index: 10; margin-top: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  }
+  .tooltip::before {
+    content: ''; position: absolute; top: 100%; left: 50%; transform: translateX(-50%);
+    border: 5px solid transparent; border-bottom-color: #444;
+    pointer-events: none; opacity: 0; transition: opacity 0.2s; z-index: 10;
+  }
+  .tooltip:hover::after, .tooltip:hover::before { opacity: 1; }
+  /* Keep tooltips on edges from going off-screen */
+  th:first-child.tooltip::after { left: 0; transform: none; }
+  th:last-child.tooltip::after, th:nth-last-child(2).tooltip::after { left: auto; right: 0; transform: none; }
+  th:first-child.tooltip::before { left: 15px; transform: none; }
+  th:last-child.tooltip::before, th:nth-last-child(2).tooltip::before { left: auto; right: 15px; transform: none; }
+</style>
+</head>
+<body>
+
+<h1>USA Badminton Junior Player Game Stats</h1>
+<p class="subtitle">2025-2026 Season &mdash; Top 100 by Total Points Scored &mdash; Updated March 6, 2026</p>
+
+<div class="table-wrap">
+  <table id="stats">
+    <thead>
+      <tr>
+        <th data-col="rank" data-type="num" class="tooltip" data-tip="Rank by total rally points scored across all disciplines">#<span class="arrow"></span></th>
+        <th data-col="player" data-type="str" class="tooltip" data-tip="Player name (all disciplines combined)">Player<span class="arrow"></span></th>
+        <th data-col="tournaments_played" data-type="num" class="tooltip" data-tip="Tournaments: number of distinct tournaments played">T<span class="arrow"></span></th>
+        <th data-col="matches" data-type="num" class="tooltip" data-tip="Matches: total matches played (wins + losses)">M<span class="arrow"></span></th>
+        <th data-col="wins" data-type="num" class="tooltip" data-tip="Wins: matches won">W<span class="arrow"></span></th>
+        <th data-col="losses" data-type="num" class="tooltip" data-tip="Losses: matches lost">L<span class="arrow"></span></th>
+        <th data-col="win_pct" data-type="num" class="tooltip" data-tip="Win %: match win rate (wins / matches x 100)">W%<span class="arrow"></span></th>
+        <th data-col="games_played" data-type="num" class="tooltip" data-tip="Games Played: each match has 2-3 games (first to 2)">GP<span class="arrow"></span></th>
+        <th data-col="games_won" data-type="num" class="tooltip" data-tip="Games Won: individual games won (each played to 21)">GW<span class="arrow"></span></th>
+        <th data-col="games_lost" data-type="num" class="tooltip" data-tip="Games Lost: individual games lost">GL<span class="arrow"></span></th>
+        <th data-col="game_win_pct" data-type="num" class="tooltip" data-tip="Game Win %: game win rate (games won / played x 100)">G%<span class="arrow"></span></th>
+        <th data-col="pts_scored" data-type="num" class="tooltip" data-tip="Points Scored: total rally points scored across all games">Pts<span class="arrow"></span></th>
+        <th data-col="pts_against" data-type="num" class="tooltip" data-tip="Points Against: total rally points conceded">Agst<span class="arrow"></span></th>
+        <th data-col="pt_diff" data-type="num" class="tooltip" data-tip="Point Diff: points scored minus points conceded">Diff<span class="arrow"></span></th>
+        <th data-col="avg_pts_per_match" data-type="num" class="tooltip" data-tip="Pts/Match: average rally points scored per match">P/M<span class="arrow"></span></th>
+        <th data-col="avg_pts_per_game" data-type="num" class="tooltip" data-tip="Pts/Game: average rally points scored per game (max ~21)">P/G<span class="arrow"></span></th>
+        <th data-col="three_game_matches" data-type="num" class="tooltip" data-tip="3-Game Matches: matches that went to a deciding 3rd game">3GM<span class="arrow"></span></th>
+        <th data-col="three_game_wins" data-type="num" class="tooltip" data-tip="3-Game Wins: matches won that went to 3 games">3GW<span class="arrow"></span></th>
+        <th data-col="three_game_losses" data-type="num" class="tooltip" data-tip="3-Game Losses: matches lost that went to 3 games">3GL<span class="arrow"></span></th>
+        <th data-col="three_game_pct" data-type="num" class="tooltip" data-tip="3-Game %: percentage of all matches that went to 3 games">3G%<span class="arrow"></span></th>
+        <th data-col="straight_set_wins" data-type="num" class="tooltip" data-tip="Straight-Set Wins: matches won 2-0 without dropping a game">SSW<span class="arrow"></span></th>
+        <th data-col="straight_set_losses" data-type="num" class="tooltip" data-tip="Straight-Set Losses: matches lost 0-2 without winning a game">SSL<span class="arrow"></span></th>
+        <th data-col="biggest_win_margin" data-type="num" class="tooltip" data-tip="Biggest Win Margin: largest total point diff in a single match win">BWM<span class="arrow"></span></th>
+        <th data-col="biggest_loss_margin" data-type="num" class="tooltip" data-tip="Biggest Loss Margin: largest total point diff in a single match loss">BLM<span class="arrow"></span></th>
+        <th data-col="shutout_games_won" data-type="num" class="tooltip" data-tip="Shutout Games Won: games won where opponent scored 0 points">SOW<span class="arrow"></span></th>
+        <th data-col="shutout_games_lost" data-type="num" class="tooltip" data-tip="Shutout Games Lost: games lost where player scored 0 points">SOL<span class="arrow"></span></th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+</div>
+
+<script>
+const CSV = `rank,player,tournaments_played,matches,wins,losses,win_pct,games_played,games_won,games_lost,game_win_pct,pts_scored,pts_against,pt_diff,avg_pts_per_match,avg_pts_per_game,three_game_matches,three_game_wins,three_game_losses,three_game_pct,straight_set_wins,straight_set_losses,biggest_win_margin,biggest_loss_margin,shutout_games_won,shutout_games_lost
+1,Jason Gu,12,122,87,35,71.3,268,182,86,67.9,5075,4096,979,41.6,18.9,25,11,14,20.5,72,21,37,34,0,0
+2,Chris Lin,11,118,90,28,76.3,252,183,69,72.6,4834,3641,1193,41.0,19.2,16,10,6,13.6,78,22,37,27,0,0
+3,Krishnavi Kasu,10,106,88,18,83.0,242,184,58,76.0,4790,3595,1195,45.2,19.8,30,22,8,28.3,66,10,35,20,0,0
+4,Jacob Ma,10,114,82,32,71.9,250,172,78,68.8,4789,3778,1011,42.0,19.2,24,11,13,21.1,67,19,34,30,1,0
+5,Yifei Zhang,11,113,83,30,73.5,243,173,70,71.2,4693,3700,993,41.5,19.3,21,10,11,18.6,69,19,37,28,0,0
+6,Shrihayagrivan Karthigayan,10,112,82,30,73.2,242,166,75,68.6,4568,3545,1023,40.8,18.9,18,14,4,16.1,67,26,39,29,1,0
+7,Eesha Vikram,12,116,83,33,71.6,243,162,80,66.7,4492,3554,938,38.7,18.5,19,8,11,16.4,62,22,34,34,1,0
+8,Mihika Jaiswal,11,101,72,29,71.3,233,157,75,67.4,4483,3664,819,44.4,19.2,31,17,14,30.7,54,15,36,24,0,0
+9,Mokshagna Surpur,11,107,73,34,68.2,228,153,75,67.1,4340,3549,791,40.6,19.0,18,8,10,16.8,62,23,37,31,0,0
+10,Srineet Atluri,9,97,74,23,76.3,221,155,66,70.1,4318,3487,831,44.5,19.5,28,20,8,28.9,53,15,34,25,0,0
+11,Neel Achari,12,108,74,34,68.5,232,156,76,67.2,4296,3334,962,39.8,18.5,16,9,7,14.8,65,26,36,31,2,0
+12,Ayaaz Muhammed Baig,11,103,73,30,70.9,225,152,72,67.6,4265,3414,851,41.4,19.0,23,12,11,22.3,57,18,34,31,0,0
+13,Kevin Xie,8,99,75,24,75.8,219,157,62,71.7,4265,3436,829,43.1,19.5,21,12,9,21.2,62,15,33,34,0,0
+14,Vignan Chandrasekaran,10,101,79,22,78.2,219,162,57,74.0,4262,3211,1051,42.2,19.5,17,13,4,16.8,66,18,37,29,0,0
+15,Shraddha Prakash,8,94,82,12,87.2,209,172,37,82.3,4160,2935,1225,44.3,19.9,21,13,8,22.3,69,4,41,33,2,0
+16,Aayush Jaladurgam,10,102,74,28,72.5,218,152,66,69.7,4135,3323,812,40.5,19.0,14,10,4,13.7,64,24,34,34,0,0
+17,Grace Cheng,8,97,75,22,77.3,213,153,60,71.8,4070,3284,786,42.0,19.1,19,14,5,19.6,60,17,30,34,0,0
+18,Anirudh Rudharraju,9,96,65,31,67.7,212,141,71,66.5,4036,3331,705,42.0,19.0,20,7,13,20.8,57,18,33,34,0,0
+19,Trisha Mehta,10,94,64,30,68.1,213,131,82,61.5,3994,3411,583,42.5,18.8,27,20,7,28.7,41,23,34,32,0,0
+20,Anthony Cheng Xu,11,92,62,30,67.4,207,132,75,63.8,3986,3367,619,43.3,19.3,25,15,10,27.2,45,20,35,26,0,0
+21,Avyukth Reddy Pati,12,101,62,39,61.4,219,132,87,60.3,3973,3414,559,39.3,18.1,17,10,7,16.8,52,31,37,30,0,0
+22,Elena Zhang,9,91,63,28,69.2,205,133,71,64.9,3902,3189,713,42.9,19.0,24,12,12,26.4,47,16,34,25,0,0
+23,Joey Wang,9,90,66,24,73.3,203,135,68,66.5,3884,3205,679,43.2,19.1,23,16,7,25.6,48,17,32,20,0,0
+24,Franklin Xu Cheng,11,99,62,37,62.6,214,129,85,60.3,3869,3294,575,39.1,18.1,16,9,7,16.2,51,30,36,31,0,0
+25,Claire Qiuchen Li,8,84,65,19,77.4,198,133,65,67.2,3823,3163,660,45.5,19.3,31,25,6,36.9,38,13,31,24,0,0
+26,Ayaan Kale,11,98,66,32,67.3,206,135,70,65.5,3810,3164,646,38.9,18.5,11,6,5,11.2,58,26,34,31,0,0
+27,Siddhi Thorat,10,93,58,35,62.4,208,126,82,60.6,3808,3297,511,40.9,18.3,23,12,11,24.7,45,24,36,31,0,0
+28,Jida Wu,11,97,59,38,60.8,208,122,86,58.7,3802,3262,540,39.2,18.3,15,7,8,15.5,49,30,37,32,1,0
+29,Mizuki Ikeuchi,8,90,70,20,77.8,195,143,52,73.3,3770,2956,814,41.9,19.3,16,11,5,17.8,58,14,33,31,0,0
+30,Brendan Chen,8,86,59,27,68.6,192,131,61,68.2,3716,3087,629,43.2,19.4,22,9,13,25.6,49,13,29,19,0,0
+31,Sophia Li,9,88,57,31,64.8,201,125,76,62.2,3708,3244,464,42.1,18.4,25,14,11,28.4,43,20,32,35,0,0
+32,Stephanie Jiayi Song,8,82,64,18,78.0,187,133,54,71.1,3705,2927,778,45.2,19.8,23,18,5,28.0,46,13,37,19,0,0
+33,Ethan Qiu,9,88,60,28,68.2,195,131,64,67.2,3686,3120,566,41.9,18.9,20,8,12,22.7,51,15,34,31,0,0
+34,Zaph J-Din Bayona,10,91,64,27,70.3,193,132,61,68.4,3668,2872,796,40.3,19.0,12,5,7,13.2,57,20,33,33,0,0
+35,Arnav Satish,9,91,61,30,67.0,194,125,69,64.4,3666,3112,554,40.3,18.9,14,10,4,15.4,50,25,32,26,0,0
+36,Charvi Srivastava,9,85,61,24,71.8,190,132,58,69.5,3657,2965,692,43.0,19.2,20,9,11,23.5,51,13,32,32,0,0
+37,Toby Liu,11,93,53,40,57.0,202,111,91,55.0,3652,3219,433,39.3,18.1,18,10,8,19.4,40,32,39,27,1,0
+38,Hanyi Zhang,8,84,61,23,72.6,189,133,56,70.4,3651,3059,592,43.5,19.3,23,12,11,27.4,49,10,26,20,0,0
+39,Janice Chen,9,86,61,25,70.9,191,127,64,66.5,3648,3052,596,42.4,19.1,19,12,7,22.1,48,18,37,26,1,0
+40,Sophia Z Liu,9,87,59,28,67.8,193,128,65,66.3,3642,3037,605,41.9,18.9,19,9,10,21.8,50,18,32,24,0,0
+41,Leslie Wang,10,86,55,31,64.0,189,114,75,60.3,3487,2965,522,40.5,18.4,17,8,9,19.8,44,22,34,31,0,0
+42,Mikael Chang,8,79,56,23,70.9,179,121,58,67.6,3442,2808,634,43.6,19.2,21,12,9,26.6,44,14,36,22,1,0
+43,Lexuan Wen,6,80,65,15,81.2,176,132,44,75.0,3438,2525,913,43.0,19.5,17,11,6,21.2,51,9,34,25,0,0
+44,Yashas Cheerlavancha,9,83,51,32,61.4,185,112,73,60.5,3435,2981,454,41.4,18.6,19,9,10,22.9,42,22,37,25,0,0
+45,Jessica Zhang,10,82,58,24,70.7,180,123,57,68.3,3434,2644,790,41.9,19.1,16,8,8,19.5,49,16,35,27,1,0
+46,Terence Cai,7,77,59,18,76.6,176,123,53,69.9,3430,2635,795,44.5,19.5,22,17,5,28.6,42,13,34,19,0,0
+47,Abhiram Tripuraneni,8,74,59,15,79.7,175,129,46,73.7,3426,2723,703,46.3,19.6,27,18,9,36.5,41,5,41,20,1,0
+48,Varish Karri,8,85,63,22,74.1,181,123,58,68.0,3405,2651,754,40.1,18.8,11,6,5,12.9,53,17,32,26,0,0
+49,Michael Yufu Sun,7,78,64,14,82.1,171,133,38,77.8,3396,2419,977,43.5,19.9,15,9,6,19.2,54,8,34,24,0,0
+50,Devaansh Mahato,9,82,55,27,67.1,181,114,67,63.0,3355,2799,556,40.9,18.5,17,10,7,20.7,43,20,40,26,1,0
+51,Alaina Benjamin,7,76,56,20,73.7,174,121,53,69.5,3351,2665,686,44.1,19.3,22,11,11,28.9,44,9,37,26,0,0
+52,Seth Li,9,77,56,21,72.7,174,121,53,69.5,3349,2621,728,43.5,19.2,20,11,9,26.0,45,12,34,26,0,0
+53,Xiner Hu,8,81,62,19,76.5,177,127,50,71.8,3341,2371,970,41.2,18.9,15,9,6,18.5,50,13,35,26,0,0
+54,Liam Xiao,11,85,52,33,61.2,186,103,83,55.4,3331,2983,348,39.2,17.9,16,10,6,18.8,38,27,35,24,0,0
+55,Joey Liu,9,76,58,18,76.3,173,121,52,69.9,3316,2698,618,43.6,19.2,21,16,5,27.6,42,13,30,22,0,0
+56,Kavya Balaji,8,78,59,19,75.6,173,121,52,69.9,3300,2519,781,42.3,19.1,17,10,7,21.8,47,12,35,29,0,0
+57,Clarinda Jin,7,72,55,17,76.4,165,119,46,72.1,3264,2405,859,45.3,19.8,22,11,11,30.6,43,5,34,17,0,0
+58,Naksh Shetty,8,76,63,13,82.9,164,131,33,79.9,3246,2137,1109,42.7,19.8,12,6,6,15.8,56,7,33,24,0,0
+59,Emily Feng,10,83,44,39,53.0,181,93,87,51.4,3240,3114,126,39.0,17.9,17,8,9,20.5,33,30,31,29,0,0
+60,Soudamini Reddy,16,92,33,59,35.9,196,79,117,40.3,3200,3456,-256,34.8,16.3,18,7,11,19.6,25,41,35,34,0,0
+61,Yeewei Yap,10,84,49,35,58.3,178,96,82,53.9,3191,3022,169,38.0,17.9,17,11,6,20.2,32,26,32,28,0,0
+62,William Geng,7,74,57,17,77.0,165,119,46,72.1,3187,2342,845,43.1,19.3,17,12,5,23.0,45,12,33,30,0,0
+63,Harry H Song,8,80,54,26,67.5,173,115,58,66.5,3180,2701,479,39.8,18.4,15,7,8,18.8,46,17,37,28,0,0
+64,Vincent Chen,7,76,56,20,73.7,166,116,49,69.9,3179,2531,648,41.8,19.2,14,8,6,18.4,46,14,26,30,0,0
+65,Hanyi (Sissi) Lei,7,76,49,27,64.5,166,107,59,64.5,3177,2532,645,41.8,19.1,14,3,11,18.4,45,16,37,20,0,0
+66,Keaton Ou,9,82,56,26,68.3,170,109,61,64.1,3160,2521,639,38.5,18.6,10,4,6,12.2,44,20,34,24,0,0
+67,Vihaa Reddy Keesara,11,85,46,39,54.1,182,97,85,53.3,3158,2869,289,37.2,17.4,14,7,7,16.5,37,30,36,31,0,0
+68,Venba Senkadir,9,78,56,22,71.8,170,108,61,63.5,3152,2638,514,40.4,18.5,14,12,2,17.9,41,20,34,32,0,0
+69,Virat Satish,9,77,53,24,68.8,167,108,58,64.7,3151,2509,642,40.9,18.9,13,8,5,16.9,43,19,35,27,0,0
+70,Aadya Yanamandra,9,77,53,24,68.8,168,112,56,66.7,3149,2440,709,40.9,18.7,14,7,7,18.2,44,16,34,22,0,0
+71,Medha Sivani Gudavalli,10,81,51,30,63.0,174,101,73,58.0,3130,2907,223,38.6,18.0,16,11,5,19.8,35,25,30,36,0,0
+72,Zelenia Shen,9,77,48,29,62.3,172,101,70,58.7,3114,2778,336,40.4,18.1,18,8,10,23.4,37,19,34,32,0,0
+73,Allen Yang,8,68,41,27,60.3,162,95,67,58.6,3108,2731,377,45.7,19.2,26,13,13,38.2,28,14,30,18,0,0
+74,Ishi Reddy,7,71,49,22,69.0,163,102,61,62.6,3104,2676,428,43.7,19.0,21,14,7,29.6,33,14,34,26,0,0
+75,Haziqa H Mathani,9,75,51,24,68.0,166,108,58,65.1,3080,2673,407,41.1,18.6,16,9,7,21.3,41,17,30,31,0,0
+76,Alice Meng,6,70,56,14,80.0,159,114,45,71.7,3070,2523,547,43.9,19.3,20,17,3,28.6,38,11,34,23,0,0
+77,Anshu Gowda,8,75,55,20,73.3,161,115,46,71.4,3063,2326,737,40.8,19.0,11,6,5,14.7,49,15,35,29,0,0
+78,Amogh Lanka,11,75,45,30,60.0,166,97,69,58.4,3052,2707,345,40.7,18.4,17,9,8,22.7,35,22,38,27,1,0
+79,Nina Kuan,12,79,43,36,54.4,174,88,86,50.6,3041,2844,197,38.5,17.5,16,8,8,20.3,32,28,36,29,0,0
+80,Zisheng (Gaogao) Fan,10,72,49,23,68.1,162,105,57,64.8,3037,2586,451,42.2,18.7,18,10,8,25.0,38,15,29,34,0,0
+81,Adrian Zhang,9,75,48,27,64.0,161,102,59,63.4,3030,2383,647,40.4,18.8,11,5,6,14.7,43,21,33,27,0,0
+82,Arudh Sundar,9,73,43,30,58.9,166,97,69,58.4,3011,2616,395,41.2,18.1,20,9,11,27.4,34,19,37,27,0,0
+83,Leon Luo,8,74,49,25,66.2,160,100,60,62.5,3000,2602,398,40.5,18.8,15,10,5,20.3,36,19,32,31,0,0
+84,Zmy Gao,9,77,48,29,62.3,166,95,71,57.2,2999,2634,365,38.9,18.1,16,11,5,20.8,32,24,37,25,1,0
+85,Magadheesan Velu,8,77,52,25,67.5,162,109,52,67.3,2996,2436,560,38.9,18.5,8,3,5,10.4,48,19,33,33,0,1
+86,Rachel Yao,8,68,47,21,69.1,157,105,51,66.9,2994,2456,538,44.0,19.1,21,9,12,30.9,37,9,33,24,0,0
+87,Edwin Huang,9,72,42,30,58.3,162,94,68,58.0,2979,2592,387,41.4,18.4,18,8,10,25.0,34,20,35,30,0,0
+88,Ethan Yip Ly,10,76,42,34,55.3,166,92,74,55.4,2974,2742,232,39.1,17.9,15,7,8,19.7,35,25,33,31,0,0
+89,Chiranjeev Deepak,7,72,52,20,72.2,155,110,45,71.0,2970,2233,737,41.2,19.2,11,3,8,15.3,48,12,35,21,0,0
+90,Sophia Sun,8,71,48,23,67.6,154,101,53,65.6,2956,2296,660,41.6,19.2,12,6,6,16.9,41,17,37,22,0,0
+91,Laasya Polineni,8,73,54,19,74.0,157,111,46,70.7,2947,2253,694,40.4,18.8,11,7,4,15.1,46,15,35,27,0,0
+92,Daksh Thakur,10,71,51,20,71.8,157,104,52,66.2,2931,2262,669,41.3,18.7,18,10,8,25.4,36,12,37,25,1,0
+93,Mark W Wu,12,71,41,30,57.7,157,89,68,56.7,2925,2646,279,41.2,18.6,17,8,9,23.9,31,21,31,26,0,0
+94,Sitar Sanghani,8,67,45,22,67.2,155,100,55,64.5,2914,2504,410,43.5,18.8,21,11,10,31.3,34,12,35,26,1,0
+95,Derek Huang,9,71,46,25,64.8,156,98,58,62.8,2900,2534,366,40.8,18.6,14,8,6,19.7,38,19,35,29,0,0
+96,Katherine F Xu,11,76,42,34,55.3,160,87,73,54.4,2888,2630,258,38.0,18.1,14,8,6,18.4,30,25,38,28,2,0
+97,Raymond Haiwen Song,9,64,45,19,70.3,148,93,55,62.8,2876,2415,461,44.9,19.4,20,17,3,31.2,28,16,33,17,0,0
+98,Surya Peechara,9,70,45,25,64.3,153,96,57,62.7,2871,2514,357,41.0,18.8,13,7,6,18.6,38,19,37,24,0,0
+99,Hardik Gowrish,8,67,42,25,62.7,153,92,61,60.1,2857,2589,268,42.6,18.7,19,11,8,28.4,31,17,32,28,0,0
+100,Selina Xu,8,66,41,25,62.1,153,90,63,58.8,2849,2626,223,43.2,18.6,21,11,10,31.8,29,15,28,29,0,0`;
+
+const rows = CSV.trim().split('\n');
+const headers = rows[0].split(',');
+const data = rows.slice(1).map(line => {
+  const vals = [];
+  let cur = '', inQ = false;
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (ch === '"') { inQ = !inQ; }
+    else if (ch === ',' && !inQ) { vals.push(cur); cur = ''; }
+    else { cur += ch; }
+  }
+  vals.push(cur);
+  const obj = {};
+  headers.forEach((h, i) => obj[h] = vals[i] || '');
+  return obj;
+});
+
+const numCols = new Set(['rank','tournaments_played','matches','wins','losses','win_pct',
+  'games_played','games_won','games_lost','game_win_pct','pts_scored','pts_against','pt_diff',
+  'avg_pts_per_match','avg_pts_per_game','three_game_matches','three_game_wins','three_game_losses',
+  'three_game_pct','straight_set_wins','straight_set_losses','biggest_win_margin','biggest_loss_margin',
+  'shutout_games_won','shutout_games_lost']);
+
+function fmt(val, col) {
+  if (!numCols.has(col)) return val;
+  const n = parseFloat(val);
+  if (col === 'pt_diff') return (n >= 0 ? '+' : '') + n.toLocaleString();
+  if (['pts_scored','pts_against'].includes(col)) return n.toLocaleString();
+  if (['win_pct','game_win_pct','three_game_pct','avg_pts_per_match','avg_pts_per_game'].includes(col))
+    return n.toFixed(1);
+  return val;
+}
+
+function colorClass(col, val) {
+  const n = parseFloat(val);
+  if (col === 'pt_diff') return n > 0 ? 'good' : n < 0 ? 'bad' : '';
+  if (col === 'win_pct' || col === 'game_win_pct') return n >= 75 ? 'good' : n < 55 ? 'bad' : '';
+  return '';
+}
+
+const tbody = document.getElementById('tbody');
+const thEls = document.querySelectorAll('th[data-col]');
+const colOrder = Array.from(thEls).map(th => th.dataset.col);
+
+function render(d) {
+  tbody.innerHTML = d.map((r, i) => {
+    const cells = colOrder.map(col => {
+      if (col === 'rank') return `<td class="pos">${i + 1}</td>`;
+      const v = r[col];
+      const cc = colorClass(col, v);
+      return `<td${cc ? ` class="${cc}"` : ''}>${fmt(v, col)}</td>`;
+    }).join('');
+    return `<tr>${cells}</tr>`;
+  }).join('');
+}
+
+let sortCol = null, sortDir = 1;
+
+thEls.forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    const isNum = th.dataset.type === 'num';
+    if (sortCol === col) { sortDir *= -1; }
+    else { sortCol = col; sortDir = isNum ? -1 : 1; }
+    thEls.forEach(t => t.classList.remove('sort-asc', 'sort-desc'));
+    th.classList.add(sortDir === 1 ? 'sort-asc' : 'sort-desc');
+    data.sort((a, b) => {
+      let va = a[col], vb = b[col];
+      if (isNum) { va = parseFloat(va) || 0; vb = parseFloat(vb) || 0; }
+      else { va = va.toLowerCase(); vb = vb.toLowerCase(); }
+      return va < vb ? -sortDir : va > vb ? sortDir : 0;
+    });
+    render(data);
+  });
+});
+
+render(data);
+</script>
+</body>
+</html>

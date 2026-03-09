@@ -1,0 +1,678 @@
+tournament,dates,event,player,seed,state,draw_pos,rank_lo,rank_hi,elim_round
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Jacob Zhou,2,SCA,32,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Srineet Atluri,,NC,11,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Varish Karri,1,TX,1,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Taneesh Musunuru,,GA,17,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Adhip Sundar,,GA,8,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Bivab Chandra,,GA,13,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Vihaan Darbha,,NC,22,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Ketan Dubey,,IL,26,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Yeewei Yap,,TX,15,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Haochen Zhang Li,,NCA,3,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Zisheng Fan,,MA,5,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Zayn Arman Nallaguntla,,TX,7,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Nihal Reddy Gajjala,,TX,9,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Ethan Qiu,,NJ,12,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Melvin Cui,,IL,16,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Kayden Hossain,,NCA,18,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Darsh Sree Gadepalli,,TX,20,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Shreyas Yarlagadda,,TX,21,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Siddharth Gummadi,3/4,IL,24,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Sai Ratan Shankar,,GA,25,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Krishiv Devgun,,TX,28,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U11,Yohaan Joshi,,TX,30,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Sophia Sun,2,NCA,16,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Lexuan Wen,1,NCA,1,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Alice Meng,,NCA,5,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Mithra Senthil Raja,,TX,12,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Adriel Ammy Chandran,,NJ,3,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Alekhya Jalwadi,,TX,7,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Shraddha Prakash,,TX,9,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Lilian Feng,,NJ,14,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Chingpei Lin,,TX,4,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Nityaa Jaiswal,WC,SCA,8,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Sahasra Reddy,,NCA,10,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Janice Chen,,NCA,11,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U11,Veda Lekkala,,TX,13,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Jacob Zhou [1]Lexuan Wen,,SCANCA,1,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Kayden Hossain [2]Sahasra Reddy,,NCANCA,16,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Ketan DubeyJanice Chen,,ILNCA,5,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Ethan QiuAdriel Ammy Chandran,,NJNJ,10,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Nihal Reddy GajjalaAlekhya Jalwadi,,TXTX,7,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Varish KarriMithra Senthil Raja,,TXTX,3,9,16,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Zisheng FanVeda Lekkala,,MATX,8,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Taneesh MusunuruNityaa Jaiswal,,GASCA,9,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Yohaan JoshiShraddha Prakash,,TXTX,12,9,16,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U11,Yeewei YapChingpei Lin,,TXTX,14,9,16,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Srineet Atluri [WC]Varish Karri,,NCTX,8,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Ethan Qiu [2]Jacob Zhou,,NJSCA,16,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Melvin CuiKetan Dubey,,ILIL,12,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Siddharth Gummadi [1]Sai Ratan Shankar,,ILGA,1,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Bivab ChandraTaneesh Musunuru,,GAGA,9,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Nihal Reddy GajjalaYohaan Joshi,,TXTX,3,9,16,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Darsh Sree GadepalliAdhip Sundar,,TXGA,5,9,16,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Kayden HossainHaochen Zhang Li,,NCANCA,7,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Vihaan DarbhaYeewei Yap,,NCTX,10,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U11,Krishiv DevgunZayn Arman Nallaguntla,,TXTX,14,9,16,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U11,Alice Meng [2]Sophia Sun,,NCANCA,4,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U11,Janice Chen [1]Lexuan Wen,,NCANCA,1,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U11,Shraddha PrakashMithra Senthil Raja,,TXTX,2,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U11,Adriel Ammy ChandranLilian Feng,,NJNJ,3,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Yifan Liu,5/8,NCA,25,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Rithik Rasamsetti,,NC,58,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Terence Cai,5/8,NCA,40,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Vincent Chen,1,IL,1,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Anirud Veldanda,5/8,TX,9,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Aarya Vijay,3/4,TX,17,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Saatvik Shetty,,NCA,42,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Alex Wen,,NCA,53,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Allen Yang,WC,NCA,8,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Carsten Lam,WC,NCA,13,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Jonathan Wu,,NJ,21,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Aryan Mohan,WC,NCA,31,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Srinivas Raghav Subash,,IL,35,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Cayden Wang,,NCA,46,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Seth Li,,NJ,51,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Krish Raja,2,NCA,64,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Jayden Mar,,NCA,5,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Johnny Chen,,WA,16,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Ayaaz Muhammed Baig,,TX,23,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Gavin Le,,SCA,28,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Anish Sai Gunupudi,,NC,30,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Isaac Zhao,WC,WA,34,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Neel J Reddy,,TX,38,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Clay Yang,WC,NCA,44,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Mi Michael Liu,WC,NCA,50,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Morgan Li,,NCA,59,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Jason Yang,,NCA,3,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Vrishin Telikuntla,,TX,6,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Ariston Yu Feng Goh,,TX,7,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Shreyas Reddy,,NCA,11,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Samiksh Talapally,,TX,14,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Anthony Cheng Xu [],,TX,15,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Yichen Li,,NCA,19,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Nathan Lee,,TX,22,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Sean Li [],,NCA,24,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Yifei Zhang,,TX,27,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Mark Wu,,TX,29,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Aarav Bhandary,,TX,32,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Austin Zheng,,TX,33,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Jonathan Yu,,TX,36,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Thomas Cui,,MA,37,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Ian Darmawan,,TX,41,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Arjun Aditya Hariharan,,TX,43,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Hanyi Zhang,3/4,TX,48,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Anish Bhandary,,TX,49,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Sashanth Senthil [],,TX,52,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Aditya Ramakrishn Hariharan,,TX,54,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Brendan E Chen,5/8,IL,56,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Varin Karri,WC,TX,57,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Bhavesh SAI VARMA Tammu,DNS,TX,60,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U13,Kiyansh Chaudhary,,TX,62,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Maggie Zang,2,NCA,32,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Aadya Pitani,1,VA,1,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Camellia Wang,5/8,NCA,20,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Jennifer Bangcaya,3/4,NCA,9,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Joanne Li,,NC,6,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Tvisha Modi,5/8,TX,13,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Aashi Gupta,3/4,TX,24,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Kimaya Krishna,5/8,VA,28,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Selena Wei,,SCA,3,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Dhvani Shankar,,GA,7,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Tatthva Sharma,WC,TX,12,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Vivian Feng,WC,NJ,15,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Emily Min Tang,,VA,18,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Vivian Jiayue Song,WC,WA,22,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Megha Reddy Challa,,NJ,26,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Clarinda Jin,,IL,30,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Adonia Anny Chandran,,NJ,2,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Ivey X. Bao,WC,TX,4,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Nidhi Sujin,5/8,NCA,5,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Renee Liu,WC,TX,8,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Diksha Chandrasekaran,,TX,10,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Celine Ao,,WA,11,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Saee Thorat [],,NCA,14,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Charvi Murali,,TX,16,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Ruoyao Liu,WC,TX,17,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Preetika Malluru,,TX,19,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Aadhya Koneru,,TX,21,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Shrivaishnavi Jami,,NCA,23,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Adwithaa Ganesh,DNS,TX,25,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Maya Lekkala,,TX,27,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Felicia Ho,WC,SCA,29,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U13,Sanskriti Atti,,TX,31,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Aarya Vijay [2]Annie Meng,,TXNCA,32,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Jayden Mar [WC]Maggie Zang,,NCANCA,11,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Seth Li [WC]Kimaya Krishna,,NJVA,18,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Rithik RasamsettiJoanne Li,,NCNC,2,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Anirud Veldanda [5/8]Tvisha Modi,,TXTX,5,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Carsten Lam [5/8]Felicia Ho,,NCASCA,13,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Terence Cai [3/4]Jennifer Bangcaya,,NCANCA,24,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,"Vincent Chen [5/8, SUB]Adonia Anny Chandran",,ILNJ,28,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Jason Yang [WC]Vivian Feng,,NCANJ,4,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Alex Wen [WC]Camellia Wang,,NCANCA,7,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Brendan E Chen [3/4]Nidhi Sujin,,ILNCA,9,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Allen Yang [SUB]Renee Liu,,NCATX,16,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Isaac Zhao [WC]Vivian Jiayue Song,,WAWA,21,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Cayden WangSophia Sun,,NCANCA,25,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Gavin Le [WC]Selena Wei,,SCASCA,29,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Yifan Liu [1]Aadya Pitani,,NCAVA,1,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Neel J ReddySanskriti Atti,,TXTX,3,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Srinivas Raghav SubashClarinda Jin,,ILIL,6,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Johnny ChenCeline Ao,,WAWA,8,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Anish Sai GunupudiDhvani Shankar,,NCGA,10,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Aarav BhandaryTatthva Sharma,,TXTX,12,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Ayaaz Muhammed BaigMaya Lekkala,,TXTX,14,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Morgan LiShrivaishnavi Jami,,NCANCA,15,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Shreyas ReddyRuoyao Liu,,NCATX,17,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Varin Karri [5/8]Aashi Gupta,,TXTX,20,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Arjun Aditya HariharanDiksha Chandrasekaran,,TXTX,22,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Ian DarmawanPreetika Malluru,,TXTX,23,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Mi Michael Liu [WC]Charvi Murali,,NCATX,26,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Ariston Yu Feng GohIvey X. Bao,,TXTX,27,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Bhavesh SAI VARMA Tammu [DNS]Adwithaa Ganesh,,TXTX,30,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U13,Jonathan WuEmily Min Tang,,NJVA,31,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Vincent Chen [1]Aarya Vijay,,ILTX,1,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Yifan Liu [2]Clay Yang,,NCANCA,32,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Rithik Rasamsetti [WC]Anirud Veldanda,,NCTX,15,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Terence Cai [3/4]Carsten Lam,,NCANCA,24,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Mi Michael LiuSamiksh Talapally,,NCATX,8,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Krish Raja [3/4]Allen Yang,,NCANCA,9,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Brendan E Chen [WC]Srinivas Raghav Subash,,ILIL,17,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Ariston Yu Feng Goh [WC]Hanyi Zhang,,TXTX,28,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Neel J ReddyJonathan Wu,,TXNJ,12,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Gavin LeShreyas Reddy,,SCANCA,20,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Aarav BhandaryAnish Bhandary,,TXTX,22,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Aryan MohanSaatvik Shetty,,NCANCA,25,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Johnny ChenIsaac Zhao,,WAWA,30,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Yichen LiJayden Mar,,NCANCA,3,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Ayaaz Muhammed Baig [SUB]Jonathan Yu,,TXTX,7,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Mark WuAustin Zheng,,TXTX,11,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Kiyansh ChaudharyVrishin Telikuntla,,TXTX,13,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Morgan LiAlex Wen,,NCANCA,16,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Seth LiCayden Wang,,NJNCA,18,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Aditya Ramakrishn HariharanYifei Zhang,,TXTX,19,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Thomas CuiZisheng Fan,,MAMA,21,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Anish Sai GunupudiNathan Lee,,NCTX,26,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U13,Ian DarmawanArjun Aditya Hariharan,,TXTX,29,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Annie Meng [1]Maggie Zang,,NCANCA,1,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Joanne Li [3/4]Tvisha Modi,,NCTX,12,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Jennifer Bangcaya [2]Kimaya Krishna,,NCAVA,16,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Vivian Jiayue Song [3/4]Camellia Wang,,WANCA,5,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Felicia Ho [WC]Nidhi Sujin,,SCANCA,8,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Megha Reddy ChallaDhvani Shankar,,NJGA,10,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Celine AoSelena Wei,,WASCA,13,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Diksha ChandrasekaranEmily Min Tang,,TXVA,2,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Ivey X. Bao [WC]Renee Liu,,TXTX,3,9,16,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Adonia Anny ChandranVivian Feng,,NJNJ,6,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Aadhya KoneruRuoyao Liu,,TXTX,7,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Adwithaa Ganesh [DNS]Tatthva Sharma,,TXTX,9,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Sanskriti AttiShrivaishnavi Jami,,TXNCA,11,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Aashi Gupta [WC]Charvi Murali,,TXTX,14,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U13,Maya LekkalaPreetika Malluru,,TXTX,15,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Shriyans Bhagavatula,3/4,NCA,48,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Rylan Tan,5/8,SCA,9,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Mitchell Purnomo,WC,WA,32,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Zicheng Xu,2,SCA,64,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Nihal Kadamba,1,NCA,1,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Justin Kan,3/4,NCA,17,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Yuliaoliao Fan,,SCA,38,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Zhenxiang Deng,,MA,53,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Tsun Him Lam,,NCA,6,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Layton Wen,WC,NCA,15,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Hanwen Yuan,,WA,21,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Ansen Liu,5/8,TX,25,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Aagnaey Gulla Pulijal,WC,NCA,35,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Darsh Jain,WC,NC,42,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Vaughn Zhao,WC,NCA,49,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Arush Shyam Chitgopkar,WC,NCA,60,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Prabhat Mandava,,IL,3,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Nithesh Haribabu,,NC,8,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Ethan YS Ao,,WA,12,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Saatvik B. Sunilraj,,VA,14,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Aiden S Lau,,SCA,19,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Benjamin Zhuge,,NCA,24,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Caden Wang,,NCA,28,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,George Shen,,NCA,30,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Yiyang Jia,,WA,34,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Akshaj Reddy Donthi,5/8,VA,40,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Rocky Yang,,NCA,43,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Eli Cui,,IL,45,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Zeyue Du,,VA,51,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Napat Srisalaipaisal,5/8,TX,56,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Dhruv Pediredla,,TX,57,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Suraj Rajesh Kumar,,NCA,61,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Shaan Vishwanathan,,TX,4,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Karl Hui,WC,TX,5,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Vigneswar Vadivelan,,GA,7,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Wufan Zhang,,TX,10,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Leheng Xu,,NCA,11,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Raymond Haiwen Song,,TX,13,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,James Xu,,NC,16,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Eshan Neog,,NC,18,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Afraz Muhammed Baig,,TX,20,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Ian Yip,WC,NJ,22,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Amogh B Ashok,,TX,23,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Aaron Jin,,IL,26,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Benson Liang,,MI,27,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Anish K Swamy,,GA,29,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Mukunth Anand,,TX,31,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Mithun Gopinath,,GA,33,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Vineet Mahadevan,,TX,36,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Micah Wei,,TX,37,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Vignesh Jami,,NCA,39,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Adhyaan Balaji,,TX,41,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Yile Xiong,,TX,44,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,William Zeng,,NJ,46,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Arjun Ramakrishn Hariharan,,TX,47,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Isaiah Melwyn Alleluia,,TX,50,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Vishwa Rajan,,GA,52,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Ryan Liu [],,NCA,54,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Tejo Ram Mukkamala,,NC,55,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Tirth Brahmbhatt,,IL,58,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Alex Anlai Song,,WA,59,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Hudson Abidin,,TX,62,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U15,Zhengyue Xiong,,NC,63,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Micah Cruz,2,NY,64,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Suneri Krishna Chinthalapati,1,NCA,1,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Sydney Li,3/4,NJ,17,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Angela Ye,3/4,NCA,48,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Charity Lam,,NCA,13,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Prutha Ramaprakas Bharadwaj,5/8,NCA,25,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Sophia Jia,,NCA,36,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Annie Meng,WC,NCA,50,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Lydia Chao,,MD,7,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Chloe A Kai,5/8,SCA,9,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Anvita Jamsandekar,WC,NCA,21,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Sahasra Kommineni,WC,MA,29,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Scarlett Yu,5/8,TX,40,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Coco Cenke Tao,WC,WA,44,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Grace Hu,,TX,54,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Yalan Zhu,,SCA,59,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Linda Zhao,WC,WA,15,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Anvitha B Ranganna,,NC,24,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Savannah H Kam,,TX,32,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Jennifer Xu,,MA,34,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Sophia Wu,,NJ,41,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Zimeng Zhou,,WA,51,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Namratha Nishal,,NC,58,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Yoning Liu,,NC,3,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Hasini Gajjala,,TX,5,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Aditi Gummadi,WC,IL,8,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Riya Suresh,,TX,11,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Caitlynn Ningxi Kurniawan,,TX,14,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Nishtha Dubey,,IL,16,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Anwesha Nayak [],,TX,19,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Abbie Chen,,WA,22,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Yeening Yap [],,TX,23,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Akshita Nikhil,,TX,27,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Aagarshna Selvaraju,,NC,30,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Nivedya S Nair,,IL,31,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Eshani Pahuja,,TX,33,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Diyaa Sarath,WC,GA,35,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Tiffany C Sun,,IL,38,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Manaskriti Sista,,TX,42,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Tanushri Thokala,,NC,43,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Veronica Ornatsky,,IL,46,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Aditi Srinivasan [],,NC,49,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Diya Suresh,,TX,52,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Sophia Lin,5/8,IL,56,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Eva Wang [],,NCA,57,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Radhika Birur,,TX,60,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U15,Diya J Reddy,,TX,62,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Rocky Yang [3/4]Nicole Krawczyk,,NCANCA,17,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Darsh Jain [WC]Sydney Li,,NCNJ,52,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Zhenxiang DengJennifer Xu,,MAMA,16,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Suraj Rajesh KumarTanushri Thokala,,NCANC,33,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Akshaj Reddy Donthi [1]Micah Cruz,,VANY,1,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Yiyang JiaChloe A Kai,,WASCA,32,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Shriyans Bhagavatula [3/4]Anvita Jamsandekar,,NCANCA,48,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Nihal Kadamba [2]Suneri Krishna Chinthalapati,,NCANCA,64,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Tsun Him LamNamratha Nishal,,NCANC,8,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Justin Kan [5/8]Charity Lam,,NCANCA,9,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Hanwen YuanAbbie Chen,,WAWA,23,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Ian Yip [5/8]Sahasra Kommineni,,NJMA,40,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Alex Anlai Song [WC]Linda Zhao,,WAWA,44,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Wufan Zhang [5/8]Scarlett Yu,,TXTX,56,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Aiden S Lau [WC]Sophia Wu,,SCANJ,57,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Benson LiangSophia Lin,,MIIL,29,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Prabhat Mandava [WC]Aditi Gummadi,,ILIL,36,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,William ZengLydia Chao,,NJMD,41,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Mitchell PurnomoSophia Jia,,WANCA,49,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Arjun Ramakrishn HariharanEshani Pahuja,,TXTX,3,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Hudson Abidin []Yeening Yap,,TXTX,5,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Ethan YS AoZimeng Zhou,,WAWA,11,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Leheng XuTiffany C Sun,,NCAIL,13,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Adhyaan Balaji [WC]Radhika Birur,,TXTX,15,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Micah WeiSavannah H Kam,,TXTX,19,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Tirth Brahmbhatt [WC]Veronica Ornatsky,,ILIL,21,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Zhengyue XiongYoning Liu,,NCNC,24,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Ansen Liu [5/8]Eva Wang,,TXNCA,25,33,64,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Afraz Muhammed BaigAagarshna Selvaraju,,TXNC,30,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Napat Srisalaipaisal [WC]Yalan Zhu,,TXSCA,31,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,George ShenDiya Suresh,,NCATX,34,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Tejo Ram MukkamalaRiya Suresh,,NCTX,35,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Yile XiongManaskriti Sista,,TXTX,38,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Raymond Haiwen SongGrace Hu,,TXTX,42,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,James Xu [SUB]Hasini Gajjala,,NCTX,46,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Eli CuiNishtha Dubey,,ILIL,50,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Eshan NeogDiyaa Sarath,,NCGA,54,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Nithesh HaribabuAnvitha B Ranganna,,NCNC,58,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Vineet MahadevanCaitlynn Ningxi Kurniawan,,TXTX,60,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U15,Vignesh JamiDiya J Reddy,,NCATX,62,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Nihal Kadamba [2]Justin Kan,,NCANCA,32,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Caden Wang [WC]Rocky Yang,,NCANCA,7,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Shriyans Bhagavatula [3/4]Arush Shyam Chitgopkar,,NCANCA,9,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Akshaj Reddy Donthi [WC]Darsh Jain,,VANC,19,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Rylan Tan [1]Zicheng Xu,,SCASCA,1,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Yiyang JiaHanwen Yuan,,WAWA,15,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,George Shen [3/4]Vaughn Zhao,,NCANCA,24,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Adhyaan Balaji [WC]Karl Hui,,TXTX,26,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Hudson AbidinZhengyue Xiong,,TXNC,3,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Napat SrisalaipaisalWufan Zhang,,TXTX,5,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Prabhat MandavaAagnaey Gulla Pulijal,,ILNCA,12,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Raymond Haiwen SongMicah Wei,,TXTX,13,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Eshan NeogSuraj Rajesh Kumar,,NCNCA,17,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Mitchell PurnomoLayton Wen,,WANCA,21,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Mithun GopinathVishwa Rajan,,GAGA,27,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Yuliaoliao FanAiden S Lau,,SCASCA,30,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Tirth BrahmbhattAaron Jin,,ILIL,4,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Tejo Ram MukkamalaDhruv Pediredla,,NCTX,6,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Zhenxiang DengAlex Anlai Song,,MAWA,8,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Eli CuiBenson Liang,,ILMI,10,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Isaiah Melwyn AlleluiaAfraz Muhammed Baig,,TXTX,11,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Vignesh Jami [SUB]Ian Yip,,NCANJ,14,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,William ZengBenjamin Zhuge,,NJNCA,16,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Ethan YS AoAnsen Liu,,WATX,18,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Mukunth AnandShaan Vishwanathan,,TXTX,20,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Nithesh HaribabuVigneswar Vadivelan,,NCGA,22,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Zeyue DuSaatvik B. Sunilraj,,VAVA,23,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Anish K SwamyJames Xu,,GANC,25,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Tsun Him LamLeheng Xu,,NCANCA,28,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U15,Amogh B AshokArjun Ramakrishn Hariharan,,TXTX,29,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Sydney Li [1]Angela Ye,,NJNCA,1,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Coco Cenke Tao [WC]Linda Zhao,,WAWA,17,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Chloe A KaiYalan Zhu,,SCASCA,12,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Aditi Gummadi [WC]Diyaa Sarath,,ILGA,28,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Anvita Jamsandekar [WC]Charity Lam,,NCANCA,5,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Tiffany C SunScarlett Yu,,ILTX,13,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Prutha Ramaprakas BharadwajSophia Jia,,NCANCA,21,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Abbie ChenZimeng Zhou,,WAWA,8,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Grace HuYoning Liu,,TXNC,26,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Anvitha B RangannaTanushri Thokala,,NCNC,3,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Diya SureshRiya Suresh,,TXTX,7,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Suneri Krishna Chinthalapati [3/4]Sophia Lin,,NCAIL,9,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Lydia Chao [SUB]Akshita Nikhil,,MDTX,11,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Radhika Birur [WC]Hasini Gajjala,,TXTX,16,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Namratha NishalAagarshna Selvaraju,,NCNC,18,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Nivedya S NairVeronica Ornatsky,,ILIL,20,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Savannah H Kam []Yeening Yap,,TXTX,22,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Sophia Wu [3/4]Jennifer Xu,,NJMA,24,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Nishtha DubeyManaskriti Sista,,ILTX,25,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U15,Eshani Pahuja [DNS]Diya J Reddy,,TXTX,30,17,32,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Adam Tay,2,NCA,64,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Linden Wang,1,NCA,1,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Kai Chong,3/4,MA,17,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Jaden Jin,3/4,NCA,48,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Atharva Gulla Pulijal,WC,NCA,15,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Melvin O Thu,9/16,NY,29,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Jay Chun,9/16,WA,36,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,David Purnomo,WC,WA,54,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,David Zuo,9/16,WA,5,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Ethan Paw,,NCA,10,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Thanik Bharani,9/16,NCA,21,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Shaunak Misra,WC,TX,28,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Benjamin Dictado,WC,NCA,38,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Ben Tirtohadi,9/16,SCA,44,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Dhruva Singh,9/16,NCA,52,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Arav Mestry,WC,NCA,57,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Kavin Raguraman,WC,MA,4,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Chris Wu,WC,NJ,8,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Adwin Sujin,WC,NCA,12,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Naveen Indraj,9/16,TX,13,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Tian Qi Alan Zhang,,SCA,19,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Shloak Kulkarni,WC,WA,24,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Thomas Wang,,WA,26,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Ahwan Mishra,WC,GA,31,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Shawn Xia,,NJ,34,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Sitan Zhan,5/8,MA,40,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Tsun Wang Lam,,NCA,41,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Siva Rajesh,WC,NC,45,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Huaiyuan Ni,WC,TX,49,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Ronith A Manikonda,5/8,IL,56,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Nishchith G Manjunatha,9/16,NY,60,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Alan Premkumar,WC,VA,61,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Prateek Hanumappanahalli,,GA,2,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Aditya Kotaru,,TX,3,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Kameran Hossain,,NCA,6,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Eric Jon,,TX,7,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Michael Jiang,5/8,SCA,9,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Manuel Melwyn Alleluia,,TX,11,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Pradyun Rasamsetti,,NC,14,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Saujas Patil,,IL,16,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Stanley Xing,,NCA,18,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Alex He,WC,TX,20,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Aaron Guanbang Wang,,VA,22,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Chiranjeev Chinnasamy,,TX,23,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Jack Yin,5/8,NCA,25,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Geoffray Lee,,MO,27,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Kody Seow [],,NCA,30,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Tianshu Fu,,TX,32,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Patrick Xiao,WC,NCA,33,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Arnav Tiwari,,TX,35,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Rohan Kumar Jha,,TX,37,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Martin Wu,,NCA,39,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Aditya K George,WC,TX,42,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Hitansh Shah,,GA,43,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Abhinav Malluru [],,TX,46,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Louis N Thai,,WA,47,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Vyom Mehrotra [],,NJ,50,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Kunal Toomu,,NC,51,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Ameya Kulkarni,,NCA,53,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Suraj Koneru,,TX,55,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Abel Daniel Koshy,,TX,58,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Justin Han,,NCA,59,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Srikrishna Sriganesh,,TX,62,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U17,Darren Teu [],,TX,63,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Mikayla Cruz,1,NY,1,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Harshita Kandambakkam,WC,NCA,33,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Akshaya Ambily Ajan,2,NCA,64,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Mia K Hundley,3/4,NCA,17,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Stella Pan,,NC,11,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Chloe Ho,5/8,NCA,25,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Bettie Huang,3/4,NCA,48,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Rithika Oumapathy,,NCA,54,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Nicole Krawczyk,WC,NCA,7,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Annabelle Zhang,WC,MA,13,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Rubie Liu,,NCA,21,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Ardra Mohan,,NCA,31,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Kavya Krishna,5/8,VA,40,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Rishita Tubati,,NC,41,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Daphne Huang,WC,NCA,52,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Wenlu She,,NCA,60,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Annabelle Zhou,,NCA,16,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Vimala Nair,WC,TX,24,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Charlotte A Tse,,NCA,35,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Shrivetha Senthil,,TX,50,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Kanyanat Vajworarat,WC,IL,58,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Chloe Lim,,NCA,3,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Yelang Lee,,IL,5,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Aashreeti Deo,,TX,8,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Emma Wei,5/8,NCA,9,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Sneha Krishna Chavan,,TX,15,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Sahana Srinivasan,,MD,19,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Nadya Tirtohadi,,SCA,23,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Wei Yee Pua,,TX,27,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Hannah George,WC,IL,29,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Arushi Raghavendra,,VA,32,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Meggie Chang,,MD,34,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Mary Zhao,,WA,36,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Riya Natarajan,,NCA,38,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Xiaoyue Liu [],,NCA,42,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Carissa M Chen,WC,IL,44,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Veda Gayatri Mullangi,,TX,46,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Anusri Poreddy,,NC,49,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Emily Liu,5/8,SCA,56,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Krisha Tyagi,,GA,57,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U17,Serena Yang,,TX,62,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Kai Chong [2]Annabelle Zhang,,MAMA,64,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Adam Tay [1]Wenlu She,,NCANCA,1,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Thomas Wang [WC]Kanyanat Vajworarat,,WAIL,36,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Linden Wang [5/8]Emily Liu,,NCASCA,25,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Ben Tirtohadi [5/8]Emma Wei,,SCANCA,9,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,"Tian Qi Alan Zhang [3/4, SUB]Mikayla Cruz",,SCANY,17,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Arav Mestry [WC]Harshita Kandambakkam,,NCANCA,44,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Benjamin Dictado [5/8]Bettie Huang,,NCANCA,56,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Siva RajeshRishita Tubati,,NCNC,7,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Geoffray LeeSerena Yang,,MOTX,15,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Huaiyuan Ni [WC]Meggie Chang,,TXMD,23,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Atharva Gulla Pulijal [WC]Rithika Oumapathy,,NCANCA,29,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Ronith A Manikonda [5/8]Hannah George,,ILIL,40,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,"David Zuo [3/4, SUB]Mia K Hundley",,WANCA,48,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Jay Chun [WC]Coco Cenke Tao,,WAWA,52,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Sitan Zhan [WC]Annabelle Zhou,,MANCA,60,9,16,Round 3
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Abel Daniel KoshySneha Krishna Chavan,,TXTX,31,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Stanley XingRubie Liu,,NCANCA,34,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,David PurnomoAkshaya Ambily Ajan,,WANCA,41,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Vaughn ZhaoMary Zhao,,NCAWA,49,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Aaron Guanbang WangArushi Raghavendra,,VAVA,3,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Manuel Melwyn Alleluia [WC]Vimala Nair,,TXTX,5,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Justin HanPrutha Ramaprakas Bharadwaj,,NCANCA,11,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Patrick Xiao [WC]Nadya Tirtohadi,,NCASCA,13,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Hitansh ShahAashreeti Deo,,GATX,16,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Rohan Kumar JhaAnusri Poreddy,,TXNC,21,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Tsun Wang LamChloe Lim,,NCANCA,27,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Zeyue DuSahana Srinivasan,,VAMD,32,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Srikrishna SriganeshShrivetha Senthil,,TXTX,33,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Ethan PawCharlotte A Tse,,NCANCA,38,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Shaunak MisraVeda Gayatri Mullangi,,TXTX,42,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Alan PremkumarKavya Krishna,,VAVA,46,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Aditya Kotaru [SUB]Yelang Lee,,TXIL,50,33,64,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Saujas PatilStella Pan,,ILNC,54,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Eric JonWei Yee Pua,,TXTX,58,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U17,Kameran HossainRiya Natarajan,,NCANCA,62,33,64,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Kai Chong [2]Linden Wang,,MANCA,32,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Jaden Jin [1]Adam Tay,,NCANCA,1,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Chris WuShawn Xia,,NJNJ,10,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Alex HeHuaiyuan Ni,,TXTX,22,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Aditya K GeorgeShaunak Misra,,TXTX,7,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Ethan PawBen Tirtohadi,,NCASCA,15,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Shloak KulkarniAtharva Gulla Pulijal,,WANCA,19,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Jay Chun [WC]David Zuo,,WAWA,27,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,David PurnomoThomas Wang,,WAWA,3,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Pradyun RasamsettiSrikrishna Sriganesh,,NCTX,5,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Ameya KulkarniAdwin Sujin,,NCANCA,11,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Geoffray LeeAlan Premkumar,,MOVA,14,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Patrick Xiao [WC]Stanley Xing,,NCANCA,17,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Dhruva Singh [3/4]Sitan Zhan,,NCAMA,24,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Saujas PatilSiva Rajesh,,ILNC,26,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Suraj KoneruArnav Tiwari,,TXTX,29,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Vyom Mehrotra []Darren Teu,,NJTX,4,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Michael Jiang []Kody Seow,,SCANCA,6,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Chiranjeev ChinnasamyLouis N Thai,,TXWA,8,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Ronith A Manikonda [3/4]Kavin Raguraman,,ILMA,9,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Manuel Melwyn AlleluiaNaveen Indraj,,TXTX,12,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Rohan Kumar JhaAbel Daniel Koshy,,TXTX,13,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Benjamin Dictado [WC]Melvin O Thu,,NCANY,16,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Eric JonHitansh Shah,,TXGA,18,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Aditya KotaruKunal Toomu,,TXNC,20,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Nishchith G ManjunathaArav Mestry,,NYNCA,21,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Justin HanMartin Wu,,NCANCA,23,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Kameran HossainTsun Wang Lam,,NCANCA,25,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Tianshu Fu []Abhinav Malluru,,TXTX,28,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U17,Prateek HanumappanahalliAhwan Mishra,,GAGA,30,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Bettie Huang [3/4]Emily Liu,,NCASCA,9,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Mikayla Cruz [2]Annabelle Zhang,,NYMA,32,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Harshita Kandambakkam [WC]Rithika Oumapathy,,NCANCA,20,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Mia K Hundley [1]Emma Wei,,NCANCA,1,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Daphne Huang [WC]Stella Pan,,NCANC,5,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Akshaya Ambily Ajan [WC]Charlotte A Tse,,NCANCA,13,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Kavya Krishna [3/4]Kanyanat Vajworarat,,VAIL,24,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Wenlu SheAnnabelle Zhou,,NCANCA,26,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Nadya TirtohadiMary Zhao,,SCAWA,16,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Rishita TubatiKrisha Tyagi,,NCGA,17,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Arushi RaghavendraSahana Srinivasan,,VAMD,3,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Riya NatarajanShrivetha Senthil,,NCATX,7,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Rubie LiuArdra Mohan,,NCANCA,11,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Aashreeti DeoWei Yee Pua,,TXTX,15,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Sneha Krishna ChavanYelang Lee,,TXIL,18,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Veda Gayatri MullangiAnusri Poreddy,,TXNC,22,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Meggie ChangCarissa M Chen,,MDIL,25,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U17,Caitlynn Ningxi Kurniawan [WC]Serena Yang,,TXTX,28,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Andre Chim,WC,NCA,5,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Mihir Raja,2,NCA,32,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Andrew Yuan,3/4,NJ,24,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Adrian Mar,3/4,NCA,9,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Henry Tang,1,SCA,1,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Neil Ganguly,WC,IL,15,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Arthur Heng Lee,WC,NCA,20,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Nikhil Vasudeva,WC,NC,26,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Sohum Gulla Pulijal,,NCA,4,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Michael Xu,,MA,8,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Matthew Jing,,MO,12,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Lukas Rujia Chang,,NJ,13,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Ethan Bai,,WA,18,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Garret Tan,,SCA,21,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Andrew Tan,,SCA,28,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Arjun K George,,TX,29,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Israel Vazquez,,TX,3,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Ryan Zhang [],,GA,6,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Johnathan H Chi,,WA,7,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Tanmay Gupta,,TX,11,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Ved Vedere,,NCA,14,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Namith Nishal Raphael,,NC,16,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Dhruv Sharma,,FL,17,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Christopher Chun,,TX,19,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Eric Cheng,,MA,22,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Neel Auro Chandra,,MO,25,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Leyton Siew,,MA,27,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BS U19,Henry Xue,,WA,30,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Amanda Ng,2,IL,16,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Dhriti Kommineni,WC,MA,5,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Hailey Hung,,NCA,3,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Sumaswara Chinthalapati,,NCA,11,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Maggie Chen,,IL,8,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Shobha Raguraman,WC,MA,9,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Angie Huang,,NCA,14,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Ashley Yang,1,SCA,1,9,16,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Sanskruti Kulkarni,,WA,4,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Yuet Ki Cheung,,WA,7,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Carolyn Zeng,,NJ,10,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Zihan Xu,,SCA,12,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GS U19,Ashley Zhang,,WA,13,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Mihir Raja [3/4]Chloe Ho,,NCANCA,9,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Andre Chim [2]Ashley Yang,,NCASCA,32,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Arthur Heng Lee [WC]Hailey Hung,,NCANCA,18,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Lukas Rujia ChangMaggie Chen,,NJIL,7,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Eric Cheng [WC]Shobha Raguraman,,MAMA,13,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Andrew Tan [3/4]Zihan Xu,,SCASCA,24,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Nikhil Vasudeva [WC]Amanda Ng,,NCIL,26,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Ved VedereDhriti Kommineni,,NCAMA,16,9,16,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Johnathan H ChiAshley Zhang,,WAWA,3,17,32,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Michael Xu [WC]Carolyn Zeng,,MANJ,5,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Neil GangulyAngie Huang,,ILNCA,11,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Samuel Jiaoyang LiJennifer Cui,,NJMA,15,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Leyton SiewLillian Wei,,MATX,17,17,32,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Matthew JingCarissa M Chen,,MOIL,20,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Henry XueSanskruti Kulkarni,,WAWA,22,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Ethan BaiYuet Ki Cheung,,WAWA,28,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,XD U19,Tanmay GuptaKrisha Tyagi,,TXGA,30,17,32,Round 2
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Adrian Mar [1]Henry Tang,,NCASCA,1,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Andre Chim [2]Andrew Yuan,,NCANJ,16,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Samuel Jiaoyang Li [3/4]Nikhil Vasudeva,,NJNC,5,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Neil Ganguly [3/4]Michael Xu,,ILMA,12,4,4,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Arthur Heng Lee [WC]Andrew Tan,,NCASCA,8,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Garret TanTian Qi Alan Zhang,,SCASCA,10,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Neel Auro ChandraMatthew Jing,,MOMO,14,5,8,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Eric Hao TangAaron Guanbang Wang,,VAVA,2,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Lukas Rujia Chang [WC]Eric Cheng,,NJMA,4,9,16,Quarter Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Sohum Gulla PulijalLeyton Siew,,NCAMA,6,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Thanik BharaniVed Vedere,,NCANCA,7,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Ethan Bai [WC]Henry Xue,,WAWA,9,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Arjun K GeorgeTanmay Gupta,,TXTX,11,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Johnathan H Chi [SUB]Namith Nishal Raphael,,WANC,13,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,BD U19,Dhruv SharmaIsrael Vazquez,,FLTX,15,9,16,Round 1
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U19,Jennifer CuiAngie Huang,,MANCA,1,1,1,Winner
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U19,Chloe HoZihan Xu,,NCASCA,4,2,2,Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U19,Dhriti Kommineni [2]Shobha Raguraman,,MAMA,2,3,3,Semi Finals
+2022 South Frisco ORC,2022-01-15/2022-01-17,GD U19,Maggie ChenCarolyn Zeng,,ILNJ,3,4,4,Semi Finals
