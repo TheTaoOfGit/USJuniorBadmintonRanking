@@ -58,7 +58,7 @@ def load_all_results():
     return all_results
 
 def clean_name(raw):
-    return re.sub(r'\s*\[[\w/]+\]', '', raw).strip()
+    return re.sub(r'\s*\[[\w/]*\]', '', raw).replace('*', '').strip()
 
 def get_season(date_str):
     year, month = int(date_str[:4]), int(date_str[5:7])
@@ -156,12 +156,20 @@ print(f"  {len(unique_players)} unique players")
 # ── Collect results per player ───────────────────────────────────────────────
 print("Collecting per-player results...")
 player_results = defaultdict(list)
+# Sort unique_players longest-first so we can match greedily
+sorted_players = sorted(unique_players, key=len, reverse=True)
 for r in all_results:
     raw = r['player']
     raw_clean = clean_name(raw)
-    for name in unique_players:
-        if name in raw_clean:
-            player_results[name].append(r)
+    # Find which players appear in this entry by removing matched names
+    remaining = raw_clean
+    matched = []
+    for name in sorted_players:
+        if name in remaining:
+            matched.append(name)
+            remaining = remaining.replace(name, '', 1)
+    for name in matched:
+        player_results[name].append(r)
 
 
 # ── Generate summary ─────────────────────────────────────────────────────────
