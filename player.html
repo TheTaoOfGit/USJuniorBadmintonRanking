@@ -88,7 +88,8 @@ tr.winner:hover { background: #fdf0c8; }
     html += '<div class="summary">' + p.summary + '</div>';
     html += '<div class="disclaimer">\u26a0 This summary is AI-generated based on tournament draw data. Results may contain errors due to name parsing in doubles events, age group splits across venues, or data entry variations. Always verify with official USA Badminton records.</div>';
 
-    const seasonKeys = Object.keys(p.seasons).sort();
+    // Seasons are already in reverse order from the JSON
+    const seasonKeys = Object.keys(p.seasons).sort().reverse();
     for (const season of seasonKeys) {
       html += '<div class="season-header">Season ' + esc(season) + '</div>';
       html += '<table><tr><th>Tournament</th><th>Date</th><th>Event</th><th>Partner</th><th>Seed</th><th>Rank</th><th>Round</th></tr>';
