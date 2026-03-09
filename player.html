@@ -22,6 +22,25 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .summary p { margin-bottom: 12px; }
 .summary p:last-child { margin-bottom: 0; }
 .disclaimer { background: #fef9e7; border: 1px solid #f0e0a0; border-radius: 6px; padding: 10px 16px; margin: 12px 0; font-size: 12px; color: #856404; }
+.roast-disclaimer { background: #2d2d2d; border: 1px solid #ff4444; border-radius: 8px; padding: 16px 20px; margin: 16px 0; font-size: 13px; color: #ffcccc; line-height: 1.6; }
+.roast-disclaimer strong { color: #ff6666; }
+.roast-mode .header { background: linear-gradient(135deg, #1a1a2e, #16213e); }
+.roast-mode .summary { background: #1a1a2e; color: #e0e0e0; border: 1px solid #333; }
+.roast-mode .summary strong { color: #ff8888; }
+.roast-mode body { background: #0f0f1a; }
+.roast-mode .stat-box { background: #1a1a2e; color: #ccc; border: 1px solid #333; }
+.roast-mode .stat-box .num { color: #ff6666; }
+.roast-mode .stat-box.gold .num { color: #ff6666; }
+.roast-mode .stat-box .label { color: #888; }
+.roast-mode table { background: #1a1a2e; border: 1px solid #333; }
+.roast-mode th { background: #16213e; }
+.roast-mode td { border-bottom-color: #2a2a3e; color: #ccc; }
+.roast-mode tr:hover { background: #22223a; }
+.roast-mode tr.winner { background: #2a2020; }
+.roast-mode tr.winner:hover { background: #332828; }
+.roast-mode .season-header { color: #ff8888; border-bottom-color: #ff6666; }
+.roast-mode a { color: #6688cc; }
+.roast-badge { display: inline-block; background: #ff4444; color: white; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 4px; margin-left: 8px; vertical-align: middle; letter-spacing: 0.5px; }
 .season-header { font-size: 18px; font-weight: 700; color: #1a3a5c; margin: 24px 0 8px; padding-bottom: 4px; border-bottom: 2px solid #2d6aa0; }
 table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 16px; }
 th { background: #1a3a5c; color: white; padding: 10px 12px; text-align: left; font-size: 13px; font-weight: 600; }
@@ -54,7 +73,9 @@ tr.winner:hover { background: #fdf0c8; }
 (function() {
   const params = new URLSearchParams(window.location.search);
   const slug = params.get('id');
+  const isRoast = params.has('roast');
   if (!slug) { document.getElementById('loading').textContent = 'No player specified.'; return; }
+  if (isRoast) document.body.classList.add('roast-mode');
 
   const letter = slug[0].match(/[a-z]/) ? slug[0] : '_';
   const jsonUrl = 'data/players/players_' + letter + '.json';
@@ -72,8 +93,8 @@ tr.winner:hover { background: #fdf0c8; }
   }
 
   function render(p) {
-    document.title = p.name + ' \u2014 USA Badminton Junior Results';
-    document.getElementById('playerName').textContent = p.name;
+    document.title = (isRoast ? '\ud83d\udd25 ' : '') + p.name + ' \u2014 USA Badminton Junior Results';
+    document.getElementById('playerName').innerHTML = esc(p.name) + (isRoast ? '<span class="roast-badge">\ud83d\udd25 ROAST MODE</span>' : '');
     document.getElementById('playerSubtitle').textContent = p.stats.entries + ' results across ' + p.stats.tournaments + ' tournaments';
 
     const s = p.stats;
@@ -85,8 +106,13 @@ tr.winner:hover { background: #fdf0c8; }
       '<div class="stat-box"><div class="num">' + s.seasons + '</div><div class="label">Seasons</div></div>' +
       '</div>';
 
-    html += '<div class="summary">' + p.summary + '</div>';
-    html += '<div class="disclaimer">\u26a0 This summary is AI-generated based on tournament draw data. Results may contain errors due to name parsing in doubles events, age group splits across venues, or data entry variations. Always verify with official USA Badminton records.</div>';
+    if (isRoast) {
+      html += '<div class="roast-disclaimer"><strong>\ud83d\udd25 ROAST MODE</strong> \u2014 This is a comedic roast generated for entertainment purposes only. It is intentionally mean, sarcastic, and exaggerated. None of it should be taken seriously. Every player on this circuit works incredibly hard, and we respect them all. If you want the real summary, <a href="player.html?id=' + slug + '" style="color:#6688ff">click here</a>.</div>';
+      html += '<div class="summary">' + (p.roast || p.summary) + '</div>';
+    } else {
+      html += '<div class="summary">' + p.summary + '</div>';
+      html += '<div class="disclaimer">\u26a0 This summary is AI-generated based on tournament draw data. Results may contain errors due to name parsing in doubles events, age group splits across venues, or data entry variations. Always verify with official USA Badminton records.</div>';
+    }
 
     // Seasons are already in reverse order from the JSON
     const seasonKeys = Object.keys(p.seasons).sort().reverse();
