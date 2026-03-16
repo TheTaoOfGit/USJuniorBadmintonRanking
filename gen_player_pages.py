@@ -1040,8 +1040,68 @@ def generate_roast(name, results):
     worst_doubles = sorted([r for r in d_results + x_results if int(r['rank_lo']) >= 17],
                            key=lambda r: -int(r['rank_lo']))
 
+    # ── NEW: Fallen champion detection ──
+    # Find events where player won gold before but hasn't won recently (last 12 months)
+    from datetime import datetime, timedelta
+    cutoff_date = '2025-03-16'  # 1 year ago from today
+    fallen_events = []  # (event_name, last_win_tournament, recent_best_rank)
+    event_results = defaultdict(list)
+    for r in results_sorted:
+        event_results[r['event']].append(r)
+    for ev, ev_results in event_results.items():
+        old_wins = [r for r in ev_results if int(r['rank_lo']) == 1 and r['dates'].split('/')[0] < cutoff_date]
+        recent = [r for r in ev_results if r['dates'].split('/')[0] >= cutoff_date]
+        recent_wins = [r for r in recent if int(r['rank_lo']) == 1]
+        if old_wins and recent and not recent_wins:
+            recent_best = min(int(r['rank_lo']) for r in recent)
+            fallen_events.append((ev, old_wins[-1]['tournament'], recent_best, len(old_wins)))
+
+    # ── NEW: Discipline-specific finals curse ──
+    # e.g., "always loses GS finals"
+    disc_finals_map = defaultdict(lambda: {'finals': 0, 'wins': 0, 'events': []})
+    for r in results:
+        disc = r['event'].split()[0] if r['event'].split() else ''
+        if disc in ('BS','GS','BD','GD','XD'):
+            if int(r['rank_lo']) == 2:
+                disc_finals_map[disc]['finals'] += 1
+                disc_finals_map[disc]['events'].append(r)
+            elif int(r['rank_lo']) == 1:
+                disc_finals_map[disc]['wins'] += 1
+    cursed_disciplines = [(d, info) for d, info in disc_finals_map.items()
+                          if info['finals'] >= 2 and info['finals'] > info['wins']]
+    DISC_FULL = {'BS': "Boys' Singles", 'GS': "Girls' Singles", 'BD': "Boys' Doubles",
+                 'GD': "Girls' Doubles", 'XD': 'Mixed Doubles'}
+
+    # ── NEW: One-trick pony detection ──
+    win_events = set(r['event'] for r in wins)
+    win_disciplines = set(r['event'].split()[0] for r in wins if r['event'].split())
+    is_one_trick = len(win_disciplines) == 1 and len(wins) >= 3 and len(set(r['event'].split()[0] for r in results if r['event'].split())) >= 2
+
+    # ── NEW: Seed decline detection ──
+    seeded_by_event = defaultdict(list)
+    for r in results_sorted:
+        if r['seed'] and r['seed'].isdigit():
+            seeded_by_event[r['event']].append((r['dates'], int(r['seed']), r['tournament']))
+    seed_declines = []  # (event, old_seed, new_seed, old_tourn, new_tourn)
+    for ev, seed_history in seeded_by_event.items():
+        if len(seed_history) >= 2:
+            first_s = seed_history[0]
+            last_s = seed_history[-1]
+            if last_s[1] > first_s[1] and first_s[1] <= 2:
+                seed_declines.append((ev, first_s[1], last_s[1], first_s[2], last_s[2]))
+
     # ── PARAGRAPH 1: THE GRAND OPENING ──
-    intro = f"Ladies and gentlemen, put your hands together for {name}, {state_from}"
+    openers = [
+        f"Ladies and gentlemen, put your hands together for {name}, {state_from}",
+        f"Allow us to introduce {name}, {state_from}",
+        f"Step right up and meet {name}, {state_from}",
+        f"The court is set, the shuttle is ready, and here comes {name}, {state_from}",
+        f"Breaking news from the junior badminton world: {name}, {state_from}, continues to exist",
+        f"We regret to inform you that we have reviewed the complete tournament record of {name}, {state_from}",
+        f"Clear your schedule, because we need to talk about {name}, {state_from}",
+        f"Someone get the popcorn, because the {name} file just landed on our desk. {first} hails {state_from}",
+    ]
+    intro = rng.choice(openers)
     if current_ag:
         intro += f", currently competing{ag_note}"
     intro += ". "
@@ -1200,10 +1260,107 @@ def generate_roast(name, results):
                         f"everything about how low the bar was before.")
     paras.append(arc)
 
+    # ── FALLEN CHAMPION ──
+    if fallen_events:
+        fc_parts = []
+        for ev, last_win_t, recent_best, num_old_wins in fallen_events[:3]:
+            templates = [
+                f"Remember when {first} used to win {ev}? Because {first} sure does — probably replays it "
+                f"in slow motion every night before bed. {first} took gold at {last_win_t}, and since then? "
+                f"Best finish: {ordinal(recent_best)}. The crown did not just slip — it packed its bags and left.",
+
+                f"In {ev}, {first} was once THE player to beat — {num_old_wins} "
+                f"title{'s' if num_old_wins!=1 else ''} including at {last_win_t}. "
+                f"{'These days' if recent_best <= 4 else 'Fast forward to now'}, {first} is finishing "
+                f"{ordinal(recent_best)}, which is the competitive equivalent of an ex showing up to "
+                f"your wedding with a better-looking date.",
+
+                f"{ev} used to be {first}'s personal ATM — just show up and collect the gold. "
+                f"That was the {last_win_t} era. Now {first} is grinding for a top-{recent_best} finish "
+                f"in the same event. The shuttle giveth, and the shuttle taketh away.",
+            ]
+            fc_parts.append(rng.choice(templates))
+        if len(fallen_events) > 3:
+            fc_parts.append(f"And that is just {len(fallen_events[:3])} of the {len(fallen_events)} events "
+                           f"where {first}'s reign has ended. The throne room is getting emptier by the tournament.")
+        paras.append(" ".join(fc_parts))
+
+    # ── CURSED DISCIPLINE ──
+    if cursed_disciplines:
+        cd_parts = []
+        for disc, info in cursed_disciplines:
+            disc_name = DISC_FULL.get(disc, disc)
+            f_count = info['finals']
+            w_count = info['wins']
+            templates = [
+                f"Can we talk about {first} and {disc_name} finals? Because this is starting to feel less like "
+                f"bad luck and more like a psychological condition. {f_count} finals, {f_count - w_count} losses. "
+                f"{first} can fight through every round, dismantle the bracket, arrive at the championship match "
+                f"in {disc_name}... and then something happens. The racket gets heavy. The legs turn to concrete. "
+                f"The shuttle starts moving in slow motion but somehow {first} still cannot reach it.",
+
+                f"In {disc_name}, {first} has a unique gift: the ability to win every match that does NOT matter "
+                f"and lose the one that does. {f_count} championship appearances, {f_count - w_count} "
+                f"second-place finishes. Scientists should study this — it is statistically remarkable how "
+                f"consistently {first} chokes in {disc_name} finals specifically.",
+
+                f"{disc_name} finals and {first} — name a more iconic tragedy. {f_count} trips to the "
+                f"championship match, and {first} has turned {f_count - w_count} of them into silver medals. "
+                f"At this point the engraver probably just pre-stamps '2nd' on {first}'s trophies to save time.",
+            ]
+            cd_parts.append(rng.choice(templates))
+        paras.append(" ".join(cd_parts))
+
+    # ── ONE-TRICK PONY ──
+    if is_one_trick:
+        only_disc = list(win_disciplines)[0]
+        only_disc_name = DISC_FULL.get(only_disc, only_disc)
+        other_discs = [d for d in set(r['event'].split()[0] for r in results if r['event'].split()) if d != only_disc]
+        other_entries = sum(1 for r in results if r['event'].split() and r['event'].split()[0] != only_disc)
+        templates = [
+            f"Every single one of {first}'s {len(wins)} titles has come in {only_disc_name}. "
+            f"In {', '.join(DISC_FULL.get(d,d) for d in other_discs)}? Zero. Zilch. A combined 0-for-{other_entries}. "
+            f"That is not specialization — that is a player with exactly one move, like a chess player who only "
+            f"knows the Queen's Gambit and panics when the opponent plays literally anything else.",
+
+            f"Take away {only_disc_name} and {first} has never won anything. Not once. {other_entries} entries "
+            f"across other disciplines, zero titles. {first} is essentially a one-club golfer who showed up to "
+            f"a tournament with 18 holes and one iron.",
+
+            f"{first}'s entire trophy case is {only_disc_name}, {only_disc_name}, and more {only_disc_name}. "
+            f"The other {other_entries} entries in different disciplines have produced exactly zero hardware. "
+            f"Imagine being a restaurant that only serves one dish — except sometimes the dish is also mediocre.",
+        ]
+        paras.append(rng.choice(templates))
+
+    # ── SEED DECLINE ──
+    if seed_declines:
+        sd = seed_declines[0]  # most notable
+        templates = [
+            f"Here is a fun detail: in {sd[0]}, {first} used to be seeded #{sd[1]} (at {sd[3]}). "
+            f"The most recent seeding? #{sd[2]} (at {sd[4]}). Tournament committees are literally telling "
+            f"{first} 'you are getting worse at this' — in writing, on the official draw sheet, for everyone "
+            f"to see. That has to sting.",
+
+            f"The seeding trajectory in {sd[0]} tells a story: #{sd[1]} at {sd[3]}, "
+            f"down to #{sd[2]} at {sd[4]}. When the people whose job is to rank you start ranking you lower, "
+            f"that is not a slump — that is a trend line with a very clear direction, and it is not pointing up.",
+        ]
+        paras.append(rng.choice(templates))
+
     # ── PARAGRAPH 3: THE FINALS PROBLEM ──
     if len(finals) >= 3 or (len(finals) >= 2 and not wins):
-        p3 = (f"But nothing — absolutely nothing — defines the {first} experience quite like the finals record. "
-              f"Let us walk you through this, because the numbers alone do not do it justice. ")
+        finals_openers = [
+            f"But nothing — absolutely nothing — defines the {first} experience quite like the finals record. "
+            f"Let us walk you through this, because the numbers alone do not do it justice. ",
+            f"Now we arrive at the part of the program that {first}'s therapist probably knows by heart: "
+            f"the finals record. Brace yourself. ",
+            f"If {first}'s career were a movie, the finals record would be the part where the audience "
+            f"starts stress-eating popcorn. Here goes. ",
+            f"We need to address the elephant in the room — no, not the travel costs, the OTHER elephant: "
+            f"what happens when {first} reaches a final. ",
+        ]
+        p3 = rng.choice(finals_openers)
         if len(finals) >= 3:
             p3 += (f"{first} has reached {len(finals)} championship matches across this career. "
                    f"That is {len(finals)} times standing one single match away from a title — the bracket won, "
@@ -1484,8 +1641,37 @@ def generate_roast(name, results):
         paras.append(p7)
 
     # ── PARAGRAPH 8: THE CLOSER ──
+    # Build a personalized zinger based on the most notable pattern
+    personal_zing = ""
+    if fallen_events:
+        personal_zing = rng.choice([
+            f"former champion currently in witness protection from their own legacy",
+            f"living proof that past performance does not guarantee future results",
+            f"proof that glory has an expiration date and {first}'s is past due",
+        ])
+    elif cursed_disciplines:
+        cd = cursed_disciplines[0][0]
+        personal_zing = rng.choice([
+            f"has turned {DISC_FULL.get(cd, cd)} finals into a personal art form of almost-winning",
+            f"the undisputed champion of second place in {DISC_FULL.get(cd, cd)}",
+        ])
+    elif len(finals) >= 3:
+        personal_zing = rng.choice([
+            f"chokes in finals like it is a paid hobby",
+            f"has a finals record that should come with a trigger warning",
+            f"treats championship matches like optional practice sessions",
+        ])
+    elif s_results and not s_wins and (d_wins or x_wins):
+        personal_zing = "cannot win alone but somehow finds partners willing to carry the weight"
+    elif len(seeded_losses) >= 3:
+        personal_zing = "treats seedings like suggestions rather than expectations"
+    elif is_one_trick:
+        personal_zing = f"has exactly one discipline that works and refuses to acknowledge the others"
+    elif num_partners >= 8:
+        personal_zing = "changes doubles partners more often than most people change phone cases"
+
     if len(seasons_map) >= 4 and not wins:
-        closer = (
+        no_win_closers = [
             f"So here we are: {len(seasons_map)} seasons, {total_entries} entries, and not a single title to show "
             f"for any of it. Most people would have taken a long, hard look in the mirror by now. Most people "
             f"would have considered tennis, or chess, or literally any hobby with a higher return on investment "
@@ -1495,39 +1681,87 @@ def generate_roast(name, results):
             f"and expecting different results — and {first} has turned that into a multi-year lifestyle. "
             f"But you know what? The sport needs people like {first}. Every bracket needs a first-round opponent. "
             f"Every tournament needs entry fees. And every champion needs someone to beat on the way to the title. "
-            f"So from the bottom of our hearts, {first}: thank you for your service. We mean that. Mostly.")
+            f"So from the bottom of our hearts, {first}: thank you for your service. We mean that. Mostly.",
+
+            f"After {len(seasons_map)} seasons and {total_entries} entries without a title, most reasonable "
+            f"humans would consider the data, accept the hypothesis, and pivot to pickleball. But {first} is "
+            f"not most humans. {first} is a force of nature — a badminton Sisyphus, rolling the shuttle uphill "
+            f"one tournament at a time, watching it roll back down, and showing up next weekend to do it again. "
+            f"The racket bag is always packed. The entry form is always submitted. The result is always the same. "
+            f"And somehow, that makes {first} the most interesting player on this list. Keep going, {first}. "
+            f"The sport is better with you in it — and the roasts are certainly better.",
+
+            f"{len(seasons_map)} seasons. {total_entries} entries. Zero titles. If this were a stock, the SEC "
+            f"would have delisted it by now. If this were a restaurant, the health inspector would have questions. "
+            f"If this were a dating profile, the app would gently suggest 'trying a different approach.' "
+            f"But this is junior badminton, where hope springs eternal and so does {first}'s entry form. "
+            f"We salute the commitment. We question the strategy. We will absolutely be back next season to "
+            f"see if anything changes. (It will not.)",
+        ]
+        closer = rng.choice(no_win_closers)
     elif len(seasons_map) >= 2 and wins:
-        closer = (
+        headline = ('Pan Am medal' if panam_results and panam_best <= 4
+                     else 'national title' if jn_wins
+                     else 'Selection Event appearance' if sel_results
+                     else 'ORC victories' if orc_wins else 'local titles')
+        win_closers = [
             f"So where does this leave us? {len(seasons_map)} seasons deep, {len(wins)} "
-            f"title{'s' if len(wins)!=1 else ''} to the name, {total_entries} entries, "
-            f"and {total_entries - len(wins)} losses. If you squint at the highlights — the "
-            f"{'Pan Am medal' if panam_results and panam_best <= 4 else 'national title' if jn_wins else 'Selection Event appearance' if sel_results else 'ORC victories' if orc_wins else 'local titles'}"
-            f", the big wins, the moments of genuine brilliance — {first} looks like a player on the rise. "
-            f"But we did not squint. We pulled up every single entry, every draw, every result, and what we "
-            f"found is a player who {'chokes in finals like it is a hobby' if len(finals) >= 3 else 'has a complicated relationship with winning'}, "
-            f"{'cannot win a singles match to save their life' if s_results and not s_wins else 'treats seeds like suggestions' if len(seeded_losses) >= 3 else 'keeps searching for the right doubles partner like a bad dating app' if num_partners >= 8 else 'is still figuring it out'}, "
-            f"and travels the country paying entry fees with the enthusiasm of someone who truly believes the "
-            f"next tournament will be different. And maybe it will be. But probably not. The data is not on "
-            f"{first}'s side, but the human spirit is a powerful thing, and {first} has enough of it to "
-            f"power a small city. So keep swinging, {first}. The shuttle tube industry thanks you. "
-            f"The tournament organizers thank you. The opponents who padded their records against you "
-            f"thank you most of all. We will be watching.")
+            f"title{'s' if len(wins)!=1 else ''}, {total_entries} entries, "
+            f"and {total_entries - len(wins)} that ended without a trophy. "
+            f"{'A player who ' + personal_zing + '. ' if personal_zing else ''}"
+            f"If you squint at the highlights — the {headline}, the moments of brilliance — "
+            f"{first} looks like a contender. We did not squint. We used a microscope. And the data "
+            f"paints a portrait of a player who is equal parts talented and maddening — the kind who "
+            f"gives you just enough to keep believing, and then just enough disappointment to keep you "
+            f"humble. The shuttle tube industry thanks you, {first}. We will be watching.",
+
+            f"In the end, {first}'s record reads like a choose-your-own-adventure book where most paths "
+            f"lead to the parking lot. {len(wins)} title{'s' if len(wins)!=1 else ''} shine bright, "
+            f"but they are surrounded by {total_entries - len(wins)} entries that ended with a handshake "
+            f"and a quiet walk off court. "
+            f"{'For context: ' + first + ' is a player who ' + personal_zing + '. ' if personal_zing else ''}"
+            f"Will {first} figure it out? Will the next tournament be the breakthrough? History says no. "
+            f"The human spirit says maybe. {first}'s credit card statement says the entry fee is already paid. "
+            f"See you at the next one.",
+
+            f"The {first} story is not a tragedy — it is a very long comedy with occasional dramatic moments. "
+            f"{len(wins)} title{'s' if len(wins)!=1 else ''} across {len(seasons_map)} seasons is not nothing — "
+            f"it is just a lot less than the talent and the frequent-flyer miles would suggest. "
+            f"{'After all, this is someone who ' + personal_zing + '. ' if personal_zing else ''}"
+            f"But every season {first} comes back, and every season we get new material. "
+            f"For that alone, {first}, we are genuinely grateful. Never change. Or actually, please change — "
+            f"the finals record is giving us anxiety.",
+        ]
+        closer = rng.choice(win_closers)
     elif len(seasons_map) >= 2:
-        closer = (
+        multi_season_closers = [
             f"Season after season, {first} keeps coming back — packing the bag, paying the fees, "
             f"driving to gyms in cities {first} has never been to, and doing it all over again. Some people "
             f"call that grit. Some people call that stubbornness. Some people call that a refusal to read "
             f"a spreadsheet. Whatever it is, the junior circuit would genuinely not be the same without "
-            f"{first}, and we mean that in every possible interpretation of the sentence. Keep swinging, "
-            f"{first}. We will be here, taking notes.")
+            f"{first}, and we mean that in every possible interpretation of the sentence.",
+
+            f"Look, we have been harsh. That is the job. But here is the truth buried under all the "
+            f"sarcasm: {first} keeps showing up. In a sport where most kids quit after one bad tournament, "
+            f"{first} has survived {len(seasons_map)} seasons, and that alone is worth something. "
+            f"Not a trophy, obviously — {first} knows that better than anyone — but something. "
+            f"{'Also, ' + first + ' ' + personal_zing + ', which we felt needed mentioning one more time.' if personal_zing else 'We will be here next season, spreadsheet ready.'}",
+        ]
+        closer = rng.choice(multi_season_closers)
     else:
-        closer = (
+        new_closers = [
             f"{first} is just getting started on the circuit, which means there is still time. Time to "
             f"turn this around, time to find a groove, time to become the player the entry form says "
             f"{first} wants to be. Or — and this is statistically more likely — time to accumulate a much "
             f"longer and more detailed record of losing, which will make for an even better roast in two "
-            f"years. Either way, we are invested now. Welcome to junior badminton, {first}, where the "
-            f"shuttles are fast, the parents are intense, and the entry fees never stop. We will be watching.")
+            f"years. Either way, we are invested now.",
+
+            f"With only {total_entries} entries on the books, {first} is basically a rookie — which is "
+            f"the nicest possible way of saying 'there is not enough data to roast properly yet.' "
+            f"But give it time. The circuit is long, the shuttles are expensive, and we are patient. "
+            f"Come back in a season, {first}. We will have more material. We always do.",
+        ]
+        closer = rng.choice(new_closers)
     paras.append(closer)
 
     return "\n".join(f"<p>{p}</p>" for p in paras)
