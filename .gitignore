@@ -11,3 +11,10 @@ search_tournaments.py
 data/dfw_*.csv
 data/dfw_*.txt
 data/jr-ranking-mar-2026.xlsx
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
