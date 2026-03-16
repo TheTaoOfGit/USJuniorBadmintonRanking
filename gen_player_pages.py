@@ -57,6 +57,79 @@ def load_all_results():
                     all_results.append(row)
     return all_results
 
+def load_panam_results_as_csv():
+    """Load Pan Am podium data and return as CSV-format rows matching draw CSV fields."""
+    PANAM_TOURNAMENTS = [
+        (3135, "2017 Pan Am Junior", "2017-07-15/2017-07-22"),
+        (3221, "2018 Pan Am Junior", "2018-07-15/2018-07-22"),
+        (3528, "2019 Pan Am Junior", "2019-07-15/2019-07-22"),
+        (4454, "2022 Pan Am Junior", "2022-07-15/2022-07-22"),
+        (4797, "2023 Pan Am Junior", "2023-07-15/2023-07-22"),
+        (5120, "2024 Pan Am Junior", "2024-07-15/2024-07-22"),
+        (5394, "2025 Pan Am Junior", "2025-07-15/2025-07-22"),
+        (5545, "2025 Pan Am Junior", "2025-07-15/2025-07-22"),
+    ]
+    rows = []
+    for tid, tname, dates in PANAM_TOURNAMENTS:
+        for pattern in [f'data/panam_raw_{tid}.json', f'data/panam_2025_raw_{tid}.json']:
+            if os.path.exists(pattern):
+                with open(pattern, encoding='utf-8') as f:
+                    data = json.load(f)
+                break
+        else:
+            continue
+        for resp in data:
+            for event in resp.get('results', []):
+                event_label = event.get('label') or event.get('name') or '?'
+                mapping = {'MS': 'BS', 'WS': 'GS', 'MD': 'BD', 'WD': 'GD', 'XD': 'XD'}
+                for bwf, std in mapping.items():
+                    if event_label.startswith(bwf):
+                        rest = event_label[len(bwf):].replace('-', ' ').strip()
+                        event_label = f"{std} {rest}" if rest else std
+                        break
+                winners = event.get('winners', {})
+                if isinstance(winners, dict):
+                    winner_list = [v for v in winners.values() if isinstance(v, dict)]
+                elif isinstance(winners, list):
+                    winner_list = [w for w in winners if isinstance(w, dict)]
+                else:
+                    winner_list = []
+                for w in winner_list:
+                    c1 = w.get('player1_country_code', '')
+                    c2 = w.get('player2_country_code')
+                    if c1 != 'USA' and c2 != 'USA':
+                        continue
+                    pos = str(w.get('position', '?'))
+                    if pos == '1': rank_lo, rank_hi = 1, 1
+                    elif pos == '2': rank_lo, rank_hi = 2, 2
+                    elif pos in ('3/4', '3', '4'): rank_lo, rank_hi = 3, 4
+                    else: rank_lo, rank_hi = 5, 8
+                    def fix_name(raw):
+                        parts = raw.rsplit(' ', 1)
+                        if len(parts) == 2:
+                            return f"{parts[0]} {parts[1].title()}"
+                        return raw
+                    p1 = fix_name(f"{w.get('player1_firstname', '')} {w.get('player1_lastname', '')}".strip())
+                    p2 = None
+                    if w.get('player2_firstname'):
+                        p2 = fix_name(f"{w['player2_firstname']} {w.get('player2_lastname', '')}".strip())
+                    player_field = f"{p1}{p2}" if p2 else p1
+                    if c1 == 'USA':
+                        rows.append({
+                            'tournament': tname, 'dates': dates, 'event': event_label,
+                            'player': player_field, 'seed': '', 'state': '',
+                            'draw_pos': '0', 'rank_lo': str(rank_lo), 'rank_hi': str(rank_hi),
+                            'elim_round': '',
+                        })
+                    if p2 and c2 == 'USA':
+                        rows.append({
+                            'tournament': tname, 'dates': dates, 'event': event_label,
+                            'player': player_field, 'seed': '', 'state': '',
+                            'draw_pos': '0', 'rank_lo': str(rank_lo), 'rank_hi': str(rank_hi),
+                            'elim_round': '',
+                        })
+    return rows
+
 def clean_name(raw):
     return re.sub(r'\s*\[[\w/]*\]', '', raw).replace('*', '').strip()
 
@@ -84,14 +157,15 @@ def slugify(name):
     return re.sub(r'[^a-z0-9]+', '_', name.lower()).strip('_')
 
 def tournament_tier(tournament_name):
+    if 'Pan Am' in tournament_name: return 'PANAM'
     if 'Selection' in tournament_name: return 'SEL'
     if 'National' in tournament_name: return 'JN'
     if 'ORC' in tournament_name: return 'ORC'
     if 'CRC' in tournament_name: return 'CRC'
     return 'OLC'
 
-TIER_LABELS = {'SEL': 'U.S. Selection Event', 'JN': 'Junior Nationals', 'ORC': 'Open Regional Championship', 'CRC': 'Club Regional Championship', 'OLC': 'Open Local Championship'}
-TIER_RANK = {'SEL': 4, 'JN': 3, 'ORC': 2, 'CRC': 1, 'OLC': 0}
+TIER_LABELS = {'PANAM': 'Pan Am Junior Championships', 'SEL': 'U.S. Selection Event', 'JN': 'Junior Nationals', 'ORC': 'Open Regional Championship', 'CRC': 'Club Regional Championship', 'OLC': 'Open Local Championship'}
+TIER_RANK = {'PANAM': 5, 'SEL': 4, 'JN': 3, 'ORC': 2, 'CRC': 1, 'OLC': 0}
 
 def is_singles(event):
     return event.startswith('BS') or event.startswith('GS') or 'Singles' in event
@@ -130,7 +204,9 @@ except FileNotFoundError:
 # ── Load all results & build player index ────────────────────────────────────
 print("Loading all results...")
 all_results = load_all_results()
-print(f"  {len(all_results)} total rows")
+panam_rows = load_panam_results_as_csv()
+all_results.extend(panam_rows)
+print(f"  {len(all_results)} total rows ({len(panam_rows)} Pan Am)")
 
 player_names = set()
 for r in all_results:
@@ -207,6 +283,9 @@ def generate_summary(name, results):
         if int(r['rank_lo']) == 1: tier_wins[t].append(r)
         if int(r['rank_lo']) <= 4: tier_podiums[t].append(r)
 
+    panam_results = tier_results.get('PANAM', [])
+    panam_wins = tier_wins.get('PANAM', [])
+    panam_podiums = tier_podiums.get('PANAM', [])
     sel_results = tier_results.get('SEL', [])
     sel_podiums = tier_podiums.get('SEL', [])
     jn_results = tier_results.get('JN', [])
@@ -313,7 +392,7 @@ def generate_summary(name, results):
 
     # === OPENING — tier-aware identity ===
     highest_tier = 'OLC'
-    for t in ['SEL', 'JN', 'ORC', 'CRC']:
+    for t in ['PANAM', 'SEL', 'JN', 'ORC', 'CRC']:
         if tier_results.get(t):
             highest_tier = t
             break
@@ -334,7 +413,27 @@ def generate_summary(name, results):
     if current_ag:
         ag_intro = f"currently competing at the <strong>{current_ag}</strong> level, "
 
-    if sel_podiums:
+    if panam_podiums:
+        best_panam = min(int(r['rank_lo']) for r in panam_podiums)
+        panam_events = list(set(r['event'] for r in panam_podiums))
+        panam_years = sorted(set(r['tournament'].split()[0] for r in panam_podiums))
+        medal_word = {1: 'gold medalist', 2: 'silver medalist'}.get(best_panam, 'bronze medalist')
+        if best_panam == 1:
+            paras.append(f"{state_intro}{name} is a <strong>Pan American Junior Championships {medal_word}</strong> — "
+                         f"representing the United States on the international stage and coming home with gold. "
+                         f"Winning at the Pan Am Junior Championships ({', '.join(panam_events)}) is an elite, "
+                         f"continent-level achievement. With {len(wins)} career titles across {num_tournaments} tournaments, "
+                         f"this is a player who delivers on the biggest stages.")
+        elif best_panam <= 4:
+            paras.append(f"{state_intro}{name} is a <strong>Pan American Junior Championships {medal_word}</strong>, "
+                         f"earning a podium finish representing the USA against the best young players in the Western Hemisphere "
+                         f"({', '.join(panam_events)}). A top-{best_panam} finish at the Pan Am Juniors puts {first} "
+                         f"in rarified international company.")
+        else:
+            paras.append(f"{state_intro}{name} has <strong>represented the United States at the Pan American Junior Championships</strong> "
+                         f"({', '.join(panam_years)}), competing against the top juniors from across the Americas. "
+                         f"Simply being selected to compete internationally signals elite national-level talent.")
+    elif sel_podiums:
         best_sel = min(int(r['rank_lo']) for r in sel_podiums)
         sel_events = list(set(r['event'] for r in sel_podiums))
         if best_sel == 1:
@@ -559,6 +658,15 @@ def generate_summary(name, results):
 
     # === TOURNAMENT TIER HIGHLIGHTS ===
     sig_parts = []
+    if panam_podiums:
+        best_panam = min(int(r['rank_lo']) for r in panam_podiums)
+        panam_events = list(set(r['event'] for r in panam_podiums))
+        panam_years = sorted(set(r['tournament'].split()[0] for r in panam_podiums))
+        medal_word = {1: 'champion', 2: 'silver medalist'}.get(best_panam, 'bronze medalist')
+        sig_parts.append(f"<strong>Pan Am Junior {medal_word}</strong> ({', '.join(panam_events)}, {', '.join(panam_years)})")
+    elif panam_results:
+        panam_years = sorted(set(r['tournament'].split()[0] for r in panam_results))
+        sig_parts.append(f"Pan Am Junior Championships competitor ({', '.join(panam_years)})")
     if sel_podiums:
         best_sel = min(int(r['rank_lo']) for r in sel_podiums)
         sel_events = list(set(r['event'] for r in sel_podiums))
@@ -890,6 +998,8 @@ def generate_roast(name, results):
     earlier_seasons_results = [r for s in season_keys[:-1] for r in seasons_map[s]] if len(season_keys) >= 2 else []
     earlier_wins = [r for r in earlier_seasons_results if int(r['rank_lo']) == 1]
 
+    panam_results = tier_results.get('PANAM', [])
+    panam_wins = tier_wins.get('PANAM', [])
     jn_results = tier_results.get('JN', [])
     jn_wins = tier_wins.get('JN', [])
     sel_results = tier_results.get('SEL', [])
@@ -913,6 +1023,8 @@ def generate_roast(name, results):
     jn_champ_events = list(set(r['event'] for r in jn_wins)) if jn_wins else []
     sel_best = min((int(r['rank_lo']) for r in sel_results), default=999)
     jn_best = min((int(r['rank_lo']) for r in jn_results), default=999)
+    panam_best = min((int(r['rank_lo']) for r in panam_results), default=999)
+    panam_events_list = list(set(r['event'] for r in panam_results)) if panam_results else []
 
     tourn_entries = defaultdict(list)
     for r in results_sorted:
@@ -934,7 +1046,32 @@ def generate_roast(name, results):
         intro += f", currently competing{ag_note}"
     intro += ". "
 
-    if sel_results and sel_best == 1:
+    if panam_results and panam_best <= 4:
+        medal = {1: 'gold', 2: 'silver'}.get(panam_best, 'bronze')
+        intro += (f"Now, we need to address the elephant in the room: {first} is a Pan American Junior Championships "
+                  f"{medal} medalist ({', '.join(panam_events_list)}), which means {first} has literally represented "
+                  f"the United States of America on the international stage and come home with hardware. That is genuinely "
+                  f"impressive, and {first}'s parents have probably mentioned it to every relative, neighbor, and grocery "
+                  f"store cashier within a 50-mile radius. ")
+        if panam_best == 1:
+            intro += (f"A Pan Am gold medal. International champion. The real deal. We would love to end the story "
+                      f"right here, but unfortunately there are {total_entries} career entries to discuss and a "
+                      f"{win_rate:.0f}% overall win rate that suggests the Pan Am gold was the peak of a very "
+                      f"pointy mountain with a LOT of valley on either side. Let's dig in.")
+        else:
+            intro += (f"But here is the thing about a {medal} medal: it means {first} went all the way to an "
+                      f"international championship and STILL did not win. {first} represented an entire country "
+                      f"and came home with the consolation prize. Across {total_entries} career entries and a "
+                      f"{win_rate:.0f}% win rate, the Pan Am {medal} is the crown jewel of a résumé that is "
+                      f"otherwise... well, let's just say we have {total_entries} entries worth of material.")
+    elif panam_results:
+        intro += (f"Hold on — {first} has competed at the Pan American Junior Championships. That is an international "
+                  f"tournament where you literally represent your country. Sounds amazing, right? Except {first} "
+                  f"finished with a best of top-{panam_best}, which means {first} flew to another country, wore the "
+                  f"red-white-and-blue, stepped on court as a representative of the United States... and got bounced "
+                  f"before the podium was even set up. Patriotism is beautiful. The results were not. Moving on to "
+                  f"the other {total_entries - len(panam_results)} career entries.")
+    elif sel_results and sel_best == 1:
         intro += (f"Now, before we get started, we do need to acknowledge that {first} is a U.S. Selection "
                   f"Event champion, which means {first} has literally been chosen to represent this country on "
                   f"the international stage. That is an extraordinary accomplishment and {first} would very much "
@@ -1200,7 +1337,7 @@ def generate_roast(name, results):
     # ── PARAGRAPH 5: BIG STAGE & SEEDING ──
     p5_parts = []
     local_w = len(olc_wins) + len(crc_wins)
-    big_w = len(orc_wins) + len(jn_wins) + len(tier_wins.get('SEL', []))
+    big_w = len(panam_wins) + len(orc_wins) + len(jn_wins) + len(tier_wins.get('SEL', []))
     if local_w > 0 and big_w == 0 and orc_results:
         p5_parts.append(
             f"Now, about the quality of those wins. Every single one of {first}'s {local_w} "
@@ -1364,7 +1501,7 @@ def generate_roast(name, results):
             f"So where does this leave us? {len(seasons_map)} seasons deep, {len(wins)} "
             f"title{'s' if len(wins)!=1 else ''} to the name, {total_entries} entries, "
             f"and {total_entries - len(wins)} losses. If you squint at the highlights — the "
-            f"{'national title' if jn_wins else 'Selection Event appearance' if sel_results else 'ORC victories' if orc_wins else 'local titles'}"
+            f"{'Pan Am medal' if panam_results and panam_best <= 4 else 'national title' if jn_wins else 'Selection Event appearance' if sel_results else 'ORC victories' if orc_wins else 'local titles'}"
             f", the big wins, the moments of genuine brilliance — {first} looks like a player on the rise. "
             f"But we did not squint. We pulled up every single entry, every draw, every result, and what we "
             f"found is a player who {'chokes in finals like it is a hobby' if len(finals) >= 3 else 'has a complicated relationship with winning'}, "

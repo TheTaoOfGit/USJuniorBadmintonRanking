@@ -41,6 +41,8 @@ TOURNAMENT_TYPES = {
     '2026_DFW_South_ORC':      'ORC',
     '2026_Dave_Freeman_OLC':   'OLC',
     '2026_Seattle_NW_CRC':     'OLC',
+    '2026_PlayNThrive_MW_CRC': 'OLC',
+    '2026_Bintang_NorCal_OLC': 'OLC',
 }
 
 # ── Points table ─────────────────────────────────────────────────────────────
@@ -255,6 +257,77 @@ for fname in sorted(os.listdir(DRAWS_DIR)):
                 'points':     pts,
             })
 
+# ── Determine each player's floor age group from the official eligible list ───
+# A player's lowest listed age group is their floor — no points below it.
+# They CAN earn points in higher age groups if they played up in an official tournament.
+AGE_LEVELS = {'U11': 0, 'U13': 1, 'U15': 2, 'U17': 3, 'U19': 4}
+AGE_BY_LEVEL = {v: k for k, v in AGE_LEVELS.items()}
+
+# player_floor_age[(name, discipline)] = lowest age level from official eligible list
+player_floor_age = {}
+for (disc, age), names in ELIGIBLE_FULL.items():
+    level = AGE_LEVELS.get(age)
+    if level is None:
+        continue
+    for full_name in names:
+        key = (full_name, disc)
+        if key not in player_floor_age or level < player_floor_age[key]:
+            player_floor_age[key] = level
+# Also check by first/last key for players whose names don't exactly match
+player_floor_age_by_key = {}
+for (disc, age), keys in ELIGIBLE_KEYS.items():
+    level = AGE_LEVELS.get(age)
+    if level is None:
+        continue
+    for nk in keys:
+        key = (nk, disc)
+        if key not in player_floor_age_by_key or level < player_floor_age_by_key[key]:
+            player_floor_age_by_key[key] = level
+
+def get_floor_level(player_name, discipline):
+    """Return the lowest age level this player is listed for (from official list)."""
+    fl = player_floor_age.get((player_name, discipline))
+    if fl is not None:
+        return fl
+    nk = _name_key(player_name)
+    if nk:
+        fl = player_floor_age_by_key.get((nk, discipline))
+        if fl is not None:
+            return fl
+    return None  # not on any official list
+
+# ── Build "played-in" set: players who actually competed in a discipline+age ──
+played_in = set()  # (normalized_name, discipline, age_group)
+for r in all_results:
+    individuals = split_doubles_players(r['player'], r['discipline'])
+    for raw_name in individuals:
+        name = normalize_name(raw_name)
+        if name:
+            played_in.add((name, r['discipline'], r['age_group']))
+
+def is_eligible_extended(player_name, discipline, age_group):
+    """
+    Eligible if:
+      1. On the official list for this discipline+age, OR
+      2. Has played up into this age group at an official tournament
+         AND this age group is >= their floor age group from the official list.
+    Never eligible below their floor age group.
+    """
+    if _is_overridden(player_name, discipline, age_group):
+        return False
+    target_level = AGE_LEVELS.get(age_group)
+    if target_level is None:
+        return False
+    floor = get_floor_level(player_name, discipline)
+    if floor is not None and target_level < floor:
+        return False  # never earn points below floor age group
+    if is_eligible(player_name, discipline, age_group):
+        return True
+    # Allow if they played in this age group AND have a floor (i.e. are on the official list)
+    if floor is not None and (player_name, discipline, age_group) in played_in:
+        return True
+    return False
+
 # ── Group by player + discipline + age_group ─────────────────────────────────
 # For doubles, split pair strings into individual player names so each person
 # gets their own ranking entry.
@@ -271,12 +344,12 @@ for r in all_results:
         OLDER_AGE = {'U11': 'U13', 'U13': 'U15', 'U15': 'U17', 'U17': 'U19'}
         entry = dict(r, player=name)
         added = False
-        # Count in the event's own age group if eligible
-        if is_eligible(name, r['discipline'], event_age):
+        # Count in the event's own age group if eligible (official list or played-up)
+        if is_eligible_extended(name, r['discipline'], event_age):
             player_results[(name, r['discipline'], event_age)].append(entry)
             added = True
         # Also carry up to the older age group if eligible there
-        if event_age in OLDER_AGE and is_eligible(name, r['discipline'], OLDER_AGE[event_age]):
+        if event_age in OLDER_AGE and is_eligible_extended(name, r['discipline'], OLDER_AGE[event_age]):
             player_results[(name, r['discipline'], OLDER_AGE[event_age])].append(entry)
             added = True
         if not added:
